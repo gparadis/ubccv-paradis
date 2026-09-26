@@ -1,0 +1,708 @@
+statement: I specialize in operational research, mathematical modelling, forest management planning, and
+  forest engineering, integrating academic and real-world insights. My focus includes forest ecosystem
+  process modelling, forest resource analysis, forest estate modelling, forest economics, and environmental
+  sustainability, notably carbon accounting for forest ecosystems and forest products. A key accomplishment
+  is developing FRST 422, a capstone course linking theory with practice, enhancing students' critical
+  thinking and problem-solving skills. This course also serves as a precursor to FRST 423. Additionally,
+  I am creating a new module in FRST 558 on forest management and resource analysis, leveraging my experience
+  as a forester, engineer, and forest estate modelling expert. Both FRST 422 and FRST 558 aim to equip
+  students with essential knowledge and technical skills for their future careers as forest professionals.
+courses_ubc:
+  - group: 2025–2026
+    entries:
+      - session: 2025W1
+        course: FRST 422
+        scheduled_hours: '9'
+        class_size: '50'
+        lectures: '2'
+        tutorials: '6'
+        other: '1'
+      - session: 2025W2
+        course: FRST 558
+        scheduled_hours: '5'
+        class_size: '30'
+        lectures: '1'
+        tutorials: '3'
+        other: '1'
+  - group: 2024-2025
+    entries:
+      - session: 2024W1
+        course: FRST 422
+        scheduled_hours: '9'
+        class_size: '50'
+        lectures: '2'
+        tutorials: '6'
+        other: '1'
+      - session: 2024W2
+        course: FRST 558
+        scheduled_hours: '5'
+        class_size: '30'
+        lectures: '1'
+        tutorials: '3'
+        other: '1'
+  - group: 2023–2024
+    entries:
+      - session: 2023W1
+        course: FRST 422
+        scheduled_hours: '9'
+        class_size: '50'
+        lectures: '2'
+        tutorials: '6'
+        other: '1'
+      - session: 2023W2
+        course: FRST 558
+        scheduled_hours: '5'
+        class_size: '30'
+        lectures: '1'
+        tutorials: '3'
+        other: '1'
+  - group: 2022–2023
+    entries: []
+  - group: 2021–2022
+    entries:
+      - session: 2021W1
+        course: FRST 422
+        scheduled_hours: '9'
+        class_size: '65'
+        lectures: '2'
+        tutorials: '6'
+        other: '1'
+      - session: 2021W1
+        course: FRST 422 DE
+        scheduled_hours: '2'
+        class_size: '15'
+        other: '2'
+  - group: 2020–2021
+    entries:
+      - session: 2020W1
+        course: FRST 422
+        scheduled_hours: '9'
+        class_size: '65'
+        lectures: '2'
+        tutorials: '6'
+        other: '1'
+      - session: 2020W2
+        course: FRST 318
+        scheduled_hours: '9'
+        class_size: '120'
+        lectures: '2'
+        tutorials: '6'
+        other: '1'
+  - group: 2019–2020
+    entries:
+      - session: 2019W1
+        course: FRST 422
+        scheduled_hours: '9'
+        class_size: '65'
+        lectures: '2'
+        tutorials: '6'
+        other: '1'
+      - session: 2019W2
+        course: FRST 318
+        scheduled_hours: '9'
+        class_size: '120'
+        lectures: '2'
+        tutorials: '6'
+        other: '1'
+  - group: 2018–2019
+    entries:
+      - session: 2018W2
+        course: FRST 318
+        scheduled_hours: '9'
+        class_size: '120'
+        lectures: '2'
+        tutorials: '6'
+        other: '1'
+      - session: 2018W2
+        course: FRST 424
+        scheduled_hours: '8'
+        class_size: '65'
+        tutorials: '4'
+        other: '4'
+      - session: 2019S2
+        course: VSP
+        scheduled_hours: '12'
+        class_size: '50'
+        lectures: '12'
+  - group: 2017–2018
+    entries:
+      - session: 2017W2
+        course: FRST 424
+        scheduled_hours: '8'
+        tutorials: '4'
+        other: '4'
+      - session: 2018S2
+        course: VSP
+        scheduled_hours: '12'
+        lectures: '12'
+  - group: 2016–2017
+    entries:
+      - session: 2017S2
+        course: VSP
+        scheduled_hours: '12'
+        lectures: '12'
+course_descriptions:
+  - code: FRST 558
+    title: Landscape-Level Forest Land Management
+    credits: '7'
+    contact_pattern: 0-0-0
+    description: Preparation of landscape-level sustainable forest management plans that integrate ecological,
+      social and economic components.
+  - code: FRST 422
+    title: Mathematical Modelling in Forest Resource Analysis
+    credits: '3'
+    contact_pattern: 2-0-3
+    description: Modelling techniques used in strategic and tactical forest resources analyses.
+  - code: FRST 422 DE
+    title: Mathematical Modelling in Forest Resource Analysis
+    credits: '3'
+    contact_pattern: 0-0-0
+    description: Modelling techniques used in strategic and tactical forest resources analyses. Distance
+      education course, online (with live weekly office hours via Zoom videoconference).
+  - code: FRST 318
+    title: Forest and Conservation Economics
+    credits: '3'
+    contact_pattern: 2-3-0
+    description: Practical problem solving of economic issues related to forestry and conservation, touching
+      on investment analysis, capital budgeting, non-timber economics, ecosystem services, and forest
+      certification.
+  - code: FRST 424
+    title: Sustainable Forest Management
+    credits: '10'
+    contact_pattern: 6-2-4
+    description: Forest management designs to identify and integrate economic, social, and environmental
+      objectives across a forested landscape both strategically and tactically.
+  - code: VSP
+    title: Sustainable Forest Management
+    contact_pattern: 12-0-0
+    description: Introduction to sustainable forest management concepts, applied to a British Columbia
+      context. Intensive 6-week course offered as part of the Vancouver Summer Program.
+graduate_research_supervision:
+  - group: PDF and RA Supervision
+    entries:
+      - student: Elaheh Ghasemi
+        program: PDF
+        start: '2023'
+        finish: '2026'
+        role: Supervisor
+      - student: Salar Ghotb
+        program: PDF
+        start: '2023'
+        finish: '2025'
+        role: Supervisor
+      - student: Tatiane Micheletti
+        program: PDF
+        start: '2022'
+        finish: '2023'
+        role: Supervisor
+      - student: Valentine Lafond
+        program: RA
+        start: '2023'
+        finish: '2023'
+        role: Supervisor
+      - student: Valentine Lafond
+        program: PDF
+        start: '2022'
+        finish: '2023'
+        role: Supervisor
+      - student: Kathleen Coupland
+        program: RA
+        start: '2024'
+        role: Supervisor
+      - student: Kathleen Coupland
+        program: PDF
+        start: '2023'
+        finish: '2023'
+        role: Supervisor
+  - group: MSc Supervision
+    entries:
+      - student: Thomas Cooper
+        program: MSc
+        start: '2026'
+        role: Supervisor (pending admission)
+      - student: Jamie Iversen
+        program: MASc
+        start: '2025'
+        role: Supervisor
+      - student: Yunhao Xu
+        program: MASc
+        start: '2024'
+        role: Supervisor
+      - student: Rosalia Jaffray
+        program: MASc
+        start: '2024'
+        finish: '2026'
+        role: Supervisor
+      - student: Yancun Yan
+        program: MSc
+        start: '2022'
+        finish: '2025'
+        role: Supervisor
+      - student: Jinming Ke
+        program: MSc
+        start: '2021'
+        finish: '2023'
+        role: Supervisor
+graduate_program_supervision:
+  - group: ''
+    entries:
+      - student: Gloria Mensah
+        program: PhD
+        start: '2025'
+        role: Committee member
+      - student: Samuel Clement
+        program: MSc
+        start: '2024'
+        finish: '2026'
+        role: Committee member
+      - student: Hanno Southam
+        program: MSc
+        start: '2024'
+        finish: '2025'
+        role: Committee member
+      - student: Arwa Abougharib
+        program: PhD
+        start: '2023'
+        role: Committee member
+      - student: Soroush Aghamohamadi Bosjin
+        program: PhD
+        start: '2023'
+        finish: '2024'
+        role: Committee member
+      - student: Alex Noël
+        program: PhD
+        start: '2022'
+        finish: DNF
+        role: Committee member
+      - student: Bidhan Bhuson Roy
+        program: PhD
+        start: '2021'
+        role: Committee member
+      - student: Sahar Ahmadvand
+        program: PhD
+        start: '2020'
+        finish: '2023'
+        role: Committee member
+continuing_education:
+  developed_and_presented:
+    - title: 'Nature-Based Solutions in Mining: Using Decision Support Systems to Guide Action'
+      host: UBC BRIMM
+      role: Co-organizer and Presenter
+      date: 2026/05/27
+      hours: '1.0'
+    - title: Carbon Offset Workshop (working title)
+      host: UBC
+      role: Co-facilitator
+      date: 2026/05/04
+      hours: '8.0'
+    - title: BPI Research Day 2026
+      host: UBC BPI
+      role: MC
+      date: 2026/05/01
+      hours: '4.0'
+    - title: 'Carbon Offsets: Climate Action or Sustainability Illusion?'
+      host: UBC Sustainability
+      role: Co-facilitator
+      date: 2025/11/12
+      hours: '1.5'
+    - title: BPI Connect 2025
+      host: UBC BPI
+      role: MC
+      date: 2025/12/xx
+      hours: '4.0'
+    - title: Lab Data Workflow Workshop
+      host: UBC FRESH
+      role: Organizer
+      date: 2025/09/xx
+      hours: '8.0'
+    - title: BPI Research Day
+      host: UBC BPI
+      role: MC
+      date: 2025/05/02
+      hours: '4.0'
+    - title: Introduction to Forest Estate Modelling with Patchworks Workshop (for MKRF staff)
+      host: UBC FoF
+      role: Organizer
+      date: 2025/03/17
+      hours: '6.0'
+    - title: BPI Connect 2024
+      host: UBC BPI
+      role: MC
+      date: 2024/12/06
+      hours: '4.0'
+    - title: Using timber in the built environment
+      host: UBC FoF
+      role: Organizer
+      date: 2024/10/31
+      hours: '6.0'
+    - title: BPI Community Day
+      host: UBC BPI
+      role: MC
+      date: 2023/03/30
+      hours: '6.0'
+    - title: Introduction to spades_ws3 software module
+      host: UBC FoF
+      role: Facilitator
+      date: 2021/10/12
+      hours: '2.0'
+    - title: Ensuring exams are effective tools for learning and assessment
+      host: UBC LFS
+      role: Co-presenter
+      date: 2021/08/13
+      hours: '1.0'
+    - title: Joint Forestry and LFS Teaching Colloquy
+      host: UBC FoF+LFS
+      role: Co-facilitator
+      date: 2021/06/04
+      hours: '2.0'
+    - title: Faculty of Forestry Undergraduate Student Focus Group Discussions
+      host: UBC FoF
+      role: Co-facilitator
+      date: 2020/06/10
+      hours: '2.0'
+    - title: Faculty of Forestry Undergraduate Student Focus Group Discussions
+      host: UBC FoF
+      role: Co-facilitator
+      date: 2020/06/11
+      hours: '2.0'
+  attended:
+    - title: 'Research Award Nominations: Why and How'
+      host: UBC FES
+      date: 2026/04/30
+      hours: '1.0'
+    - title: 'Negotiation to Innovation: Advancing Climate Action'
+      host: UBC
+      date: 2025/11/12
+      hours: '6.0'
+    - title: Tenure and Promotion Workshop
+      host: UBC
+      date: 2025/05/26
+      hours: '2.0'
+    - title: Disability at Work 101
+      host: UBC
+      date: 2025/03/25
+      hours: '1.0'
+    - title: 'Beyond Beakers & Flasks: The BioEconomy as a Socio-Technical System'
+      host: UBC BPI
+      date: 2025/02/21
+      hours: '2.0'
+    - title: Dataverse Training Workshop
+      host: UBC Libraries
+      date: 2025/03/11
+      hours: '1.5'
+    - title: BPI Media Training Workshop
+      host: UBC BPI
+      date: 2025/03/13
+      hours: '2.0'
+    - title: 2025 SISCO Winter Workshop
+      host: SISCO
+      date: |-
+        2025/03/04
+        2025/03/05
+      hours: |-
+        12.0
+        6.0
+    - title: Preventing and Responding to Sexual Misconduct
+      host: UBC
+      date: 2025/02/19
+      hours: '1.0'
+    - title: Joint event between UBC FoF and BC MoF
+      host: UBC FoF
+      date: 2024/11/13
+      hours: '9.0'
+    - title: Driving Purchases Beyond Pos at UBC, High Value Purchasing
+      host: UBC
+      date: 2024/08/17
+      hours: '1.0'
+    - title: Positive Space
+      host: UBC
+      date: 2024/07/15
+      hours: '1.0'
+    - title: Webinar - EDI in NSERC grants
+      host: UBC SPARC
+      date: 2024/04/30
+      hours: '2.0'
+    - title: Workshop on Graduate Supervision for New Faculty Members
+      host: UBC G+PS
+      date: 2024/03/24
+      hours: '2.0'
+    - title: 'Systemic Intervention: A Holistic Transition to a Bio-Material-Based Building Sector (New
+        York Climate Week Working Session)'
+      host: Wood at Work, Bauhaus Earth, Built by Nature
+      date: 2023/09/20
+      hours: '5.0'
+    - title: Inclusive Communications (workshop)
+      host: UBC BPI
+      date: 2023/03/30
+      hours: '2.0'
+    - title: Botanical Drawing (workshop)
+      host: UBC Belkin
+      date: 2023/03/13
+      hours: '2.0'
+    - title: Supporting Mental Health in the Workplace for Managers and Supervisors (online training module)
+      host: UBC WPL
+      date: 2023/02/28
+      hours: '2.0'
+    - title: Fibre Futures Seminar Series
+      host: UBC BPI
+      date: 2023/11/14 \ 2023/11/21 \ 2023/11/28
+      hours: 1.0 \ 1.0 \ 1.0
+    - title: 'Trimble Forestry: Connected Forest Software Training'
+      host: UBC FoF
+      date: 2023/06/23
+      hours: '2.0'
+    - title: Supporting Mentel Health in the Workplace for Managers and Supervisors
+      host: UBC
+      date: 2023/07/19
+      hours: '1.0'
+    - title: Peer Reviews of Teaching (workshop)
+      host: UBC FoF
+      date: 2022/06/21
+      hours: '1.5'
+    - title: Alternative Assessment Strategies to Help Students Stop Worrying About Grades and Focus on
+        Learning Instead (workshop)
+      host: UBC FoF
+      date: 2022/05/05
+      hours: '1.5'
+    - title: FVS-BC Workshop (UBC Faculty of Forestry workshop)
+      host: UBC FoF (Bianca Eskelson)
+      date: 2022/02/28 \ 2022/03/07 \ 2022/03/xx \ 2022/04/11
+      hours: 2.0 \ 2.0 \ 2.0 \ 2.0
+    - title: Grad School Admission processes in Forestry
+      host: UBC FoF
+      date: 2022/03/28
+      hours: '1.5'
+    - title: G+PS Workshop on Graduate Supervision for New Faculty Members
+      host: UBC G+PS
+      date: 2022/03/24
+      hours: '2.0'
+    - title: BPI EDI Workshop by Dr. Diego Gomez Maldonado
+      host: UBC BPI
+      date: 2022/02/14
+      hours: '1.0'
+    - title: 'Orientation for New Faculty part 2: promoting graduate student success'
+      host: UBC FoF
+      date: 2022/01/13
+      hours: '1.0'
+    - title: Orientation and Workshop on Graduate Supervision for New Faculty Members
+      host: UBC G+PS
+      date: 2021/11/04
+      hours: '2.0'
+    - title: Graduate Student Recruitment Workshop
+      host: UBC FoF
+      date: 2021/10/08
+      hours: '1.5'
+    - title: 'Inclusive Teaching: What is it and why does it matter?'
+      host: UBC CTLT
+      date: 2021/08/25
+      hours: '2.0'
+    - title: 'Hybrid Teaching and Learning Conversations: The Challenge of Flexibility'
+      host: UBC CTLT
+      date: 2021/08/23
+      hours: '1.5'
+    - title: UBC Go Forward COVID-19 Safety Planning Training
+      host: UBC
+      date: 2021/07/21
+      hours: '1.0'
+    - title: Joint Forestry and LFS Teaching Colloquy
+      host: UBC FoF+LFS
+      date: 2021/06/04
+      hours: '2.0'
+    - title: Collaborative Learning Annotation Systems
+      host: UBC LFS
+      date: 2020/12/18
+      hours: '1.0'
+    - title: Flexible Assessments
+      host: UBC LFS
+      date: 2020/12/11
+      hours: '1.0'
+    - title: Faculty Experience Sharing in Online Teaching
+      host: UBC FoF
+      date: 2020/12/01
+      hours: '1.0'
+    - title: Design and delivery of online courses with quality and student satisfaction
+      host: UBC FoF
+      date: 2020/07/06
+      hours: '1.0'
+    - title: 'Teaching Computer-based Labs Online: Lessons Learned from CONS 340'
+      host: UBC FoF
+      date: 2020/07/03
+      hours: '1.0'
+    - title: Balancing Synchronous & Asynchronous Activities and Building Connectivity in Online Learning
+        Environment
+      host: UBC FoF+CTLT
+      date: 2020/06/30
+      hours: '1.0'
+    - title: 'Canvas Commons: Learning Object and Open Education Resource Sharing Made Easy'
+      host: UBC CTLT
+      date: 2017/12/11
+      hours: '2.0'
+    - title: 'Lunch ''N'' Learn: Introduction to Canvas Basics'
+      host: UBC CTLT
+      date: 2017/10/11
+      hours: '2.0'
+    - title: University-wide New Faculty and Staff Welcome Orientation
+      host: UBC CTLT
+      date: 2017/08/31
+      hours: '2.0'
+visiting_lecturer:
+  - university: UBC
+    course: FRST XXX
+    topic: Sustainable Futures
+    date: 2025/11/18
+    hours: '2.0'
+  - university: UBC
+    course: FRST 422
+    topic: 'Ask An Expert: Forest Estate Modelling'
+    date: 2025/11/15
+    hours: '1.0'
+  - university: UBC
+    course: FRST 423
+    topic: 'Lecture: Modelling and Forest Management—Linkages to Carbon Flows and the Bioeconomy'
+    date: 2025/03/xx
+    hours: '1.0'
+  - university: UBC
+    course: FRST 555
+    topic: 'Lecture: criteria and indicators for sustainable forest management'
+    date: 2024/08/19
+    hours: '1.5'
+  - university: UBC
+    course: FRST 534
+    topic: 'Lecture: criteria and indicators for sustainable forest management'
+    date: 2024/02/xx
+    hours: '2.0'
+  - university: UBC
+    course: FRST 555
+    topic: 'Lecture: Introduction to forest management'
+    date: 2023/08/21
+    hours: '1.5'
+  - university: UBC
+    course: FRST 425
+    topic: 'Lecture: Introduction to mathematical modelling in forest resource analysis'
+    date: 2023/07/18
+    hours: '1.0'
+  - university: UBC
+    course: FRST 402
+    topic: 'Video: Registering as a Forest Professional in BC'
+    date: 2023/02/08
+    hours: '0.5'
+  - university: UBC
+    course: FRST 534
+    topic: 'Lecture: Role of models and modelling in the bioeconomy'
+    date: 2023/02/17
+    hours: '2.0'
+  - university: UBC
+    course: FRST 555
+    topic: 'Tutorial: Implementing performance indicators within forest estate models'
+    date: 2023/02/02
+    hours: '3.0'
+  - university: UBC
+    course: FRST 555
+    topic: 'Lecture: criteria and indicators for sustainable forest management'
+    date: 2022/08/25
+    hours: '2.0'
+  - university: UBC
+    course: FRST 555
+    topic: 'Lecture: criteria and indicators for sustainable forest management'
+    date: 2022/02/18
+    hours: '2.0'
+  - university: UBC
+    course: FRST 555
+    topic: 'Lecture: criteria and indicators for sustainable forest management'
+    date: 2021/08/xx
+    hours: '2.0'
+other:
+  directed_studies:
+    - session: 2019W2
+      course: FRST 449C
+      topic: Modelling commercial thinning treatments with Patchworks
+      credits: '3'
+  work_learn:
+    - student: Dawson Isbister
+      program: seed2STEM
+      start: 2025/07/02
+      end: 2025/08/15
+    - student: Xin Jia Guo
+      start: 2024/09/01
+      end: 2025/08/31
+    - student: Xin Jia Guo
+      program: NSERC USRA
+      start: 2024/05/13
+      end: 2024/08/30
+    - student: Yunhao Xu
+      start: 2024/05/06
+      end: 2024/06/28
+    - student: Yike Chen
+      program: UBC Vancouver Work Learn Internship
+      start: 2022/10/01
+      end: 2023/04/30
+    - student: Yike Chen
+      program: UBC Vancouver Work Learn International Undergraduate Research Internship
+      start: 2022/06/05
+      end: 2022/08/26
+    - student: Yancun Yan
+      program: UBC Vancouver Work Learn International Undergraduate Research Internship
+      start: 2022/05/09
+      end: 2022/08/26
+courses_prior_to_ubc:
+  - group: FOR-3003 (Projet en opérations forestières) [Université Laval)
+    entries:
+      - session: '2014'
+        course: FOR-3003
+        scheduled_hours: '4'
+        class_size: '30'
+        lectures: '2'
+        tutorials: '2'
+      - session: '2013'
+        course: FOR-3003
+        scheduled_hours: '4'
+        class_size: '30'
+        lectures: '2'
+        tutorials: '2'
+      - session: '2012'
+        course: FOR-3003
+        scheduled_hours: '4'
+        class_size: '30'
+        lectures: '2'
+        tutorials: '2'
+      - session: '2011'
+        course: FOR-3003
+        scheduled_hours: '4'
+        class_size: '30'
+        lectures: '2'
+        tutorials: '2'
+  - group: FE 3233 (Introduction to Operations Research) [University of New Brunswick]
+    entries:
+      - session: '2003'
+        course: FE 3233
+        scheduled_hours: '5'
+        class_size: '20'
+        lectures: '3'
+        tutorials: '2'
+      - session: '2002'
+        course: FE 3233
+        scheduled_hours: '5'
+        class_size: '20'
+        lectures: '3'
+        tutorials: '2'
+      - session: '2001'
+        course: FE 3233
+        scheduled_hours: '5'
+        class_size: '20'
+        lectures: '3'
+        tutorials: '2'
+course_descriptions_prior_to_ubc:
+  - code: FOR-3003
+    title: Projet en opérations forestières
+    credits: '2'
+    institution: Université Laval
+    contact_pattern: 2-2-0
+    description: Forest fibre procurement planning, from harvest block scheduling to delivered logs at
+      mill gate.
+  - code: FE 3233
+    title: Introduction to Operations Research
+    credits: '3'
+    institution: University of New Brunswick
+    contact_pattern: 3-0-2
+    description: Introduces forest engineering students to operational research methods for solving constrained
+      optimization problems.

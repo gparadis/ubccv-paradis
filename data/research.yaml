@@ -1,0 +1,300 @@
+statement: My research focuses on forest management problems, applying operations research (OR) methods
+  to formulate and solve complex decision problems through mathematical optimization. I use a systems
+  approach to model interactions between forest ecosystems, industrial supply chains, governments, and
+  society. My interests intersect forest science, economics, engineering, data science, computer science,
+  and OR. Key research topics include forest estate modeling, cumulative effects modeling, supply chain
+  modeling, carbon accounting, and nature-based decarbonization. As Theme Leader, I launched the Natural
+  Capital and Biodiversity research theme within the Bradshaw Research Initiative for Minerals and Mining
+  (BRIMM), mobilizing government and industry partners for impactful research. I’ve secured substantial
+  amounts of “soft” funding from key government agencies and established firm commitments for future funding.
+  Additionally, I am negotiating new industry partnerships and have applied for major infrastructure grant
+  (CFI JELF) to support advanced research computing equipment for my modeling research program (and development
+  of an open innovation hub).
+grants:
+  - agency: Natural Resources Canada (Energy)
+    subject: CLEWs-C2070; \ Integrating Climate, Land, and Water into Energy Models of Canada’s Net-Zero
+      Commitments
+    comp: C
+    amount: 1 000 000
+    year: '2026'
+    pi:
+      - Taco Niet
+    coi:
+      - |-
+        **Gregory Paradis
+        **Hisham Zerriffi
+        Elizabeth Gilmore
+  - agency: Natural Resources Canada (Wildfire Resilient Futures Initiative program)
+    subject: Proactive management to mitigate wildfire risk across diverse forests of BC
+    comp: C
+    amount: 3 395 854
+    year: '2025'
+    pi:
+      - |-
+        Lori Daniels
+        Jill Harvey
+    coi:
+      - '**Gregory Paradis**'
+      - Ignacio Barbeito
+      - Nicholas Coops
+      - Bianca Eskelson
+      - Sarah Gergel
+      - Dominik Roeser
+      - Sam Coggins
+      - Sarah Dickson-Hoyle
+      - Keylsey Copes-Gerbitz
+      - Mathieu Bourbonnais
+      - Che Elkin
+      - Sophie Wilkinson
+      - Sonja Leverkus
+      - Stephanie Ewen
+  - agency: UBC (Teaching and Learning Enhancement Fund program)
+    subject: FVS-BC Laboratory Exercises for Forest Resources Management and Conservation
+    comp: C
+    amount: |-
+      26 692
+      20 000
+    year: |-
+      2024
+      2026
+    pi:
+      - Bianca Eskelson
+    coi:
+      - '**Gregory Paradis**'
+      - Ignacio Barbeito
+      - Lori Daniels
+      - Tzeng Yi Lam
+      - Harry Nelson
+      - David Montwe
+      - Andres Varhola
+      - 'Additional Co-PIs Year 2:'
+      - Suborna Ahmed, Cole Burton,
+      - Allan Carroll, Jathleen Coupland, Richard Hamelin,Lee Salmon, Debra Wertmann (all UBC)
+  - agency: UBC Climate Solutions Research Collective (Climate Solutions Scholars program)
+    subject: 'Carbon Offsets: Climate Action or Sustainability Illusion?'
+    comp: C
+    amount: 30 000
+    year: '2024'
+    pi:
+      - Hisham Zerriffi
+    coi:
+      - '**Gregory Paradis**'
+      - Werner Antweiler
+      - Kathryn Harrison
+  - agency: World Economic Forum
+    subject: Nature-based decarbonization opportunities for the mining and forest sectors
+    comp: C
+    amount: 82 000
+    year: '2024'
+    pi:
+      - '**Gregory Paradis**'
+  - agency: Canadian Foundation for Innovation (John R. Evans Leaders Fund program) \ [submitted]
+    subject: Cumulative effects of Climate Change, Anthropogenic and Natural Disturbances on forest Ecosystem
+      Services (CCCANDiES)
+    comp: C
+    amount: 350 000
+    year: '2024'
+    pi:
+      - '**Gregory Paradis**'
+  - agency: National Sciences and Engineering Research Council of Canada (Undergraduate Student Research
+      Awards program)
+    subject: Modelling dwarf mistletoe (Arceuthobium) spread using spatial discrete event simulation
+    comp: C
+    amount: 6 000
+    year: '2024'
+    pi:
+      - '**Gregory Paradis**'
+  - agency: Bradshaw Research Initiative for Minerals and Mining
+    subject: Natural Capital and Biodiversity (theme funding, until 2026)
+    comp: NC
+    amount: 120 000
+    year: '2024'
+    pi:
+      - '**Gregory Paradis**'
+    coi:
+      - John Steen
+  - agency: National Sciences and Engineering Research Council of Canada (Discovery Grants program)
+    subject: Integrated modelling of strategic forest management and industrial capacity planning in \
+      the Canadian forest sector
+    comp: C
+    amount: 160 000
+    year: '2023'
+    pi:
+      - '**Gregory Paradis**'
+  - agency: National Sciences and Engineering Research Council of Canada (Discoverty Launch Supplement
+      program)
+    subject: Integrated modelling of strategic forest management and industrial capacity planning in \
+      the Canadian forest sector
+    comp: C
+    amount: 12 500
+    year: '2023'
+    pi:
+      - '**Gregory Paradis**'
+  - agency: Bradshaw Research Initiative for Minerals and Mining
+    subject: Nature-based decarbonization opportunities for the mining and forest sectors
+    comp: NC
+    amount: 65 000
+    year: '2023'
+    pi:
+      - '**Gregory Paradis**'
+    coi:
+      - John Steen
+  - agency: UBC
+    subject: Work Learn Award
+    comp: C
+    amount: 2 700
+    year: '2022'
+    pi:
+      - '**Gregory Paradis**'
+  - agency: UBC
+    subject: Work Learn International Undergraduate Research Award
+    comp: C
+    amount: 6 000
+    year: '2022'
+    pi:
+      - '**Gregory Paradis**'
+  - agency: UBC
+    subject: Work Learn International Undergraduate Research Award
+    comp: C
+    amount: 6 000
+    year: '2022'
+    pi:
+      - '**Gregory Paradis**'
+  - agency: Mitacs (Accelerate Industrial Postdoc program)
+    subject: Nature-based decarbonization opportunities for the mining and forest sectors
+    comp: C
+    amount: 60 000
+    year: '2022'
+    pi:
+      - '**Gregory Paradis**'
+    coi:
+      - John Steen
+  - agency: UBC
+    subject: Startup grant
+    comp: NC
+    amount: 150 000
+    year: '2021'
+    pi:
+      - '**Gregory Paradis**'
+contracts:
+  - agency: Innovate BC
+    subject: Flash Forest Reforestation Technology Applying Operations Research, AI, Novel Deployment
+      Mechanisms, and Biological Technology in BC
+    comp: C
+    amount: 100 000
+    year: '2025'
+    pi:
+      - '**Gregory Paradis**'
+  - agency: Ecotrust
+    subject: 'Systemic Intervention: A Holistic Transition to a Bio-Material-Based Building Sector (New
+      York Climate Week Working Session)'
+    comp: NC
+    amount: 34 000
+    year: '2025'
+    pi:
+      - '**Gregory Paradis**'
+  - agency: Environment and Climate Change Canada
+    subject: Developing a prototype DSS to simulate impact of different forest management strategies on
+      net carbon emissions/stocks and other ecosystem services
+    comp: NC
+    amount: 40 000
+    year: '2023'
+    pi:
+      - '**Gregory Paradis**'
+  - agency: Government of British Columbia
+    subject: Modelling cumulative effects of climate change and disturbances on future forest ecosystem
+      services
+    comp: NC
+    amount: 35 875
+    year: '2023'
+    pi:
+      - '**Gregory Paradis**'
+  - agency: Natural Resources Canada
+    subject: Developing an open modeling system for cumulative effects within Canada’s managed forests
+    comp: C
+    amount: 94 000
+    year: '2023'
+    pi:
+      - '**Gregory Paradis**'
+  - agency: Natural Resources Canada
+    subject: Modelling tradeoff between harvesting activity and songbird population density in NE BC
+    comp: NC
+    amount: 38 014
+    year: '2022'
+    pi:
+      - '**Gregory Paradis**'
+  - agency: Natural Resources Canada
+    subject: Compiling a new ws3 dataset and model instance for the western boreal forest
+    comp: NC
+    amount: |-
+      8 912
+      2 971
+    year: 2021 \ 2022
+    pi:
+      - '**Gregory Paradis**'
+  - agency: Association of British Columbia Forest Professionals
+    subject: FRST 422 Distance Education Online Course Design and Implementation
+    comp: NC
+    amount: 15 000
+    year: '2020'
+    pi:
+      - '**Gregory Paradis**'
+    coi:
+      - Peter Marshall
+  - agency: United Nations Sustainable Development Solutions Network
+    subject: FABLE White Paper
+    comp: NC
+    amount: 10 000
+    pi:
+      - '**Gregory Paradis**'
+    coi:
+      - Hisham Zerriffi
+  - agency: United Nations Sustainable Development Solutions Network
+    subject: FABLE forest dataset (Canada)
+    comp: NC
+    amount: 1 000
+    pi:
+      - '**Gregory Paradis**'
+    coi:
+      - Hisham Zerriffi
+other: []
+conference_participation:
+  - Session Chair, Operational Research Society (CORS) Annual Conference 2026, Kingston
+  - Judge, David Martell Student Paper Prize in Forestry, Operational Research Society (CORS) Annual Conference
+    2026, Kingston
+  - Treasurer and CORS Council Liason, Canadian Operational Research Society (CORS) Annual Conference
+    2024, London
+  - Cluster Chair, Analytics cluster, Canadian Operational Research Society (CORS) Annual Conference 2024,
+    London
+  - Session Chair, Forestry cluster, Canadian Operational Research Society (CORS) Annual Conference 2024,
+    London
+  - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2023, Montreal
+  - Member, Planning Committee, CORS CanQueue 2023 Conference, Niagara-on-the-Lake
+  - Co-chair, Arrangements Committee, Joint CORS/INFORMS 2022 International Conference, Vancouver
+  - Session Chair, Joint CORS/INFORMS 2022 International Conference, Vancouver
+  - Event Co-chair, Mathematical Modelling in Agriculture and Forestry, Banff International Research Station
+    Career and Innovation Hub, January 2022 (online workshop)
+  - Cluster Co-chair, Analytics cluster, Canadian Operational Research Society (CORS) Annual Conference
+    2021 (online)
+  - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2021 (online)
+  - Session Chair, Systems Symposium in Analysis of Forest Resources (SSAFR) 2019, Puerto Varas, Chile
+  - Cluster Co-chair, Analytics cluster, Canadian Operational Research Society (CORS) Annual Conference
+    2019, Saskatoon
+  - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2019, Saskatoon
+  - Cluster Co-chair, Analytics cluster, Canadian Operational Research Society (CORS) Annual Conference
+    2018 Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2018
+  - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2017
+  - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2015
+  - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2014, Niagara Falls
+  - Cluster Co-chair, Forestry cluster, Canadian Operational Research Society (CORS) Annual Conference
+    2013
+  - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2013
+  - Session Chair, Systems Symposium in Analysis of Forest Resources (SSAFR) 2013, Quebec City
+  - Cluster Co-chair, Forestry cluster, Canadian Operational Research Society (CORS) Annual Conference
+    2012
+  - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2012
+  - Organizing Committee, 34th annual meeting of the Council on Forest Engineering (COFE) 2011, Quebec
+    City, 2010--2011
+  - Session Chair, Sources de risques et d'incertitudes dans le calcul de possibilité. Faut-il en tenir
+    compte? Carrefour Forêt Innovations 2011, Quebec City, 2011
+  - Conference Co-chair, UNBF Graduate Student Association Research Conference 2003, 2002—2003

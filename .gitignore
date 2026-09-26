@@ -1,0 +1,8 @@
+build/
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+__pycache__/
+*.pyc

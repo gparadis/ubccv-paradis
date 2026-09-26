@@ -1,0 +1,499 @@
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}
+\usepackage[margin=1in,top=1.1in,bottom=1in]{geometry}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{ragged2e}
+\usepackage{fancyhdr}
+\usepackage[hidelinks,breaklinks=true]{hyperref}
+\usepackage{microtype}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+\setlength{\LTpre}{4pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.15}
+\sloppy
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small \VAR{t(profile.surname)}, \VAR{t(profile.first_name)} --- UBC Curriculum Vitae}
+\fancyhead[R]{\small\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% UBC CV structural macros
+\newcommand{\cvsection}[2]{\vspace{8pt}\par\noindent\textbf{#1}\quad\textbf{\underline{#2}}\par\vspace{2pt}}
+\newcommand{\cvheading}[1]{\vspace{8pt}\par\noindent\textbf{\underline{#1}}\par\vspace{2pt}}
+\newcommand{\cvsub}[2]{\vspace{4pt}\par\noindent\textit{(#1)}\quad\textit{#2}\par\vspace{1pt}}
+\newcommand{\cvminor}[1]{\par\noindent\textbf{#1}\par}
+\newcommand{\cvempty}{\par\noindent\textit{(none to report)}\par}
+% Table cells: smaller, ragged right, and reluctant to hyphenate, because most
+% of them hold proper nouns and agency names.
+\setlength{\tabcolsep}{4pt}
+\newcolumntype{L}[1]{>{\RaggedRight\small\hyphenpenalty=5000\arraybackslash}p{#1}}
+\newenvironment{cvlist}{\begin{itemize}[leftmargin=1.5em,itemsep=1pt,topsep=2pt,parsep=0pt]}{\end{itemize}}
+
+% Descending-numbered list, matching the original CV's numbering.
+\newcounter{cvrev}
+\newenvironment{cvrevlist}[1]{%
+  \setcounter{cvrev}{\numexpr#1+1\relax}%
+  \begin{list}{\arabic{cvrev}.}{%
+    \setlength{\leftmargin}{2.6em}\setlength{\labelwidth}{2.2em}%
+    \setlength{\itemsep}{3pt}\setlength{\topsep}{3pt}\setlength{\parsep}{0pt}%
+    \setlength{\labelsep}{0.4em}}%
+  \let\origitem\item
+  \renewcommand{\item}{\addtocounter{cvrev}{-1}\origitem}%
+}{\end{list}}
+
+%#--------------------------------------------------------------------------
+%#  Reusable blocks
+%#--------------------------------------------------------------------------
+%% macro bullets(items)
+%%   if items
+\begin{cvlist}
+%%     for i in items
+  \item \VAR{t(i)}
+%%     endfor
+\end{cvlist}
+%%   else
+\cvempty
+%%   endif
+%% endmacro
+
+%% macro reflist(items)
+%%   if items
+\begin{cvrevlist}{\VAR{items|length}}
+%%     for r in items
+  \item \VAR{r}
+%%     endfor
+\end{cvrevlist}
+%%   else
+\cvempty
+%%   endif
+%% endmacro
+
+%% macro courses(groups)
+%%   if groups
+\begin{longtable}{L{0.8in}L{1.15in}L{0.7in}L{0.5in}L{0.6in}L{0.6in}L{0.45in}L{0.55in}}
+\textbf{Session} & \textbf{Course} & \textbf{Sched. hrs} & \textbf{Class size} & \textbf{Lect.} & \textbf{Tut.} & \textbf{Labs} & \textbf{Other}\\
+\hline
+\endhead
+%%     for g in groups
+\multicolumn{8}{l}{\textbf{\textit{\VAR{t(g.group)}}}}\\
+%%       for c in g.entries
+\VAR{t(c.session)} & \VAR{t(c.course)} & \VAR{t(c.scheduled_hours)} & \VAR{t(c.class_size)} & \VAR{t(c.lectures)} & \VAR{t(c.tutorials)} & \VAR{t(c.labs)} & \VAR{t(c.other)}\\
+%%       else
+\multicolumn{8}{l}{\textit{(no courses taught)}}\\
+%%       endfor
+%%     endfor
+\end{longtable}
+%%   else
+\cvempty
+%%   endif
+%% endmacro
+
+%% macro supervision(groups)
+%%   if groups
+\begin{longtable}{L{1.7in}L{0.9in}L{0.7in}L{0.7in}L{2.1in}}
+\textbf{Student Name} & \textbf{Program} & \textbf{Start} & \textbf{Finish} & \textbf{Supervisory Role}\\
+\hline
+\endhead
+%%     for g in groups
+%%       if g.group
+\multicolumn{5}{l}{\textbf{\VAR{t(g.group)}}}\\
+%%       endif
+%%       for s in g.entries
+\VAR{t(s.student)} & \VAR{t(s.program)} & \VAR{t(s.start)} & \VAR{t(s.finish)} & \VAR{t(s.role)}\\
+%%       endfor
+%%     endfor
+\end{longtable}
+%%   else
+\cvempty
+%%   endif
+%% endmacro
+
+%% macro funding(items)
+%%   if items
+\begin{longtable}{L{1.05in}L{1.75in}L{0.4in}L{0.7in}L{0.4in}L{0.85in}L{0.85in}}
+\textbf{Agency} & \textbf{Subject} & \textbf{COMP} & \textbf{\$ (total)} & \textbf{Year} & \textbf{Principal Investigator} & \textbf{Co-Investigator(s)}\\
+\hline
+\endhead
+%%     for f in items
+\VAR{t(f.agency)} & \VAR{t(f.subject)} & \VAR{t(f.comp)} & \VAR{t(f.amount)} & \VAR{t(f.year)} & \VAR{names(f.pi)} & \VAR{names(f.coi)}\\
+%%     endfor
+\end{longtable}
+%%   else
+\cvempty
+%%   endif
+%% endmacro
+
+%% macro awardtable(items)
+%%   if items
+\begin{longtable}{L{1.5in}L{2.0in}L{0.8in}L{2.0in}}
+\textbf{Name of Award} & \textbf{Awarding Organization} & \textbf{Dates} & \textbf{Award Details}\\
+\hline
+\endhead
+%%     for a in items
+\VAR{t(a.name)} & \VAR{t(a.organization)} & \VAR{t(a.dates)} & \VAR{t(a.details)}\\
+%%     endfor
+\end{longtable}
+%%   else
+\cvempty
+%%   endif
+%% endmacro
+
+%% macro coursenotes(items)
+%%   for c in items
+\cvminor{\VAR{t(c.code)}\VAR{" (" ~ c.credits ~ " credits)" if c.credits else ""} \textit{\VAR{t(c.title)}}\VAR{" [" ~ t(c.institution) ~ "]" if c.institution else ""}}
+\VAR{t(c.description)}\VAR{" [" ~ c.contact_pattern ~ "]" if c.contact_pattern else ""}
+%%   endfor
+%% endmacro
+
+\begin{document}
+
+%#=========================================================================
+%#  Curriculum Vitae
+%#=========================================================================
+\begin{center}
+  \textbf{\underline{THE UNIVERSITY OF BRITISH COLUMBIA}}\\[2pt]
+  \textbf{\textit{Curriculum Vitae for Faculty Members}}
+\end{center}
+
+\noindent\textbf{Date}: \VAR{t(profile.date)}\hfill\textbf{Initials}: \VAR{t(profile.initials)}
+
+\cvsection{1.}{SURNAME}
+\noindent\textbf{SURNAME}: \VAR{t(profile.surname)}\\
+\textbf{FIRST NAME}: \VAR{t(profile.first_name)}\\
+\textbf{MIDDLE NAME(S)}: \VAR{t(profile.middle_names)}
+
+\cvsection{2.}{DEPARTMENT/SCHOOL}
+\VAR{t(profile.department)}
+
+\cvsection{3.}{FACULTY}
+\VAR{t(profile.faculty)}
+
+\cvsection{4.}{PRESENT RANK}
+\VAR{t(profile.present_rank)}\hfill\textbf{SINCE}: \VAR{t(profile.rank_since)}
+
+\cvsection{5.}{POST-SECONDARY EDUCATION}
+\begin{longtable}{L{2.5in}L{0.9in}L{1.9in}L{0.8in}}
+\textbf{University or Institution} & \textbf{Degree} & \textbf{Subject Area} & \textbf{Dates}\\
+\hline
+\endhead
+%% for e in profile.education
+\VAR{t(e.institution)} & \VAR{t(e.degree)} & \VAR{t(e.subject)} & \VAR{t(e.dates)}\\
+%% endfor
+\end{longtable}
+
+\cvheading{Special Professional Qualifications}
+\VAR{bullets(profile.special_qualifications)}
+
+\cvsection{6.}{EMPLOYMENT RECORD}
+\cvsub{a}{Prior to coming to UBC}
+\cvminor{University employment}
+\begin{longtable}{L{2.7in}L{2.2in}L{1.1in}}
+\textbf{University} & \textbf{Rank or Title} & \textbf{Dates}\\
+\hline
+\endhead
+%% for e in profile.employment.prior_university
+\VAR{t(e.organization)} & \VAR{t(e.title)} & \VAR{t(e.dates)}\\
+%% endfor
+\end{longtable}
+
+\cvminor{Non-university employment}
+\begin{longtable}{L{2.7in}L{2.2in}L{1.1in}}
+\textbf{Company or Organization} & \textbf{Rank or Title} & \textbf{Dates}\\
+\hline
+\endhead
+%% for e in profile.employment.prior_other
+\VAR{t(e.organization)} & \VAR{t(e.title)} & \VAR{t(e.dates)}\\
+%% endfor
+\end{longtable}
+
+\cvsub{b}{At UBC}
+\begin{longtable}{L{4.5in}L{1.5in}}
+\textbf{Rank or Title} & \textbf{Dates}\\
+\hline
+\endhead
+%% for e in profile.employment.at_ubc
+\VAR{t(e.title)} & \VAR{t(e.dates)}\\
+%% endfor
+\end{longtable}
+
+\cvsub{c}{Date of granting of tenure at UBC}
+\VAR{t(profile.employment.tenure_date) if profile.employment.tenure_date else "\\textit{(not yet granted)}"}
+
+\cvsection{7.}{LEAVES OF ABSENCE}
+%% if profile.leaves_of_absence
+\begin{longtable}{L{2.9in}L{2.0in}L{1.1in}}
+\textbf{Organization} & \textbf{Type of Leave} & \textbf{Dates}\\
+\hline
+\endhead
+%% for e in profile.leaves_of_absence
+\VAR{t(e.organization)} & \VAR{t(e.type)} & \VAR{t(e.dates)}\\
+%% endfor
+\end{longtable}
+%% else
+\cvempty
+%% endif
+
+%#-------------------------------------------------------------------------
+\cvsection{8.}{TEACHING}
+\cvsub{a}{Areas of special interest and accomplishments}
+\VAR{t(teaching.statement)}
+
+\cvsub{b}{Courses Taught at UBC (both undergraduate \& graduate)}
+\VAR{courses(teaching.courses_ubc)}
+\VAR{coursenotes(teaching.course_descriptions)}
+
+\cvsub{c}{Graduate Research Supervision}
+\VAR{supervision(teaching.graduate_research_supervision)}
+
+\cvsub{d}{Graduate Program Supervision}
+\VAR{supervision(teaching.graduate_program_supervision)}
+
+\cvsub{e}{Continuing Education Activities}
+\cvminor{Workshop Development and Presentation}
+\begin{longtable}{L{2.6in}L{0.9in}L{1.5in}L{0.8in}L{0.5in}}
+\textbf{Workshop Title} & \textbf{Host} & \textbf{Role} & \textbf{Date} & \textbf{Hours}\\
+\hline
+\endhead
+%% for w in teaching.continuing_education.developed_and_presented
+\VAR{t(w.title)} & \VAR{t(w.host)} & \VAR{t(w.role)} & \VAR{t(w.date)} & \VAR{t(w.hours)}\\
+%% endfor
+\end{longtable}
+
+\cvminor{Workshop Attendance}
+\begin{longtable}{L{3.5in}L{1.2in}L{0.9in}L{0.5in}}
+\textbf{Workshop Title} & \textbf{Host} & \textbf{Date} & \textbf{Hours}\\
+\hline
+\endhead
+%% for w in teaching.continuing_education.attended
+\VAR{t(w.title)} & \VAR{t(w.host)} & \VAR{t(w.date)} & \VAR{t(w.hours)}\\
+%% endfor
+\end{longtable}
+
+\cvsub{f}{Visiting and Guest Lecturer (indicate university/organization and dates)}
+\begin{longtable}{L{0.7in}L{0.9in}L{3.1in}L{0.9in}L{0.5in}}
+\textbf{University} & \textbf{Course} & \textbf{Topic} & \textbf{Date} & \textbf{Hours}\\
+\hline
+\endhead
+%% for v in teaching.visiting_lecturer
+\VAR{t(v.university)} & \VAR{t(v.course)} & \VAR{t(v.topic)} & \VAR{t(v.date)} & \VAR{t(v.hours)}\\
+%% endfor
+\end{longtable}
+
+\cvsub{g}{Other}
+\cvminor{Directed Studies Student Supervision}
+\begin{longtable}{L{0.9in}L{1.0in}L{3.5in}L{0.7in}}
+\textbf{Session} & \textbf{Course} & \textbf{Topic} & \textbf{Credits}\\
+\hline
+\endhead
+%% for d in teaching.other.directed_studies
+\VAR{t(d.session)} & \VAR{t(d.course)} & \VAR{t(d.topic)} & \VAR{t(d.credits)}\\
+%% endfor
+\end{longtable}
+
+\cvminor{Work Learn and Student Internship Supervision}
+\begin{longtable}{L{1.4in}L{2.9in}L{0.9in}L{0.9in}}
+\textbf{Student Name} & \textbf{Program Type} & \textbf{Start Date} & \textbf{End Date}\\
+\hline
+\endhead
+%% for w in teaching.other.work_learn
+\VAR{t(w.student)} & \VAR{t(w.program)} & \VAR{t(w.start)} & \VAR{t(w.end)}\\
+%% endfor
+\end{longtable}
+
+\cvminor{Courses Taught Prior to UBC}
+\VAR{courses(teaching.courses_prior_to_ubc)}
+\VAR{coursenotes(teaching.course_descriptions_prior_to_ubc)}
+
+%#-------------------------------------------------------------------------
+\cvsection{9.}{SCHOLARLY AND PROFESSIONAL ACTIVITIES}
+\cvsub{a}{Areas of special interest and accomplishments}
+\VAR{t(research.statement)}
+
+\cvsub{b}{Research or equivalent grants (indicate under COMP whether grants were obtained competitively (C) or non-competitively (NC))}
+\VAR{funding(research.grants)}
+
+\cvsub{c}{Research or equivalent contracts (indicate under COMP whether contracts were obtained competitively (C) or non-competitively (NC))}
+\VAR{funding(research.contracts)}
+
+\cvsub{d}{Invited Presentations (Identify whether International/National/Local)}
+\VAR{reflist(refs.invited_presentation)}
+
+\cvsub{e}{Other Presentations}
+\textit{Symbol key:} * presenting author; \textsuperscript{\textasciicircum} FRESH highly qualified personnel (HQP)
+\VAR{reflist(refs.other_presentation)}
+
+\cvsub{f}{Other}
+\VAR{bullets(research.other)}
+
+\cvsub{g}{Conference Participation (Organizer, Keynote Speaker, etc.)}
+\VAR{bullets(research.conference_participation)}
+
+%#-------------------------------------------------------------------------
+\cvheading{SERVICE TO THE UNIVERSITY AND THE COMMUNITY}
+
+\cvsection{10.}{SERVICE TO THE UNIVERSITY}
+\cvsub{a}{Areas of special interest and accomplishments}
+\VAR{t(service.university.statement)}
+
+\cvsub{b}{Areas of service undertaken to advance the inclusion of all those who have been historically excluded based on gender, race, religion, sexuality, age, disability, or economic circumstance}
+\VAR{bullets(service.university.inclusion)}
+
+\cvsub{c}{Memberships on committees, including offices held and dates}
+\VAR{bullets(service.university.committees)}
+
+\cvsub{d}{Other service, including dates}
+\VAR{bullets(service.university.other)}
+
+\cvsection{11.}{SERVICE TO THE COMMUNITY}
+\cvsub{a}{Service undertaken to advance the inclusion of all those who have been historically excluded based on gender, race, religion, sexuality, age, disability, or economic circumstance}
+\VAR{bullets(service.community.inclusion)}
+
+\cvsub{b}{Memberships on scholarly societies, including offices held and dates}
+\VAR{bullets(service.community.scholarly_societies)}
+
+\cvsub{c}{Memberships on other societies, including offices held and dates}
+\VAR{bullets(service.community.other_societies)}
+
+\cvsub{d}{Memberships on scholarly committees, including offices held and dates}
+\VAR{bullets(service.community.scholarly_committees)}
+
+\cvsub{e}{Memberships on other committees, including offices held and dates}
+\VAR{bullets(service.community.other_committees)}
+
+\cvsub{f}{Editorships (list journal and dates)}
+\VAR{bullets(service.community.editorships)}
+
+\cvsub{g}{Reviewer (journal, agency, etc. including dates)}
+\begin{longtable}{L{1.4in}L{3.7in}L{0.9in}}
+\textbf{Role} & \textbf{Journal or Organization} & \textbf{Date}\\
+\hline
+\endhead
+%% for r in service.community.reviewer
+\VAR{t(r.role)} & \VAR{t(r.venue)} & \VAR{t(r.date)}\\
+%% endfor
+\end{longtable}
+
+\cvsub{h}{External examiner (indicate universities and dates)}
+\VAR{bullets(service.community.external_examiner)}
+
+\cvsub{i}{Consultant (indicate organization and dates)}
+\VAR{bullets(service.community.consultant)}
+
+\cvsub{j}{Other service to the community}
+\VAR{bullets(service.community.other)}
+
+\cvsub{k}{Popular Media}
+\begin{longtable}{L{1.2in}L{4.1in}L{0.8in}}
+\textbf{Role} & \textbf{Description} & \textbf{Date}\\
+\hline
+\endhead
+%% for m in service.community.popular_media
+\VAR{t(m.role)} & \VAR{t(m.description)} & \VAR{t(m.date)}\\
+%% endfor
+\end{longtable}
+
+%#-------------------------------------------------------------------------
+\cvsection{12.}{AWARDS AND DISTINCTIONS}
+\cvsub{a}{Awards for Teaching (indicate name of award, awarding organizations, date)}
+\VAR{awardtable(awards.teaching)}
+
+\cvsub{b}{Awards for Scholarship (indicate name of award, awarding organizations, date)}
+%% if awards.scholarship_note
+\VAR{t(awards.scholarship_note)}
+%% endif
+\VAR{awardtable(awards.scholarship)}
+
+%% if awards.hqp_note
+\VAR{t(awards.hqp_note)}
+%% endif
+\begin{longtable}{L{1.2in}L{1.2in}L{2.0in}L{0.7in}L{1.0in}}
+\textbf{HQP Name} & \textbf{Name of Award} & \textbf{Awarding Organization} & \textbf{Dates} & \textbf{Details}\\
+\hline
+\endhead
+%% for a in awards.hqp
+\VAR{t(a.hqp)} & \VAR{t(a.name)} & \VAR{t(a.organization)} & \VAR{t(a.dates)} & \VAR{t(a.details)}\\
+%% endfor
+\end{longtable}
+
+\cvsub{c}{Awards for Service (indicate name of award, awarding organizations, date)}
+\VAR{bullets(awards.service)}
+
+\cvsub{d}{Other Awards}
+\VAR{bullets(awards.other)}
+
+%#-------------------------------------------------------------------------
+\cvsection{13.}{OTHER RELEVANT INFORMATION (Maximum One Page)}
+%% for p in other.paragraphs
+\VAR{t(p)}
+
+%% endfor
+
+%#=========================================================================
+%#  Publications Record
+%#=========================================================================
+\clearpage
+\begin{center}
+  \textbf{\underline{THE UNIVERSITY OF BRITISH COLUMBIA}}\\[2pt]
+  \textbf{\textit{Publications Record}}
+\end{center}
+
+\noindent\textbf{SURNAME}: \VAR{t(profile.surname)}\hfill\textbf{FIRST NAME}: \VAR{t(profile.first_name)}\hfill\textbf{Initials}: \VAR{t(profile.initials)}\\
+\textbf{MIDDLE NAME(S)}: \VAR{t(profile.middle_names)}\hfill\textbf{Date}: \VAR{t(profile.date)}
+
+\vspace{4pt}
+\noindent\textit{Symbol key:} \textsuperscript{\textasciicircum} highly qualified personnel (HQP)%
+%% if has_starred
+; * publication of primary importance%
+%% endif
+.
+
+\cvsection{1.}{REFEREED PUBLICATIONS}
+\cvsub{a}{Journals}
+\VAR{reflist(refs.refereed_journal)}
+\cvsub{b}{Conference Proceedings}
+\VAR{reflist(refs.refereed_proceedings)}
+\cvsub{c}{Other}
+\VAR{reflist(refs.refereed_other)}
+
+\cvsection{2.}{NON-REFEREED PUBLICATIONS}
+\cvsub{a}{Journals}
+\VAR{reflist(refs.nonrefereed_journal)}
+\cvsub{b}{Conference Proceedings}
+\VAR{reflist(refs.nonrefereed_proceedings)}
+\cvsub{c}{Other}
+\VAR{reflist(refs.nonrefereed_other)}
+
+\cvsection{3.}{BOOKS}
+\cvsub{a}{Authored}
+\VAR{reflist(refs.book_authored)}
+\cvsub{b}{Edited}
+\VAR{reflist(refs.book_edited)}
+\cvsub{c}{Chapters}
+\VAR{reflist(refs.book_chapter)}
+
+\cvsection{4.}{PATENTS}
+\VAR{reflist(refs.patent)}
+
+\cvsection{5.}{SPECIAL COPYRIGHTS}
+\VAR{reflist(refs.copyright)}
+
+\cvsection{6.}{ARTISTIC WORKS, PERFORMANCES, DESIGNS}
+\VAR{reflist(refs.artistic)}
+
+\cvsection{7.}{OTHER WORKS}
+\VAR{reflist(refs.other_work)}
+
+\cvsection{8.}{WORK SUBMITTED (including publisher and date of submission)}
+\VAR{reflist(refs.work_submitted)}
+
+\cvsection{9.}{WORK IN PROGRESS (including degree of completion)}
+\VAR{reflist(refs.work_in_progress)}
+
+\end{document}

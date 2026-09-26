@@ -1,0 +1,70 @@
+date: April 2026
+initials: GEP
+surname: Paradis
+first_name: Gregory
+middle_names: Eric
+department: Department of Forest Resource Management
+faculty: Faculty of Forestry
+present_rank: Assistant Professor
+rank_since: July 1, 2021
+education:
+  - institution: Université Laval
+    degree: PhD
+    subject: Forest Science
+    dates: '2016'
+  - institution: University of New Brunswick
+    degree: M.Sc.Eng.
+    subject: Forest Engineering
+    dates: '2005'
+  - institution: University of New Brunswick
+    degree: B.Sc.Eng.
+    subject: Forest Engineering
+    dates: '2001'
+special_qualifications:
+  - P.Eng., Ordre des ingénieurs du Québec (OIQ) [2008–2018, 2021– present]
+  - RPF, Ordre des ingénieurs forestiers du Québec (OIFQ) [2006–2018, 2021–2022]
+  - RPF, Forest Professionals British Columbia (FPBC) [2021–2022]
+employment:
+  prior_university:
+    - organization: Université Laval
+      title: Postdoctoral Research Fellow
+      dates: 2015–2016
+    - organization: Université Laval
+      title: Research Assistant, Instructor
+      dates: 2010–2015
+    - organization: University of New Brunswick
+      title: Research Assistant
+      dates: 2001–2003
+  prior_other:
+    - organization: Freelance
+      title: Expert Consultant
+      dates: 2010–
+    - organization: Group OptiVert
+      title: Analyst and Project Lead
+      dates: 2005–2009
+    - organization: Global Optimality
+      title: Co-founder and President
+      dates: 2012–2016
+    - organization: Ghost Tours of Quebec
+      title: Vice-president and Co-owner
+      dates: 2011–
+    - organization: Spatial Planning Systems
+      title: Analyst and Project Lead
+      dates: 2003–2004
+    - organization: Remsoft
+      title: Technical Documentation Lead
+      dates: '2003'
+    - organization: Freelance
+      title: Consultant
+      dates: '2001'
+  at_ubc:
+    - title: Professeur associé (École de foresterie, Université de Moncton)
+      dates: 2023/01–2025/12
+    - title: Assistant Professor
+      dates: 2021–
+    - title: Research Associate
+      dates: '2021'
+    - title: Postdoctoral Research Fellow
+      dates: 2017–2021
+  tenure_date: ''
+leaves_of_absence: []
