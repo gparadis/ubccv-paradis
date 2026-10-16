@@ -1,4 +1,4 @@
-# Notes on the import from `ubccv_gparadis-nohighlighting.docx`
+# Notes on the import from `reference/ubccv_gparadis-nohighlighting.docx`
 
 The Word document was parsed from `word/document.xml` directly rather than via
 a Markdown conversion, because the CV uses literal `*` (presenting author) and

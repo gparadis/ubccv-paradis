@@ -1,5 +1,7 @@
 # UBC CV — Gregory E. Paradis
 
+**Current CV:** [PDF](cv.pdf) · [Markdown](cv.md)
+
 A data-driven pipeline for maintaining an academic CV in the format prescribed
 by the *Guide to Reappointment, Promotion and Tenure Procedures at UBC*
 (Appendix 3, "Annotated CV for the Professoriate Stream").
@@ -22,6 +24,7 @@ data/*.yaml  +  data/publications.bib
 make          # render build/ubccv.pdf
 make tex      # render build/ubccv.tex only, to debug the template
 make check    # verify data/ still accounts for everything in the Word original
+make publish  # refresh the committed cv.pdf and cv.md
 ```
 
 ## Where things live
@@ -38,8 +41,10 @@ make check    # verify data/ still accounts for everything in the Word original
 | `src/templates/cv.tex.j2` | The UBC layout |
 | `src/cvdata.py` | Loads the sources, formats references |
 | `src/latexfmt.py` | Inline markup and author-list formatting |
+| `src/render_md.py` | Renders the same CV as one Markdown file (`make publish`) |
 | `tools/` | One-time importers from the original `.docx`, plus the QA check |
-| `reference/` | The SAC Guide, and notes on how the import was interpreted |
+| `reference/` | The legacy Word CV, the SAC Guide, and notes on how the import was interpreted |
+| `cv.pdf`, `cv.md` | The current CV, committed so GitHub can render it; refresh with `make publish` |
 
 ## Editing conventions
 
@@ -113,8 +118,9 @@ Append to `data/publications.bib`, at the top of its section:
 ## Re-importing from Word
 
 `make bootstrap` re-runs the importers and **overwrites `data/`**. It exists to
-document how the original document was interpreted; once you are editing the
-YAML and BibTeX by hand, do not run it.
+document how the original document was interpreted (the Word file itself now
+lives in `reference/`); once you are editing the YAML and BibTeX by hand, do
+not run it.
 
 `make check` is the useful one: it re-reads the original `.docx` and confirms
 that every word, number and name in it is still accounted for somewhere in

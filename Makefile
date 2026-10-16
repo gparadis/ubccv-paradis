@@ -1,8 +1,10 @@
 PYTHON ?= python3
-DOCX   ?= ubccv_gparadis-nohighlighting.docx
+DOCX   ?= reference/ubccv_gparadis-nohighlighting.docx
 BUILD  ?= build
 
-.PHONY: all pdf tex check clean bootstrap blocks
+SOURCES = $(wildcard data/*) $(wildcard src/*.py) src/templates/cv.tex.j2
+
+.PHONY: all pdf tex publish check clean bootstrap blocks
 
 all: pdf
 
@@ -13,6 +15,16 @@ pdf:
 ## Render the intermediate LaTeX only (useful when debugging the template)
 tex:
 	$(PYTHON) src/render.py --tex-only
+
+## Refresh the two committed renderings of the CV: cv.pdf and cv.md
+publish: cv.pdf cv.md
+
+cv.pdf: $(SOURCES)
+	$(PYTHON) src/render.py -o $(BUILD)/ubccv.pdf
+	cp $(BUILD)/ubccv.pdf $@
+
+cv.md: $(SOURCES)
+	$(PYTHON) src/render_md.py -o $@
 
 ## Verify that data/ still accounts for everything in the original Word file
 check: $(BUILD)/cv_blocks.json
