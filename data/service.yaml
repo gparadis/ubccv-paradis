@@ -93,6 +93,9 @@ community:
   reviewer:
     - role: '2026'
     - role: Manuscript Reviewer
+      venue: INFORMS Journal on Applied Analytics
+      date: 2026/10
+    - role: Manuscript Reviewer
       venue: Environmental Modelling and Software
       date: 2026/09
     - role: Manuscript Reviewer
@@ -264,6 +267,11 @@ community:
   other:
     - Volunteer, Green Streets Program, City of Vancouver, 2017–2023
   popular_media:
+    - role: Interview
+      description: |-
+        [L'usine de pâte et papier Howe Sound va rouvrir](https://www.cbc.ca/news/canada/british-columbia/howe-sound-pulp-mill-reopen-9.7366417)
+        Radio-Canada
+      date: 2026/10/02
     - role: Interview
     - role: Article
       description: |-
