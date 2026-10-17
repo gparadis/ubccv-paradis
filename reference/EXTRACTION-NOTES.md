@@ -9,7 +9,7 @@ and italic were read from run properties, where there is no ambiguity.
 
 `make check` compares the token multiset of the original document against the
 token multiset of `data/`. It reports anything the original has more often than
-the sources do. The run at import time left 13 differences, all expected. A 14th exception was added in October 2026, when the FHOPS paper was accepted (last row):
+the sources do. The run at import time left 13 differences, all expected. Two later additions (October 2026) cover the FHOPS acceptance and the CJFR/CEA submissions (last two rows):
 
 | Token(s) | Why |
 | --- | --- |
@@ -19,6 +19,7 @@ the sources do. The run at import time left 13 differences, all expected. A 14th
 | `vspsustainable` | An artifact of the checker: the docx runs `**VSP**` and `*Sustainable…*` together with no space, so the comparison sees one token where the data has two. |
 | `acfarlane` | See "Corrections" below. |
 | `06` | The Word file listed FHOPS as "Submitted to SoftwareX (2026/06)". The paper was accepted in October 2026 and now sits under in-press refereed journals, so the submission month no longer exists in `data/`. Added to the exception list on 2026/10/17. |
+| `90`, `preparation`, `complete`, `operations`, `automated`, `daily`, `ground`, `fly` | The Word file still held two working-paper placeholders ("In preparation (90% complete)"): "Automated analysis of daily area covered by ground-based whole-tree harvesting equipment" and "Productivity of snap-and-fly helicopter logging operations". Both were submitted in October 2026 (Computers and Electronics in Agriculture and Canadian Journal of Forest Research, respectively) under their final titles, so the placeholder wording no longer exists in `data/`. Added on 2026/10/17. |
 
 ## Corrections applied
 

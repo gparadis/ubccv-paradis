@@ -935,17 +935,17 @@ Symbol key: `^` highly qualified personnel (HQP).
 
 ## 8. WORK SUBMITTED (including publisher and date of submission)
 
+3\. Mologni, O., **Jaffray, R.**<sup>^</sup>, Kenny, Q., Pledger, S., Marcoux, H., **Paradis, G.** and Roeser, D. *Productivity, time structure and standardized roadside cost of short-haul standing-stem helicopter logging in coastal British Columbia: an operational case study*. Submitted to Canadian Journal of Forest Research (2026/10).
+2\. Mologni, O., Lahrsen, S., **Jaffray, R.**<sup>^</sup>, Nicorescu, A.-I., **Paradis, G.** and Roeser, D. *Cost-fidelity trade-offs in estimating the area covered by whole-tree logging equipment from GNSS tracking*. Submitted to Computers and Electronics in Agriculture (2026/10).
 1\. Lane-Shaw, I., Raymundo, A., Stralberg, D., Bayne, E., Chubaty, A., Haché, S., McIntire, E., Micheletti, T., **Paradis, G.** and Cumming, S. *Piecewise smoothing of predicted species density maps: A method of integrating wildlife conservation objectives into forest management planning*. Submitted to Methods in Ecology and Evolution (2026/04).
 
 ## 9. WORK IN PROGRESS (including degree of completion)
 
-10\. **Paradis, G.**, **Ghasemi, E.**<sup>^</sup> and **Ghotb, S.**<sup>^</sup> *Microsite Classification from High-Resolution Drone Imagery: Using Deep Learning for Precision Aerial Reforestation*. In preparation (50% complete).
-9\. **Paradis, G.** and Fuchs, J. *Dynamic inconsistency of promised future yields in open-loop LP forest plans: an open, reproducible benchmark of Daugherty (1991) and four tests of mitigation*. In preparation (95% complete).
-8\. **Paradis, G.** *A Weighted Fitting Approach for Diameter Distributions from Horizontal Point Sampling*. In preparation (95% complete).
-7\. **Ghasemi, E.**<sup>^</sup>, **Ghotb, S.**<sup>^</sup>, **Coupland, K.**<sup>^</sup> and **Paradis, G.** *Developing a decision support system to assess forest management scenarios as a nature-based decarbonization solution: A case study from a mining company in British Columbia, Canada*. In preparation (95% complete).
-6\. **Jaffray, R.**<sup>^</sup>, **Coupland, K.**<sup>^</sup> and **Paradis, G.** *Evaluating Rolling-Horizon Design in Forest Operations Machine Scheduling*. In preparation (95% complete).
-5\. **Coupland, K.**<sup>^</sup>, **Paradis, G.**, **Ghasemi, E.**<sup>^</sup> and **Ghotb, S.**<sup>^</sup> *The Role of Harvested Woods Products Half-life and Displacement Uncertainty in Forest Management Decision Trade-offs and Carbon Dynamics in British Columbia*. In preparation (95% complete).
-4\. Mologni, O., Lahrsen, S., **Jaffray, R.**<sup>^</sup>, **Paradis, G.** and Roeser, D. *Automated analysis of daily area covered by ground-based whole-tree harvesting equipment*. In preparation (90% complete).
-3\. Mologni, O., **Jaffray, R.**<sup>^</sup>, Kenny, Q., **Paradis, G.** and Roeser, D. *Productivity of snap-and-fly helicopter logging operations*. In preparation (90% complete).
+8\. **Paradis, G.**, **Ghasemi, E.**<sup>^</sup> and **Ghotb, S.**<sup>^</sup> *Microsite Classification from High-Resolution Drone Imagery: Using Deep Learning for Precision Aerial Reforestation*. In preparation (50% complete).
+7\. **Paradis, G.** and Fuchs, J. *Dynamic inconsistency of promised future yields in open-loop LP forest plans: an open, reproducible benchmark of Daugherty (1991) and four tests of mitigation*. In preparation (95% complete).
+6\. **Paradis, G.** *A Weighted Fitting Approach for Diameter Distributions from Horizontal Point Sampling*. In preparation (95% complete).
+5\. **Ghasemi, E.**<sup>^</sup>, **Ghotb, S.**<sup>^</sup>, **Coupland, K.**<sup>^</sup> and **Paradis, G.** *Developing a decision support system to assess forest management scenarios as a nature-based decarbonization solution: A case study from a mining company in British Columbia, Canada*. In preparation (95% complete).
+4\. **Jaffray, R.**<sup>^</sup>, **Coupland, K.**<sup>^</sup> and **Paradis, G.** *Evaluating Rolling-Horizon Design in Forest Operations Machine Scheduling*. In preparation (95% complete).
+3\. **Coupland, K.**<sup>^</sup>, **Paradis, G.**, **Ghasemi, E.**<sup>^</sup> and **Ghotb, S.**<sup>^</sup> *The Role of Harvested Woods Products Half-life and Displacement Uncertainty in Forest Management Decision Trade-offs and Carbon Dynamics in British Columbia*. In preparation (95% complete).
 2\. Southam, H., **Guo, B.**<sup>^</sup>, **Paradis, G.** and Hamelin, R. *Forest edge spread of hemlock dwarf mistletoe (Arceuthobium tsugense) and implications for variable retention harvesting*. In preparation (80% complete).
 1\. Southam, H., **Guo, B.**<sup>^</sup>, **Paradis, G.** and Hamelin, R. *Mid-rotation hemlock dwarf mistletoe (Arceuthobium tsugense) infection*. In preparation (50% complete).
