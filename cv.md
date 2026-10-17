@@ -635,6 +635,9 @@ I have engaged in a range of service activities, both within UBC and in the broa
 
 | Role | Description | Date |
 | --- | --- | --- |
+| Interview | [Bulletin du 16 octobre - 15 h 00](https://ici.radio-canada.ca/ohdio/premiere/emissions/bulletin-regional-cjbc-toronto/episodes/1219421/bulletin-du-16-octobre-15-h-00) Radio-Canada (Bulletin régional Toronto) | 2026/10/16 |
+| Interview | [Les tarifs sur le bois d’œuvre canadien baissent](https://ici.radio-canada.ca/nouvelle/2293088/tarif-bois-oeuvre-resineux-trump) Radio-Canada | 2026/10/15 |
+| Interview | [Bulletin du 15 octobre - 22 h 00](https://ici.radio-canada.ca/ohdio/premiere/emissions/bulletinreseau/episodes/1236814/bulletin-du-15-octobre-22-h-00) Radio-Canada (Bulletin réseau) | 2026/10/15 |
 | Interview | [L'usine de pâte et papier Howe Sound va rouvrir](https://www.cbc.ca/news/canada/british-columbia/howe-sound-pulp-mill-reopen-9.7366417) Radio-Canada | 2026/10/02 |
 | Interview |  |  |
 | Article | [Foresterie : des groupes demandent des solutions dans les 30 jours](https://ici.radio-canada.ca/nouvelle/2282546/foresterie-plan-action-urgence?partageApp=appInfoiOS&accesVia=partage) Radio-Canada | 2026/09/10 |
