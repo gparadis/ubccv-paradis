@@ -818,6 +818,7 @@ Symbol key: `^` highly qualified personnel (HQP).
 
 ### (a) Journals
 
+16\. **Paradis, G.**, **Jaffray, R.**<sup>^</sup> and **Coupland, K.**<sup>^</sup> *FHOPS: A reproducible optimization and benchmarking stack for forest harvest operations*. SoftwareX. (in press)
 15\. **Paradis, G.** *A two-stage parameter-fitting method for modeling truncated stem diameter distributions*. Forest Science. (in press) DOI [10.1007/s44391-026-00069-5](https://doi.org/10.1007/s44391-026-00069-5).
 14\. Abougharib, A., Nazer, M.Z., **Paradis, G.** and Wiesner, F. *FIRECAT: A Public Database for Solid Temperature Modelling of Mass Timber Compartment Fire Tests*. Fire Safety Journal. (in press)
 13\. **Jaffray, R.**<sup>^</sup>, **Coupland, K.**<sup>^</sup> and **Paradis, G.** (2026). *Forest harvesting operational planning tools: a systematic review of optimization, simulation, and spatial decision support systems*. International Journal of Forest Engineering. (in press)
@@ -934,8 +935,7 @@ Symbol key: `^` highly qualified personnel (HQP).
 
 ## 8. WORK SUBMITTED (including publisher and date of submission)
 
-2\. Lane-Shaw, I., Raymundo, A., Stralberg, D., Bayne, E., Chubaty, A., Haché, S., McIntire, E., Micheletti, T., **Paradis, G.** and Cumming, S. *Piecewise smoothing of predicted species density maps: A method of integrating wildlife conservation objectives into forest management planning*. Submitted to Methods in Ecology and Evolution (2026/04).
-1\. **Paradis, G.**, **Jaffray, R.**<sup>^</sup> and **Coupland, K.**<sup>^</sup> *FHOPS: A reproducible optimization and benchmarking stack for forest harvest operations*. Submitted to SoftwareX (2026/06).
+1\. Lane-Shaw, I., Raymundo, A., Stralberg, D., Bayne, E., Chubaty, A., Haché, S., McIntire, E., Micheletti, T., **Paradis, G.** and Cumming, S. *Piecewise smoothing of predicted species density maps: A method of integrating wildlife conservation objectives into forest management planning*. Submitted to Methods in Ecology and Evolution (2026/04).
 
 ## 9. WORK IN PROGRESS (including degree of completion)
 

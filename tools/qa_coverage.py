@@ -101,12 +101,12 @@ def docx_tokens() -> Counter:
 
 
 # Differences that are correct by design: duplicated header blocks, boilerplate
-# the template regenerates, a tokenizer artifact, and one repaired typo.
-# Documented in reference/EXTRACTION-NOTES.md.
+# the template regenerates, a tokenizer artifact, one repaired typo, and one
+# superseded submission date (FHOPS, accepted; see reference/EXTRACTION-NOTES.md).
 EXPECTED = {
     "firstname": 2, "april": 1, "eric": 1, "vspsustainable": 1, "13": 1,
     "attendance": 1, "guest": 1, "internship": 1, "150": 1, "presenting": 1,
-    "any": 1, "universities": 1, "acfarlane": 1,
+    "any": 1, "universities": 1, "acfarlane": 1, "06": 1,
 }
 
 
