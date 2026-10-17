@@ -110,7 +110,7 @@ EXPECTED = {
     "any": 1, "universities": 1, "acfarlane": 1, "06": 1,
     "90": 2, "preparation": 1, "complete": 1, "operations": 1,
     "automated": 1, "daily": 1, "ground": 1, "fly": 1,
-    "modeling": 1, "parameter": 1,
+    "modeling": 1, "parameter": 1, "press": 1,
 }
 
 

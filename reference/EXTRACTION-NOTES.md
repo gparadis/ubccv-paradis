@@ -9,7 +9,7 @@ and italic were read from run properties, where there is no ambiguity.
 
 `make check` compares the token multiset of the original document against the
 token multiset of `data/`. It reports anything the original has more often than
-the sources do. The run at import time left 13 differences, all expected. Three later additions (October 2026) cover the FHOPS acceptance, the CJFR/CEA submissions and the Forest Science publication (last three rows):
+the sources do. The run at import time left 13 differences, all expected. Four later additions (October 2026) cover the FHOPS acceptance, the CJFR/CEA submissions, the Forest Science publication and the FIRECAT publication (last four rows):
 
 | Token(s) | Why |
 | --- | --- |
@@ -21,6 +21,7 @@ the sources do. The run at import time left 13 differences, all expected. Three 
 | `06` | The Word file listed FHOPS as "Submitted to SoftwareX (2026/06)". The paper was accepted in October 2026 and now sits under in-press refereed journals, so the submission month no longer exists in `data/`. Added to the exception list on 2026/10/17. |
 | `90`, `preparation`, `complete`, `operations`, `automated`, `daily`, `ground`, `fly` | The Word file still held two working-paper placeholders ("In preparation (90% complete)"): "Automated analysis of daily area covered by ground-based whole-tree harvesting equipment" and "Productivity of snap-and-fly helicopter logging operations". Both were submitted in October 2026 (Computers and Electronics in Agriculture and Canadian Journal of Forest Research, respectively) under their final titles, so the placeholder wording no longer exists in `data/`. Added on 2026/10/17. |
 | `modeling`, `parameter` | The Word file held this paper as "A two-stage parameter-fitting method for modeling truncated stem diameter distributions". It was published in *Forest Science* under the final title "A Two-Stage Fitting Method for Truncated Stem Diameter Distributions" (72(4), 483–494), so `parameter`/`modeling` no longer exist in `data/`. Added on 2026/10/17. |
+| `press` | Two `in press` notes existed for journal papers. FIRECAT is now published (*Fire Safety Journal* 163, 104868), so its note was removed; one `in press` remains in `data/` (the Jaffray et al. review), one fewer `press` token than the Word file. Added on 2026/10/17. |
 
 ## Corrections applied
 
