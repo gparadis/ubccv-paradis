@@ -819,7 +819,7 @@ Symbol key: `^` highly qualified personnel (HQP).
 ### (a) Journals
 
 16\. **Paradis, G.**, **Jaffray, R.**<sup>^</sup> and **Coupland, K.**<sup>^</sup> *FHOPS: A reproducible optimization and benchmarking stack for forest harvest operations*. SoftwareX. (in press)
-15\. **Paradis, G.** *A two-stage parameter-fitting method for modeling truncated stem diameter distributions*. Forest Science. (in press) DOI [10.1007/s44391-026-00069-5](https://doi.org/10.1007/s44391-026-00069-5).
+15\. **Paradis, G.** (2026). *A Two-Stage Fitting Method for Truncated Stem Diameter Distributions*. Forest Science, 72(4), 483--494. DOI [10.1007/s44391-026-00069-5](https://doi.org/10.1007/s44391-026-00069-5).
 14\. Abougharib, A., Nazer, M.Z., **Paradis, G.** and Wiesner, F. *FIRECAT: A Public Database for Solid Temperature Modelling of Mass Timber Compartment Fire Tests*. Fire Safety Journal. (in press)
 13\. **Jaffray, R.**<sup>^</sup>, **Coupland, K.**<sup>^</sup> and **Paradis, G.** (2026). *Forest harvesting operational planning tools: a systematic review of optimization, simulation, and spatial decision support systems*. International Journal of Forest Engineering. (in press)
 12\. **Paradis, G.** (2026). *WS3: An open-source Python framework for integrated simulation and optimization of forest landscape and wood supply systems*. Ecological Informatics, 95, 103688. DOI [10.1016/j.ecoinf.2026.103688](https://doi.org/10.1016/j.ecoinf.2026.103688).
