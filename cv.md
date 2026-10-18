@@ -856,24 +856,40 @@ Symbol key: `^` highly qualified personnel (HQP).
 
 ### (c) Other
 
-46\. **Paradis, G.** (2026). *femic-mkrf-instance technical documentation (v0.0.1-alpha1)*. https://ubc-fresh.github.io/femic-mkrf-instance. https://ubc-fresh.github.io/femic-mkrf-instance
-45\. **Paradis, G.** (2026). *femic-mkrf-instance (v0.0.1-alpha1) [computer software]*.
-44\. **Paradis, G.** (2026). *PAWS3 (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19621887. https://doi.org/10.5281/zenodo.19621887
-43\. **Paradis, G.** (2026). *lab-data-workflow-workshop (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19621878. https://doi.org/10.5281/zenodo.19621878
-42\. **Paradis, G.** (2026). *jupyterhub-container-deploy (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19621826. https://doi.org/10.5281/zenodo.19621826
-41\. **Paradis, G.** (2026). *femic-tsa29-instance technical documentation (v0.0.1-alpha1)*. https://ubc-fresh.github.io/femic-tsa29-instance. https://ubc-fresh.github.io/femic-tsa29-instance
-40\. **Paradis, G.** (2026). *femic-tsa29-instance (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19620982. https://doi.org/10.5281/zenodo.19620982
-39\. **Paradis, G.** (2026). *femic-k3z-instance technical documentation (v0.0.1-alpha)*. https://ubc-fresh.github.io/femic-k3z-instance/. https://ubc-fresh.github.io/femic-k3z-instance/
-38\. **Paradis, G.** (2026). *femic-k3z-instance (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19619736. https://doi.org/10.5281/zenodo.19619736
-37\. **Paradis, G.** (2026). *femic-public-data (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19619663. https://doi.org/10.5281/zenodo.19619663
-36\. **Paradis, G.** (2026). *FEMIC technical documentation (v0.0.1-alpha)*. https://ubc-fresh.github.io/femic/. https://ubc-fresh.github.io/femic/
-35\. **Paradis, G.** (2026). *FEMIC (v0.0.1-alpha) [computer software]*. 10.5281/zenodo.19619418. https://doi.org/10.5281/zenodo.19619418
-34\. **Paradis, G.** (2026). *BADC technical documentation (v0.0.1-alpha1) [computer software]*. https://ubc-fresh.github.io/badc/. https://ubc-fresh.github.io/badc/
-33\. **Paradis, G.** (2026). *BADC (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19620220. https://doi.org/10.5281/zenodo.19620220
-32\. **Paradis, G.** (2025). *Nemora technical documentation (v0.0.1-alpha.2)*. https://ubc-fresh.github.io/nemora/. https://ubc-fresh.github.io/nemora/
-31\. **Paradis, G.** (2025). *Nemora (v0.0.1-alpha.2) [computer software]*. 10.5281/zenodo.19618885. https://doi.org/10.5281/zenodo.19618885
-30\. **Paradis, G.** (2025). *FHOPS technical documentation (v1.0.0-alpha3)*. https://ubc-fresh.github.io/fhops/. https://ubc-fresh.github.io/fhops/
-29\. **Paradis, G.** (2025). *FHOPS (v1.0.0-alpha3) [computer software]*. 10.5281/zenodo.19619189. https://doi.org/10.5281/zenodo.19619189
+62\. **Paradis, G.** (2026). *fresh-yan (v0.1.2) [computer software]*. 10.5281/zenodo.23358263. https://doi.org/10.5281/zenodo.23358263
+61\. **Paradis, G.** (2026). *fresh-daugherty (v0.2.0) [computer software]*. 10.5281/zenodo.23218533. https://doi.org/10.5281/zenodo.23218533
+60\. UBC FRESH Lab (2026). *fresh-fuchs (v0.1.0-alpha2) [computer software]*. 10.5281/zenodo.21981299. https://doi.org/10.5281/zenodo.21981299
+59\. **Jaffray, R.**<sup>^</sup> (2026). *jaffray-masc-fhops-model (v1.0.0) [computer software]*. 10.5281/zenodo.19200385. https://doi.org/10.5281/zenodo.19200385
+58\. **Paradis, G.** (2026). *ws4 technical documentation*. https://ubc-fresh.github.io/ws4/. https://ubc-fresh.github.io/ws4/
+57\. **Paradis, G.** (2026). *modelwright technical documentation*. https://ubc-fresh.github.io/modelwright/. https://ubc-fresh.github.io/modelwright/
+56\. **Paradis, G.** (2026). *bc-npp-database technical documentation*. https://ubc-fresh.github.io/bc-npp-database/. https://ubc-fresh.github.io/bc-npp-database/
+55\. **Paradis, G.** (2026). *figrecover technical documentation*. https://ubc-fresh.github.io/figrecover/. https://ubc-fresh.github.io/figrecover/
+54\. **Paradis, G.** (2026). *freshforge technical documentation*. https://ubc-fresh.github.io/freshforge/. https://ubc-fresh.github.io/freshforge/
+53\. **Paradis, G.** (2026). *fresh-salvage technical documentation*. https://ubc-fresh.github.io/fresh-salvage/. https://ubc-fresh.github.io/fresh-salvage/
+52\. **Paradis, G.** (2026). *wbi-birds technical documentation*. https://ubc-fresh.github.io/wbi-birds/. https://ubc-fresh.github.io/wbi-birds/
+51\. **Paradis, G.** (2026). *fieldatlas [computer software]*. https://github.com/UBC-FRESH/fieldatlas. https://github.com/UBC-FRESH/fieldatlas
+50\. **Paradis, G.** (2026). *fresh-hectaresbc technical documentation*. https://ubc-fresh.github.io/fresh-hectaresbc/. https://ubc-fresh.github.io/fresh-hectaresbc/
+49\. **Paradis, G.** (2026). *clews-c2070-fresh [computer software]*. https://github.com/UBC-FRESH/clews-c2070-fresh. https://github.com/UBC-FRESH/clews-c2070-fresh
+48\. **Paradis, G.** (2026). *femic-mkrf-instance technical documentation (v0.0.1-alpha1)*. https://ubc-fresh.github.io/femic-mkrf-instance. https://ubc-fresh.github.io/femic-mkrf-instance
+47\. **Paradis, G.** (2026). *femic-mkrf-instance (v0.0.1-alpha1) [computer software]*.
+46\. **Paradis, G.** (2026). *PAWS3 (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19621887. https://doi.org/10.5281/zenodo.19621887
+45\. **Paradis, G.** (2026). *lab-data-workflow-workshop (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19621878. https://doi.org/10.5281/zenodo.19621878
+44\. **Paradis, G.** (2026). *jupyterhub-container-deploy (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19621826. https://doi.org/10.5281/zenodo.19621826
+43\. **Paradis, G.** (2026). *femic-tsa29-instance technical documentation (v0.0.1-alpha1)*. https://ubc-fresh.github.io/femic-tsa29-instance. https://ubc-fresh.github.io/femic-tsa29-instance
+42\. **Paradis, G.** (2026). *femic-tsa29-instance (v1.0.0-alpha1) [computer software]*. 10.5281/zenodo.20577587. https://doi.org/10.5281/zenodo.20577587
+41\. **Paradis, G.** (2026). *femic-k3z-instance technical documentation (v0.0.1-alpha)*. https://ubc-fresh.github.io/femic-k3z-instance/. https://ubc-fresh.github.io/femic-k3z-instance/
+40\. **Paradis, G.** (2026). *femic-k3z-instance (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19619736. https://doi.org/10.5281/zenodo.19619736
+39\. **Paradis, G.** (2026). *femic-public-data (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19619663. https://doi.org/10.5281/zenodo.19619663
+38\. **Paradis, G.** (2026). *FEMIC technical documentation (v0.0.1-alpha)*. https://ubc-fresh.github.io/femic/. https://ubc-fresh.github.io/femic/
+37\. **Paradis, G.** (2026). *FEMIC (v0.0.1-alpha) [computer software]*. 10.5281/zenodo.19619418. https://doi.org/10.5281/zenodo.19619418
+36\. **Paradis, G.** (2026). *BADC technical documentation (v0.0.1-alpha1) [computer software]*. https://ubc-fresh.github.io/badc/. https://ubc-fresh.github.io/badc/
+35\. **Paradis, G.** (2026). *BADC (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19620220. https://doi.org/10.5281/zenodo.19620220
+34\. **Paradis, G.** (2025). *Nemora technical documentation (v0.0.1-alpha.2)*. https://ubc-fresh.github.io/nemora/. https://ubc-fresh.github.io/nemora/
+33\. **Paradis, G.** (2025). *Nemora (v0.0.1-alpha.2) [computer software]*. 10.5281/zenodo.19618885. https://doi.org/10.5281/zenodo.19618885
+32\. **Paradis, G.** (2025). *FHOPS technical documentation (v1.0.0-alpha3)*. https://ubc-fresh.github.io/fhops/. https://ubc-fresh.github.io/fhops/
+31\. **Paradis, G.** (2026). *FHOPS (v1.0.1) [computer software]*. 10.5281/zenodo.23244315. https://doi.org/10.5281/zenodo.23244315
+30\. **Paradis, G.** (2025). *Forest carbon offset protocol summaries*. https://github.com/UBC-FRESH/forest-carbon-offset-protocol-summaries. https://github.com/UBC-FRESH/forest-carbon-offset-protocol-summaries
+29\. **Paradis, G.** and **Ghasemi, E.**<sup>^</sup> (2025). *nbds\_dss (v1.0.0) [computer software]*. 10.5281/zenodo.17316315. https://doi.org/10.5281/zenodo.17316315
 28\. **Paradis, G.** and **Ghotb, S.**<sup>^</sup> (2025). *ecotrust-dss-data (v1.0.0) [computer software]*. 10.5281/zenodo.19621476. https://doi.org/10.5281/zenodo.19621476
 27\. **Paradis, G.** and **Ghotb, S.**<sup>^</sup> (2025). *ecotrust-dss (v1.0.0) [computer software]*. 10.5281/zenodo.17330007. https://doi.org/10.5281/zenodo.17330007
 26\. **Paradis, G.**, **Ghotb, S.**<sup>^</sup>, **Ghasemi, E.**<sup>^</sup> and **Coupland, K.**<sup>^</sup> (2025). *s3 technical documentation (v1.0.6)*. w https://ws3.readthedocs.io/en/dev/. https://ws3.readthedocs.io/en/dev/

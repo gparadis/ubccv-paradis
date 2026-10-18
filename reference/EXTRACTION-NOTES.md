@@ -9,7 +9,7 @@ and italic were read from run properties, where there is no ambiguity.
 
 `make check` compares the token multiset of the original document against the
 token multiset of `data/`. It reports anything the original has more often than
-the sources do. The run at import time left 13 differences, all expected. Four later additions (October 2026) cover the FHOPS acceptance, the CJFR/CEA submissions, the Forest Science publication and the FIRECAT publication (last four rows):
+the sources do. The run at import time left 13 differences, all expected. Five later additions (October 2026) cover the FHOPS acceptance, the CJFR/CEA submissions, the Forest Science and FIRECAT publications, and the October 2026 software release updates (last five rows):
 
 | Token(s) | Why |
 | --- | --- |
@@ -22,6 +22,7 @@ the sources do. The run at import time left 13 differences, all expected. Four l
 | `90`, `preparation`, `complete`, `operations`, `automated`, `daily`, `ground`, `fly` | The Word file still held two working-paper placeholders ("In preparation (90% complete)"): "Automated analysis of daily area covered by ground-based whole-tree harvesting equipment" and "Productivity of snap-and-fly helicopter logging operations". Both were submitted in October 2026 (Computers and Electronics in Agriculture and Canadian Journal of Forest Research, respectively) under their final titles, so the placeholder wording no longer exists in `data/`. Added on 2026/10/17. |
 | `modeling`, `parameter` | The Word file held this paper as "A two-stage parameter-fitting method for modeling truncated stem diameter distributions". It was published in *Forest Science* under the final title "A Two-Stage Fitting Method for Truncated Stem Diameter Distributions" (72(4), 483–494), so `parameter`/`modeling` no longer exist in `data/`. Added on 2026/10/17. |
 | `press` | The Word file used `in press` for journal papers that have since been published: Forest Science (72(4), 483–494), FIRECAT (*Fire Safety Journal* 163, 104868) and Jaffray et al. (*International Journal of Forest Engineering*, online 13 Jun 2026). One `in press` note remains in `data/` (FHOPS, SoftwareX), two fewer `press` tokens than the Word file. Extended on 2026/10/17. |
+| `0.0.1`, `19620982`, `19619189` | Software release updates in October 2026: the FHOPS entry moved from v1.0.0-alpha3 (Zenodo 19619189) to v1.0.1 (23244315), and femic-tsa29-instance from v0.0.1-alpha1 (19620982) to v1.0.0-alpha1 (20577587). The old version string and DOIs no longer exist in `data/`. Added on 2026/10/18. |
 
 ## Corrections applied
 
