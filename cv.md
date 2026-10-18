@@ -2,7 +2,7 @@
 
 **Curriculum Vitae for Faculty Members**
 
-**Date**: April 2026 · **Initials**: GEP
+**Date**: October 2026 · **Initials**: GEP
 
 ## 1. SURNAME
 
@@ -810,7 +810,7 @@ In summary, my strategic investment in diverse partnerships over the past three 
 **Publications Record**
 
 **SURNAME**: Paradis · **FIRST NAME**: Gregory · **Initials**: GEP  
-**MIDDLE NAME(S)**: Eric · **Date**: April 2026
+**MIDDLE NAME(S)**: Eric · **Date**: October 2026
 
 Symbol key: `^` highly qualified personnel (HQP).
 

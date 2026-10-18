@@ -105,7 +105,7 @@ def docx_tokens() -> Counter:
 # superseded submission placeholders (FHOPS acceptance; Mologni CJFR/CEA
 # submissions; Forest Science title change; see reference/EXTRACTION-NOTES.md).
 EXPECTED = {
-    "firstname": 2, "april": 1, "eric": 1, "vspsustainable": 1, "13": 1,
+    "firstname": 2, "april": 2, "eric": 1, "vspsustainable": 1, "13": 1,
     "attendance": 1, "guest": 1, "internship": 1, "150": 1, "presenting": 1,
     "any": 1, "universities": 1, "acfarlane": 1, "06": 1,
     "90": 2, "preparation": 1, "complete": 1, "operations": 1,
