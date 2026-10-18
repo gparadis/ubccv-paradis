@@ -64,7 +64,8 @@ def _doi_or_url(e: dict) -> str:
     if e.get("doi"):
         doi = e["doi"]
         return r" DOI \href{https://doi.org/" + doi + "}{" + esc(doi) + "}."
-    if e.get("url"):
+    venue = e.get("journal") or e.get("booktitle") or e.get("venue")
+    if e.get("url") and e["url"] != venue:
         url = e["url"]
         return r" \href{" + url + "}{" + esc(url) + "}."
     return ""

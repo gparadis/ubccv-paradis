@@ -112,6 +112,7 @@ EXPECTED = {
     "automated": 1, "daily": 1, "ground": 1, "fly": 1,
     "modeling": 1, "parameter": 1, "press": 2,
     "0.0.1": 1, "19620982": 1, "19619189": 1,
+    "dx": 8, "http": 2,
 }
 
 

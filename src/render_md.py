@@ -26,7 +26,7 @@ BR = "<br>"
 
 
 def esc(text) -> str:
-    return "".join(MD_SPECIALS.get(c, c) for c in str(text))
+    return "".join(MD_SPECIALS.get(c, c) for c in str(text)).replace("--", "\u2013")
 
 
 def flat(text) -> str:
@@ -128,7 +128,7 @@ def reference_md(e: dict, self_surname: str) -> str:
     text = " ".join(b for b in bits if b)
     if e.get("doi"):
         text += f" DOI [{esc(e['doi'])}](https://doi.org/{e['doi']})."
-    elif e.get("url"):
+    elif e.get("url") and e["url"] != (e.get("journal") or e.get("booktitle") or e.get("venue")):
         text += f" {e['url']}"
     if e.get("scope"):
         text += f" [{esc(e['scope'])}]"

@@ -393,8 +393,8 @@ Symbol key: `*` presenting author; `^` highly qualified personnel (HQP)
 32\. **Paradis, G.**<sup>*</sup> and Lebel, L. (2017). *A bilevel model formulation for the distributed wood supply planning problem*. Best Paper, 2017 David Martell Student Paper Prize in Forestry. Presented at CORS/IFORS 2017, Quebec City.
 31\. **Paradis, G.**<sup>*</sup> and Lebel, L. (2017). *Re-aligning supply and demand for hardwood pulpwood in Quebec, Canada*. SSAFR 2015, Upsala, Sweden.
 30\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2015). *Exploring Bilevel Wood Supply Policy Space*. CORS Annual Conference Conference 2015, Montreal.
-29\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *Supplying a Sustainable Future*. CORS Annual Conference 2014, Ottawa..
-28\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *Extending a Wood Supply Model to Anticipate Industrial Fibre Consumption Behaviour*. CORS Annual Conference 2014, Ottawa..
+29\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *Supplying a Sustainable Future*. CORS Annual Conference 2014, Ottawa.
+28\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *Extending a Wood Supply Model to Anticipate Industrial Fibre Consumption Behaviour*. CORS Annual Conference 2014, Ottawa.
 27\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *On Risk of Systematic Drift Under Incoherent Hierarchical Forest Management Planning*. Best Paper, 2014 David Martell Student Paper Prize in Forestry. Presented at CORS Annual Conference 2014, Ottawa.
 26\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *Extending a Wood Supply Model to Anticipate Industrial Fibre Consumption Behaviour*. Poster presented at VCO Summer School 2014, Halifax.
 25\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *Extending a Wood Supply Model to Anticipate Industrial Fibre Consumption Behaviour*. Poster presented at FIBRE Conference 2014, Vancouver.
@@ -453,7 +453,7 @@ Symbol key: `*` presenting author; `^` highly qualified personnel (HQP)
 - Session Chair, Systems Symposium in Analysis of Forest Resources (SSAFR) 2013, Quebec City
 - Cluster Co-chair, Forestry cluster, Canadian Operational Research Society (CORS) Annual Conference 2012
 - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2012
-- Organizing Committee, 34th annual meeting of the Council on Forest Engineering (COFE) 2011, Quebec City, 2010--2011
+- Organizing Committee, 34th annual meeting of the Council on Forest Engineering (COFE) 2011, Quebec City, 2010–2011
 - Session Chair, Sources de risques et d'incertitudes dans le calcul de possibilité. Faut-il en tenir compte? Carrefour Forêt Innovations 2011, Quebec City, 2011
 - Conference Co-chair, UNBF Graduate Student Association Research Conference 2003, 2002—2003
 
@@ -819,21 +819,21 @@ Symbol key: `^` highly qualified personnel (HQP).
 ### (a) Journals
 
 16\. **Paradis, G.**, **Jaffray, R.**<sup>^</sup> and **Coupland, K.**<sup>^</sup> *FHOPS: A reproducible optimization and benchmarking stack for forest harvest operations*. SoftwareX. (in press)
-15\. **Paradis, G.** (2026). *A Two-Stage Fitting Method for Truncated Stem Diameter Distributions*. Forest Science, 72(4), 483--494. DOI [10.1007/s44391-026-00069-5](https://doi.org/10.1007/s44391-026-00069-5).
+15\. **Paradis, G.** (2026). *A Two-Stage Fitting Method for Truncated Stem Diameter Distributions*. Forest Science, 72(4), 483–494. DOI [10.1007/s44391-026-00069-5](https://doi.org/10.1007/s44391-026-00069-5).
 14\. Abougharib, A., Nazer, M.Z., **Paradis, G.** and Wiesner, F. (2026). *FIRECAT: A public database for solid temperature modelling of mass timber compartment fire tests*. Fire Safety Journal, 163, 104868. DOI [10.1016/j.firesaf.2026.104868](https://doi.org/10.1016/j.firesaf.2026.104868).
 13\. **Jaffray, R.**<sup>^</sup>, **Coupland, K.**<sup>^</sup> and **Paradis, G.** (2026). *Forest harvesting operational planning tools: a systematic review of optimization, simulation, and spatial decision support systems*. International Journal of Forest Engineering. DOI [10.1080/14942119.2026.2662184](https://doi.org/10.1080/14942119.2026.2662184).
 12\. **Paradis, G.** (2026). *WS3: An open-source Python framework for integrated simulation and optimization of forest landscape and wood supply systems*. Ecological Informatics, 95, 103688. DOI [10.1016/j.ecoinf.2026.103688](https://doi.org/10.1016/j.ecoinf.2026.103688).
 11\. Hughes, J., Endicott, S., Lapins, D., Lochhead, K. and **Paradis, G.** (2025). *Development and assessment of automated forest road projection methods using performance metrics relevant for wildlife*. Landscape Ecology, 40, 208. DOI [10.1007/s10980-025-02232-8](https://doi.org/10.1007/s10980-025-02232-8).
-10\. Munro, H., Woodall, C., Anderegg, W., Atkins, J., Beier, C., Bullock, B., DeLyser, K., Diaz, D., Eskelson, B., Evans, M., Foppert, J., Foster, B., Fox, T., Frank, J., Froese, R., Gaines III, G., Gould, P., Hailemariam, T., Sonne Hall, E., Heckman, K., Helmer, E., Hogan, J., Hoover, C., Kinane, S., MacFarlane, D., Murray, L., **Paradis, G.**, Poudel, K., Prisley, S., Rakestraw, J., Restrepo, H., Sharma, Shaw, J., Smith-Mateja, E., VanderSchaaf, C., Vatandaslar, C., Weiskittel, A. and Yang, S. (2025). *Challenges and Strategic Recommendations for Enhancing Quantification and Projection of Forest Carbon Dynamics*. Journal of Forestry, 123, 703--734. DOI [10.1007/s44392-025-00048-7](https://doi.org/10.1007/s44392-025-00048-7).
+10\. Munro, H., Woodall, C., Anderegg, W., Atkins, J., Beier, C., Bullock, B., DeLyser, K., Diaz, D., Eskelson, B., Evans, M., Foppert, J., Foster, B., Fox, T., Frank, J., Froese, R., Gaines III, G., Gould, P., Hailemariam, T., Sonne Hall, E., Heckman, K., Helmer, E., Hogan, J., Hoover, C., Kinane, S., MacFarlane, D., Murray, L., **Paradis, G.**, Poudel, K., Prisley, S., Rakestraw, J., Restrepo, H., Sharma, Shaw, J., Smith-Mateja, E., VanderSchaaf, C., Vatandaslar, C., Weiskittel, A. and Yang, S. (2025). *Challenges and Strategic Recommendations for Enhancing Quantification and Projection of Forest Carbon Dynamics*. Journal of Forestry, 123, 703–734. DOI [10.1007/s44392-025-00048-7](https://doi.org/10.1007/s44392-025-00048-7).
 9\. **Guo, B.**<sup>^</sup>, **Paradis, G.** and Lam, T.-Y. (2025). *Consistency and equivalence in tree diameter and height instruments among inexperienced surveyors*. Journal of Forest Research, 36(1). DOI [10.1007/s11676-025-01840-z](https://doi.org/10.1007/s11676-025-01840-z).
 8\. **Lafond, V.**<sup>^</sup>, Polinko, A., Man, C., Dymond, C., **Paradis, G.** and Griess, V. (2024). *Mitigating the mid-term timber supply shortage in British Columbia: Silvicultural options under a changing climate*. Canadian Journal of Forest Research, 54(11). (Editor’s Choice) DOI [10.1139/cjfr-2023-0225](https://doi.org/10.1139/cjfr-2023-0225).
 7\. Boisvenue, C., **Paradis, G.**, Eddy, I., McIntire, E. and Chubaty, A. (2022). *Managing forest carbon and landscape capacities*. Environmental Research Letters, 17(11), 114013. DOI [10.1088/1748-9326/ac9919](https://doi.org/10.1088/1748-9326/ac9919).
 6\. Lafond, V., Lingua, F., Lumnitz, S., **Paradis, G.**, Srivastava, V. and Griess, V. (2020). *Challenges and opportunities in developing DSS for risk assessment and management of forest invasive alien species*. Environmental Reviews, 28(3). DOI [10.1139/er-2019-0024](https://doi.org/10.1139/er-2019-0024).
-5\. Cantegril, P., **Paradis, G.**, LeBel, L. and Raulier, F. (2019). *Bioenergy production to improve value-creation potential of strategic forest management plans in mixed-wood forests of Eastern Canada*. Applied Energy, 247, 171--181.
-4\. Roe, A., Torson, A., Bilodeau, G., Bilodeau, P., Blackburn, G., Cui, M., Cusson, M., Doucet, D., Griess, V., Lafond, V., **Paradis, G.**, Porth, I., Prunier, J., Srivastava, V., Tremblay, J., Uzunovic, A., Yemshanov, D. and Hamelin, R. (2018). *Biosurveillance of Forest Insects. Part II: Adoption of genomic tools by end user communities and barriers to integration*. Journal of Pest Science, 92(1), 71--82.
-3\. Roe, A., Torson, A., Bilodeau, G., Bilodeau, P., Blackburn, G., Cui, M., Cusson, M., Doucet, D., Griess, V., Lafond, V., **Paradis, G.**, Porth, I., Prunier, J., Srivastava, V., Tremblay, J., Uzunovic, A., Yemshanov, D. and Hamelin, R. (2018). *Biosurveillance of Forest Insects. Part I: Integration and application of genomic tools to the surveillance of non-native forest insects*. Journal of Pest Science, 92(1), 52--70.
-2\. **Paradis, G.**, Bouchard, M., LeBel, L. and D’Amours, S. (2018). *A Bilevel Model Formulation for the Distributed Wood Supply Planning Problem*. Canadian Journal of Forest Research, 48(2), 159--170. DOI [10.1139/cjfr-2017-0240](https://doi.org/10.1139/cjfr-2017-0240).
-1\. **Paradis, G.**, LeBel, L., D’Amours, S. and Bouchard, M. (2013). *On the risk of systematic drift under incoherent hierarchical forest management planning*. Canadian Journal of Forest Research, 43(5), 480--492. DOI [10.1139/cjfr-2012-0334](https://doi.org/10.1139/cjfr-2012-0334).
+5\. Cantegril, P., **Paradis, G.**, LeBel, L. and Raulier, F. (2019). *Bioenergy production to improve value-creation potential of strategic forest management plans in mixed-wood forests of Eastern Canada*. Applied Energy, 247, 171–181.
+4\. Roe, A., Torson, A., Bilodeau, G., Bilodeau, P., Blackburn, G., Cui, M., Cusson, M., Doucet, D., Griess, V., Lafond, V., **Paradis, G.**, Porth, I., Prunier, J., Srivastava, V., Tremblay, J., Uzunovic, A., Yemshanov, D. and Hamelin, R. (2018). *Biosurveillance of Forest Insects. Part II: Adoption of genomic tools by end user communities and barriers to integration*. Journal of Pest Science, 92(1), 71–82.
+3\. Roe, A., Torson, A., Bilodeau, G., Bilodeau, P., Blackburn, G., Cui, M., Cusson, M., Doucet, D., Griess, V., Lafond, V., **Paradis, G.**, Porth, I., Prunier, J., Srivastava, V., Tremblay, J., Uzunovic, A., Yemshanov, D. and Hamelin, R. (2018). *Biosurveillance of Forest Insects. Part I: Integration and application of genomic tools to the surveillance of non-native forest insects*. Journal of Pest Science, 92(1), 52–70.
+2\. **Paradis, G.**, Bouchard, M., LeBel, L. and D’Amours, S. (2018). *A Bilevel Model Formulation for the Distributed Wood Supply Planning Problem*. Canadian Journal of Forest Research, 48(2), 159–170. DOI [10.1139/cjfr-2017-0240](https://doi.org/10.1139/cjfr-2017-0240).
+1\. **Paradis, G.**, LeBel, L., D’Amours, S. and Bouchard, M. (2013). *On the risk of systematic drift under incoherent hierarchical forest management planning*. Canadian Journal of Forest Research, 43(5), 480–492. DOI [10.1139/cjfr-2012-0334](https://doi.org/10.1139/cjfr-2012-0334).
 
 ### (b) Conference Proceedings
 
@@ -842,7 +842,7 @@ Symbol key: `^` highly qualified personnel (HQP).
 
 ### (c) Other
 
-1\. **Paradis, G.** and Richards, E.W. (2001). *FLG: A Forest Landscape Generator*. CORS Bulletin, 35(3), 28--31.
+1\. **Paradis, G.** and Richards, E.W. (2001). *FLG: A Forest Landscape Generator*. CORS Bulletin, 35(3), 28–31.
 
 ## 2. NON-REFEREED PUBLICATIONS
 
@@ -860,64 +860,64 @@ Symbol key: `^` highly qualified personnel (HQP).
 61\. **Paradis, G.** (2026). *fresh-daugherty (v0.2.0) [computer software]*. 10.5281/zenodo.23218533. https://doi.org/10.5281/zenodo.23218533
 60\. UBC FRESH Lab (2026). *fresh-fuchs (v0.1.0-alpha2) [computer software]*. 10.5281/zenodo.21981299. https://doi.org/10.5281/zenodo.21981299
 59\. **Jaffray, R.**<sup>^</sup> (2026). *jaffray-masc-fhops-model (v1.0.0) [computer software]*. 10.5281/zenodo.19200385. https://doi.org/10.5281/zenodo.19200385
-58\. **Paradis, G.** (2026). *ws4 technical documentation*. https://ubc-fresh.github.io/ws4/. https://ubc-fresh.github.io/ws4/
-57\. **Paradis, G.** (2026). *modelwright technical documentation*. https://ubc-fresh.github.io/modelwright/. https://ubc-fresh.github.io/modelwright/
-56\. **Paradis, G.** (2026). *bc-npp-database technical documentation*. https://ubc-fresh.github.io/bc-npp-database/. https://ubc-fresh.github.io/bc-npp-database/
-55\. **Paradis, G.** (2026). *figrecover technical documentation*. https://ubc-fresh.github.io/figrecover/. https://ubc-fresh.github.io/figrecover/
-54\. **Paradis, G.** (2026). *freshforge technical documentation*. https://ubc-fresh.github.io/freshforge/. https://ubc-fresh.github.io/freshforge/
-53\. **Paradis, G.** (2026). *fresh-salvage technical documentation*. https://ubc-fresh.github.io/fresh-salvage/. https://ubc-fresh.github.io/fresh-salvage/
-52\. **Paradis, G.** (2026). *wbi-birds technical documentation*. https://ubc-fresh.github.io/wbi-birds/. https://ubc-fresh.github.io/wbi-birds/
-51\. **Paradis, G.** (2026). *fieldatlas [computer software]*. https://github.com/UBC-FRESH/fieldatlas. https://github.com/UBC-FRESH/fieldatlas
-50\. **Paradis, G.** (2026). *fresh-hectaresbc technical documentation*. https://ubc-fresh.github.io/fresh-hectaresbc/. https://ubc-fresh.github.io/fresh-hectaresbc/
-49\. **Paradis, G.** (2026). *clews-c2070-fresh [computer software]*. https://github.com/UBC-FRESH/clews-c2070-fresh. https://github.com/UBC-FRESH/clews-c2070-fresh
-48\. **Paradis, G.** (2026). *femic-mkrf-instance technical documentation (v0.0.1-alpha1)*. https://ubc-fresh.github.io/femic-mkrf-instance. https://ubc-fresh.github.io/femic-mkrf-instance
+58\. **Paradis, G.** (2026). *ws4 technical documentation*. https://ubc-fresh.github.io/ws4/.
+57\. **Paradis, G.** (2026). *modelwright technical documentation*. https://ubc-fresh.github.io/modelwright/.
+56\. **Paradis, G.** (2026). *bc-npp-database technical documentation*. https://ubc-fresh.github.io/bc-npp-database/.
+55\. **Paradis, G.** (2026). *figrecover technical documentation*. https://ubc-fresh.github.io/figrecover/.
+54\. **Paradis, G.** (2026). *freshforge technical documentation*. https://ubc-fresh.github.io/freshforge/.
+53\. **Paradis, G.** (2026). *fresh-salvage technical documentation*. https://ubc-fresh.github.io/fresh-salvage/.
+52\. **Paradis, G.** (2026). *wbi-birds technical documentation*. https://ubc-fresh.github.io/wbi-birds/.
+51\. **Paradis, G.** (2026). *fieldatlas [computer software]*. https://github.com/UBC-FRESH/fieldatlas.
+50\. **Paradis, G.** (2026). *fresh-hectaresbc technical documentation*. https://ubc-fresh.github.io/fresh-hectaresbc/.
+49\. **Paradis, G.** (2026). *clews-c2070-fresh [computer software]*. https://github.com/UBC-FRESH/clews-c2070-fresh.
+48\. **Paradis, G.** (2026). *femic-mkrf-instance technical documentation (v0.0.1-alpha1)*. https://ubc-fresh.github.io/femic-mkrf-instance.
 47\. **Paradis, G.** (2026). *femic-mkrf-instance (v0.0.1-alpha1) [computer software]*.
 46\. **Paradis, G.** (2026). *PAWS3 (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19621887. https://doi.org/10.5281/zenodo.19621887
 45\. **Paradis, G.** (2026). *lab-data-workflow-workshop (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19621878. https://doi.org/10.5281/zenodo.19621878
 44\. **Paradis, G.** (2026). *jupyterhub-container-deploy (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19621826. https://doi.org/10.5281/zenodo.19621826
-43\. **Paradis, G.** (2026). *femic-tsa29-instance technical documentation (v0.0.1-alpha1)*. https://ubc-fresh.github.io/femic-tsa29-instance. https://ubc-fresh.github.io/femic-tsa29-instance
+43\. **Paradis, G.** (2026). *femic-tsa29-instance technical documentation (v0.0.1-alpha1)*. https://ubc-fresh.github.io/femic-tsa29-instance.
 42\. **Paradis, G.** (2026). *femic-tsa29-instance (v1.0.0-alpha1) [computer software]*. 10.5281/zenodo.20577587. https://doi.org/10.5281/zenodo.20577587
-41\. **Paradis, G.** (2026). *femic-k3z-instance technical documentation (v0.0.1-alpha)*. https://ubc-fresh.github.io/femic-k3z-instance/. https://ubc-fresh.github.io/femic-k3z-instance/
+41\. **Paradis, G.** (2026). *femic-k3z-instance technical documentation (v0.0.1-alpha)*. https://ubc-fresh.github.io/femic-k3z-instance/.
 40\. **Paradis, G.** (2026). *femic-k3z-instance (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19619736. https://doi.org/10.5281/zenodo.19619736
 39\. **Paradis, G.** (2026). *femic-public-data (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19619663. https://doi.org/10.5281/zenodo.19619663
-38\. **Paradis, G.** (2026). *FEMIC technical documentation (v0.0.1-alpha)*. https://ubc-fresh.github.io/femic/. https://ubc-fresh.github.io/femic/
+38\. **Paradis, G.** (2026). *FEMIC technical documentation (v0.0.1-alpha)*. https://ubc-fresh.github.io/femic/.
 37\. **Paradis, G.** (2026). *FEMIC (v0.0.1-alpha) [computer software]*. 10.5281/zenodo.19619418. https://doi.org/10.5281/zenodo.19619418
-36\. **Paradis, G.** (2026). *BADC technical documentation (v0.0.1-alpha1) [computer software]*. https://ubc-fresh.github.io/badc/. https://ubc-fresh.github.io/badc/
+36\. **Paradis, G.** (2026). *BADC technical documentation (v0.0.1-alpha1) [computer software]*. https://ubc-fresh.github.io/badc/.
 35\. **Paradis, G.** (2026). *BADC (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19620220. https://doi.org/10.5281/zenodo.19620220
-34\. **Paradis, G.** (2025). *Nemora technical documentation (v0.0.1-alpha.2)*. https://ubc-fresh.github.io/nemora/. https://ubc-fresh.github.io/nemora/
+34\. **Paradis, G.** (2025). *Nemora technical documentation (v0.0.1-alpha.2)*. https://ubc-fresh.github.io/nemora/.
 33\. **Paradis, G.** (2025). *Nemora (v0.0.1-alpha.2) [computer software]*. 10.5281/zenodo.19618885. https://doi.org/10.5281/zenodo.19618885
-32\. **Paradis, G.** (2025). *FHOPS technical documentation (v1.0.0-alpha3)*. https://ubc-fresh.github.io/fhops/. https://ubc-fresh.github.io/fhops/
+32\. **Paradis, G.** (2025). *FHOPS technical documentation (v1.0.0-alpha3)*. https://ubc-fresh.github.io/fhops/.
 31\. **Paradis, G.** (2026). *FHOPS (v1.0.1) [computer software]*. 10.5281/zenodo.23244315. https://doi.org/10.5281/zenodo.23244315
-30\. **Paradis, G.** (2025). *Forest carbon offset protocol summaries*. https://github.com/UBC-FRESH/forest-carbon-offset-protocol-summaries. https://github.com/UBC-FRESH/forest-carbon-offset-protocol-summaries
+30\. **Paradis, G.** (2025). *Forest carbon offset protocol summaries*. https://github.com/UBC-FRESH/forest-carbon-offset-protocol-summaries.
 29\. **Paradis, G.** and **Ghasemi, E.**<sup>^</sup> (2025). *nbds\_dss (v1.0.0) [computer software]*. 10.5281/zenodo.17316315. https://doi.org/10.5281/zenodo.17316315
 28\. **Paradis, G.** and **Ghotb, S.**<sup>^</sup> (2025). *ecotrust-dss-data (v1.0.0) [computer software]*. 10.5281/zenodo.19621476. https://doi.org/10.5281/zenodo.19621476
 27\. **Paradis, G.** and **Ghotb, S.**<sup>^</sup> (2025). *ecotrust-dss (v1.0.0) [computer software]*. 10.5281/zenodo.17330007. https://doi.org/10.5281/zenodo.17330007
-26\. **Paradis, G.**, **Ghotb, S.**<sup>^</sup>, **Ghasemi, E.**<sup>^</sup> and **Coupland, K.**<sup>^</sup> (2025). *s3 technical documentation (v1.0.6)*. w https://ws3.readthedocs.io/en/dev/. https://ws3.readthedocs.io/en/dev/
+26\. **Paradis, G.**, **Ghotb, S.**<sup>^</sup>, **Ghasemi, E.**<sup>^</sup> and **Coupland, K.**<sup>^</sup> (2025). *s3 technical documentation (v1.0.6)*. https://ws3.readthedocs.io/en/dev/.
 25\. **Paradis, G.**, **Ghotb, S.**<sup>^</sup>, **Ghasemi, E.**<sup>^</sup> and **Coupland, K.**<sup>^</sup> (2025). *ws3 (Version 1.0.6) [computer software]*. 10.5281/zenodo.18716705. https://doi.org/10.5281/zenodo.18716705
 24\. **Paradis, G.** (2025). *spades\_ws3\_dataInit (Version 1.1.1) [Computer software]*.
 23\. **Paradis, G.** (2025). *spades\_ws3 (Version 1.1.1) [Computer software]*.
 22\. **Paradis, G.** (2024). *spades\_ws3\_dataInit (Version 1.1.0) [Computer software]*.
 21\. **Paradis, G.** (2024). *spades\_ws3 (Version 1.1.0) [Computer software]*.
 20\. **Paradis, G.**, Dymond, C., Griess, V., Coggins, S., Wickland, C. and Long, D. (2024). *Notes from the Field*. Research Supports Operational Practice in Community Forests: Reducing Climate Change-Related Risks to Timber Supply. UBC Faculty of Forestry no, 005.
-19\. **Paradis, G.**, Ghasemi, E. and Ghotb, S. (2024). *s3\_carbon\_dss\_demo (Version 1.0.1) [Computer software]*. w. https://github.com/gparadis/ws3\_carbon\_dss\_demo. https://github.com/gparadis/ws3_carbon_dss_demo
-18\. **Paradis, G.** (2022). *fci\_hg\_invyld [Computer software]*. https://github.com/gparadis/fci\_hg\_invyld. https://github.com/gparadis/fci_hg_invyld
-17\. **Paradis, G.** (2022). *wbi\_harvesting\_birds [Computer software]*. https://github.com/gparadis/wbi\_harvesting-birds. https://github.com/gparadis/wbi_harvesting-birds
-16\. **Paradis, G.** (2022). *ws3\_spatialoptimize [Computer software]*. https://github.com/gparadis/ws3\_spatialoptimize. https://github.com/gparadis/ws3_spatialoptimize
-15\. **Paradis, G.** (2022). *wbi\_fullwbmodel [Computer software]*. https://github.com/gparadis/wbi\_fullwbmodel/tree/main. https://github.com/gparadis/wbi_fullwbmodel/tree/main
+19\. **Paradis, G.**, Ghasemi, E. and Ghotb, S. (2024). *s3\_carbon\_dss\_demo (Version 1.0.1) [Computer software]*. https://github.com/gparadis/ws3\_carbon\_dss\_demo.
+18\. **Paradis, G.** (2022). *fci\_hg\_invyld [Computer software]*. https://github.com/gparadis/fci\_hg\_invyld.
+17\. **Paradis, G.** (2022). *wbi\_harvesting\_birds [Computer software]*. https://github.com/gparadis/wbi\_harvesting-birds.
+16\. **Paradis, G.** (2022). *ws3\_spatialoptimize [Computer software]*. https://github.com/gparadis/ws3\_spatialoptimize.
+15\. **Paradis, G.** (2022). *wbi\_fullwbmodel [Computer software]*. https://github.com/gparadis/wbi\_fullwbmodel/tree/main.
 14\. **Paradis, G.** (2021). *Harvesting Disturbance Module (HDM), WBI carbon paper (2020) (Version 1.0.0)[Computer software]*. DOI [10.5281/zenodo.5579696](https://doi.org/10.5281/zenodo.5579696).
-13\. **Paradis, G.** (2021). *spades\_ws3\_dataInit (Version 1.0.0-alpha) [Computer software]*. https://.org/. DOI [10.5281/zenodo.5579748](https://doi.org/10.5281/zenodo.5579748).
-12\. **Paradis, G.** (2021). *spades\_ws3 (Version 1.0.0-alpha) [Computer software]*. https://.org/. DOI [10.5281/zenodo.5579756](https://doi.org/10.5281/zenodo.5579756).
-11\. **Paradis, G.** (2021). *ws3: a Wood Supply Simulation System (Version 1.0.0-alpha) [Computer software]*. https://.org/. DOI [10.5281/zenodo.5579778](https://doi.org/10.5281/zenodo.5579778).
+13\. **Paradis, G.** (2021). *spades\_ws3\_dataInit (Version 1.0.0-alpha) [Computer software]*. DOI [10.5281/zenodo.5579748](https://doi.org/10.5281/zenodo.5579748).
+12\. **Paradis, G.** (2021). *spades\_ws3 (Version 1.0.0-alpha) [Computer software]*. DOI [10.5281/zenodo.5579756](https://doi.org/10.5281/zenodo.5579756).
+11\. **Paradis, G.** (2021). *ws3: a Wood Supply Simulation System (Version 1.0.0-alpha) [Computer software]*. DOI [10.5281/zenodo.5579778](https://doi.org/10.5281/zenodo.5579778).
 10\. **Paradis, G.** (2021). *wbi\_ria\_yield (Version 0.0.1). [Computer software]*. DOI [10.5281/zenodo.5717514](https://doi.org/10.5281/zenodo.5717514).
-9\. **Paradis, G.** (2018). *DEG: A Disturbance Event Generator for GCBM*. https://dx. DOI [10.14288/1.0402620](https://doi.org/10.14288/1.0402620).
-8\. **Paradis, G.** and LeBel, L. (2018). *Estimating the value-creation potential of wood supply using a hybrid simulation-optimization approach*. Technical Report CIRRELT-2018-24. http://dx. DOI [10.13140/RG.2.2.32706.48321](https://doi.org/10.13140/RG.2.2.32706.48321).
-7\. **Paradis, G.** and LeBel, L. (2018). *Retro-fitting value-creation potential indicators to long-term wood supply models*. Technical Report CIRRELT-2018-23. http://dx. DOI [10.13140/RG.2.2.19284.71040](https://doi.org/10.13140/RG.2.2.19284.71040).
-6\. **Paradis, G.** and LeBel, L. (2017). *Compiling disaggregation coefficients to link long- and short-term planning models*. Technical Report CIRRELT-2017-43. http://dx. DOI [10.13140/RG.2.2.12785.99681](https://doi.org/10.13140/RG.2.2.12785.99681).
-5\. **Paradis, G.** and LeBel, L. (2017). *Diameter distribution models for Quebec, Canada*. Technical Report CIRRELT-2017-34. http://dx. DOI [10.13140/RG.2.2.13394.56005](https://doi.org/10.13140/RG.2.2.13394.56005).
-4\. **Paradis, G.** (2016). *Hierarchical Forest Management Planning: A Bilevel Wood Supply Modelling Approach*. PhD Thesis, Université Laval. http://dx. DOI [10.13140/RG.2.2.21060.09602](https://doi.org/10.13140/RG.2.2.21060.09602).
-3\. **Paradis, G.**, Bouchard, M., LeBel, L. and D’Amours, S. (2015). *Extending the Classic Wood Supply Model to Anticipate Industrial Fibre Consumption*. Technical Report CIRRELT-2015-06. http://dx. DOI [10.13140/RG.2.1.3887.0489](https://doi.org/10.13140/RG.2.1.3887.0489).
-2\. **Paradis, G.** (2007). *Modèles de simulation Patchworks et Woodstock*. L’aubelle, 152, 18--19.
-1\. **Paradis, G.** (2005). *A Multi-Objective Tactical Harvest Schedule Optimisation Algorithm*. M.Sc. Eng. Thesis, University of New Brunswick. http://dx. DOI [10.13140/RG.2.2.34481.86886](https://doi.org/10.13140/RG.2.2.34481.86886).
+9\. **Paradis, G.** (2018). *DEG: A Disturbance Event Generator for GCBM*. DOI [10.14288/1.0402620](https://doi.org/10.14288/1.0402620).
+8\. **Paradis, G.** and LeBel, L. (2018). *Estimating the value-creation potential of wood supply using a hybrid simulation-optimization approach*. Technical Report CIRRELT-2018-24. DOI [10.13140/RG.2.2.32706.48321](https://doi.org/10.13140/RG.2.2.32706.48321).
+7\. **Paradis, G.** and LeBel, L. (2018). *Retro-fitting value-creation potential indicators to long-term wood supply models*. Technical Report CIRRELT-2018-23. DOI [10.13140/RG.2.2.19284.71040](https://doi.org/10.13140/RG.2.2.19284.71040).
+6\. **Paradis, G.** and LeBel, L. (2017). *Compiling disaggregation coefficients to link long- and short-term planning models*. Technical Report CIRRELT-2017-43. DOI [10.13140/RG.2.2.12785.99681](https://doi.org/10.13140/RG.2.2.12785.99681).
+5\. **Paradis, G.** and LeBel, L. (2017). *Diameter distribution models for Quebec, Canada*. Technical Report CIRRELT-2017-34. DOI [10.13140/RG.2.2.13394.56005](https://doi.org/10.13140/RG.2.2.13394.56005).
+4\. **Paradis, G.** (2016). *Hierarchical Forest Management Planning: A Bilevel Wood Supply Modelling Approach*. PhD Thesis, Université Laval. DOI [10.13140/RG.2.2.21060.09602](https://doi.org/10.13140/RG.2.2.21060.09602).
+3\. **Paradis, G.**, Bouchard, M., LeBel, L. and D’Amours, S. (2015). *Extending the Classic Wood Supply Model to Anticipate Industrial Fibre Consumption*. Technical Report CIRRELT-2015-06. DOI [10.13140/RG.2.1.3887.0489](https://doi.org/10.13140/RG.2.1.3887.0489).
+2\. **Paradis, G.** (2007). *Modèles de simulation Patchworks et Woodstock*. L’aubelle, 152, 18–19.
+1\. **Paradis, G.** (2005). *A Multi-Objective Tactical Harvest Schedule Optimisation Algorithm*. M.Sc. Eng. Thesis, University of New Brunswick. DOI [10.13140/RG.2.2.34481.86886](https://doi.org/10.13140/RG.2.2.34481.86886).
 
 ## 3. BOOKS
 
