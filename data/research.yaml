@@ -69,7 +69,7 @@ grants:
       - Andres Varhola
       - 'Additional Co-PIs Year 2:'
       - Suborna Ahmed, Cole Burton,
-      - Allan Carroll, Jathleen Coupland, Richard Hamelin,Lee Salmon, Debra Wertmann (all UBC)
+      - Allan Carroll, Kathleen Coupland, Richard Hamelin, Lee Salmon, Debra Wertmann (all UBC)
   - agency: UBC Climate Solutions Research Collective (Climate Solutions Scholars program)
     subject: 'Carbon Offsets: Climate Action or Sustainability Illusion?'
     comp: C
@@ -96,7 +96,7 @@ grants:
     year: '2024'
     pi:
       - '**Gregory Paradis**'
-  - agency: National Sciences and Engineering Research Council of Canada (Undergraduate Student Research
+  - agency: Natural Sciences and Engineering Research Council of Canada (Undergraduate Student Research
       Awards program)
     subject: Modelling dwarf mistletoe (Arceuthobium) spread using spatial discrete event simulation
     comp: C
@@ -113,7 +113,7 @@ grants:
       - '**Gregory Paradis**'
     coi:
       - John Steen
-  - agency: National Sciences and Engineering Research Council of Canada (Discovery Grants program)
+  - agency: Natural Sciences and Engineering Research Council of Canada (Discovery Grants program)
     subject: Integrated modelling of strategic forest management and industrial capacity planning in \
       the Canadian forest sector
     comp: C
@@ -121,7 +121,7 @@ grants:
     year: '2023'
     pi:
       - '**Gregory Paradis**'
-  - agency: National Sciences and Engineering Research Council of Canada (Discoverty Launch Supplement
+  - agency: Natural Sciences and Engineering Research Council of Canada (Discovery Launch Supplement
       program)
     subject: Integrated modelling of strategic forest management and industrial capacity planning in \
       the Canadian forest sector
@@ -259,10 +259,10 @@ contracts:
       - Hisham Zerriffi
 other: []
 conference_participation:
-  - Session Chair, Operational Research Society (CORS) Annual Conference 2026, Kingston
-  - Judge, David Martell Student Paper Prize in Forestry, Operational Research Society (CORS) Annual Conference
+  - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2026, Kingston
+  - Judge, David Martell Student Paper Prize in Forestry, Canadian Operational Research Society (CORS) Annual Conference
     2026, Kingston
-  - Treasurer and CORS Council Liason, Canadian Operational Research Society (CORS) Annual Conference
+  - Treasurer and CORS Council Liaison, Canadian Operational Research Society (CORS) Annual Conference
     2024, London
   - Cluster Chair, Analytics cluster, Canadian Operational Research Society (CORS) Annual Conference 2024,
     London
@@ -277,19 +277,20 @@ conference_participation:
   - Cluster Co-chair, Analytics cluster, Canadian Operational Research Society (CORS) Annual Conference
     2021 (online)
   - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2021 (online)
-  - Session Chair, Systems Symposium in Analysis of Forest Resources (SSAFR) 2019, Puerto Varas, Chile
+  - Session Chair, Symposium on Systems Analysis in Forest Resources (SSAFR) 2019, Puerto Varas, Chile
   - Cluster Co-chair, Analytics cluster, Canadian Operational Research Society (CORS) Annual Conference
     2019, Saskatoon
   - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2019, Saskatoon
   - Cluster Co-chair, Analytics cluster, Canadian Operational Research Society (CORS) Annual Conference
-    2018 Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2018
+    2018
+  - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2018
   - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2017
   - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2015
   - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2014, Niagara Falls
   - Cluster Co-chair, Forestry cluster, Canadian Operational Research Society (CORS) Annual Conference
     2013
   - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2013
-  - Session Chair, Systems Symposium in Analysis of Forest Resources (SSAFR) 2013, Quebec City
+  - Session Chair, Symposium on Systems Analysis in Forest Resources (SSAFR) 2013, Quebec City
   - Cluster Co-chair, Forestry cluster, Canadian Operational Research Society (CORS) Annual Conference
     2012
   - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2012
@@ -297,4 +298,4 @@ conference_participation:
     City, 2010–2011
   - Session Chair, Sources de risques et d'incertitudes dans le calcul de possibilité. Faut-il en tenir
     compte? Carrefour Forêt Innovations 2011, Quebec City, 2011
-  - Conference Co-chair, UNBF Graduate Student Association Research Conference 2003, 2002—2003
+  - Conference Co-chair, UNBF Graduate Student Association Research Conference 2003, 2002–2003

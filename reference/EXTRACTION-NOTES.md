@@ -9,7 +9,7 @@ and italic were read from run properties, where there is no ambiguity.
 
 `make check` compares the token multiset of the original document against the
 token multiset of `data/`. It reports anything the original has more often than
-the sources do. The run at import time left 13 differences, all expected. Six later additions (October 2026) cover the FHOPS acceptance, the CJFR/CEA submissions, the Forest Science and FIRECAT publications, the software release updates, and the import-fragment cleanup (last six rows):
+the sources do. The run at import time left 13 differences, all expected. Seven later additions (October 2026) cover the FHOPS acceptance, the CJFR/CEA submissions, the Forest Science and FIRECAT publications, the software release updates, the import-fragment cleanup and the editorial typo cleanup (last seven rows):
 
 | Token(s) | Why |
 | --- | --- |
@@ -24,6 +24,7 @@ the sources do. The run at import time left 13 differences, all expected. Six la
 | `press` | The Word file used `in press` for journal papers that have since been published: Forest Science (72(4), 483–494), FIRECAT (*Fire Safety Journal* 163, 104868) and Jaffray et al. (*International Journal of Forest Engineering*, online 13 Jun 2026). One `in press` note remains in `data/` (FHOPS, SoftwareX), two fewer `press` tokens than the Word file. Extended on 2026/10/17. |
 | `0.0.1`, `19620982`, `19619189` | Software release updates in October 2026: the FHOPS entry moved from v1.0.0-alpha3 (Zenodo 19619189) to v1.0.1 (23244315), and femic-tsa29-instance from v0.0.1-alpha1 (19620982) to v1.0.0-alpha1 (20577587). The old version string and DOIs no longer exist in `data/`. Added on 2026/10/18. |
 | `dx`, `http` | Truncated URL fragments left by the Word import (`http://dx` tails on the CIRRELT reports and theses, `https://dx` on DEG, `https://.org/` on three spades_ws3 releases, `w ` / `w . ` prefixes) were removed from `journal` fields in October 2026; those entries are all linked through their DOIs. Added on 2026/10/18. |
+| `britanique`, `columbie`, `ssfaf`, `analysis`, `jathleen`, `discoverty`, `colins`, `tween`, `liason`, `chaudière`, `reseach`, `indistrie`, `sure`, `franopresse`, `innodations`, `innondations`, `regénération` | Editorial cleanup (October 2026): typos corrected across presentations, grants, service and the media list (e.g. "Britanique"→"Britannique", "SSFAF"→"SSAFR", "Jathleen"→"Kathleen", "Fort Colins"→"Fort Collins", "Reseach"→"Research"), and one duplicated other-presentation entry was de-duplicated. The misspelled tokens no longer exist in `data/`. Added on 2026/10/18. |
 
 ## Corrections applied
 

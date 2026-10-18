@@ -165,7 +165,9 @@ def reflist(items: list[str]) -> list[str]:
         return ["*(none to report)*"]
     out, n = [], len(items)
     for r in items:
-        out.append(f"{n}\\. {r}")
+        # Two trailing spaces = a Markdown hard line break, so each entry keeps
+        # its own line instead of collapsing into one big paragraph.
+        out.append(f"{n}\\. {r}  ")
         n -= 1
     return out
 

@@ -113,6 +113,10 @@ EXPECTED = {
     "modeling": 1, "parameter": 1, "press": 2,
     "0.0.1": 1, "19620982": 1, "19619189": 1,
     "dx": 8, "http": 2,
+    "britanique": 8, "ssfaf": 3, "columbie": 2, "analysis": 1, "jathleen": 1,
+    "discoverty": 1, "colins": 1, "tween": 1, "liason": 1, "chaudi\u00e9re": 1,
+    "reseach": 2, "indistrie": 1, "sure": 1, "franopresse": 1,
+    "innodations": 1, "innondations": 1, "regénération": 1,
 }
 
 

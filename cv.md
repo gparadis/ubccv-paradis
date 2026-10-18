@@ -309,14 +309,14 @@ My research focuses on forest management problems, applying operations research 
 | --- | --- | --- | --- | --- | --- | --- |
 | Natural Resources Canada (Energy) | CLEWs-C2070;<br>Integrating Climate, Land, and Water into Energy Models of Canada’s Net-Zero Commitments | C | 1 000 000 | 2026 | Taco Niet | **Gregory Paradis **Hisham Zerriffi Elizabeth Gilmore |
 | Natural Resources Canada (Wildfire Resilient Futures Initiative program) | Proactive management to mitigate wildfire risk across diverse forests of BC | C | 3 395 854 | 2025 | Lori Daniels Jill Harvey | **Gregory Paradis**<br>Ignacio Barbeito<br>Nicholas Coops<br>Bianca Eskelson<br>Sarah Gergel<br>Dominik Roeser<br>Sam Coggins<br>Sarah Dickson-Hoyle<br>Keylsey Copes-Gerbitz<br>Mathieu Bourbonnais<br>Che Elkin<br>Sophie Wilkinson<br>Sonja Leverkus<br>Stephanie Ewen |
-| UBC (Teaching and Learning Enhancement Fund program) | FVS-BC Laboratory Exercises for Forest Resources Management and Conservation | C | 26 692 20 000 | 2024 2026 | Bianca Eskelson | **Gregory Paradis**<br>Ignacio Barbeito<br>Lori Daniels<br>Tzeng Yi Lam<br>Harry Nelson<br>David Montwe<br>Andres Varhola<br>Additional Co-PIs Year 2:<br>Suborna Ahmed, Cole Burton,<br>Allan Carroll, Jathleen Coupland, Richard Hamelin,Lee Salmon, Debra Wertmann (all UBC) |
+| UBC (Teaching and Learning Enhancement Fund program) | FVS-BC Laboratory Exercises for Forest Resources Management and Conservation | C | 26 692 20 000 | 2024 2026 | Bianca Eskelson | **Gregory Paradis**<br>Ignacio Barbeito<br>Lori Daniels<br>Tzeng Yi Lam<br>Harry Nelson<br>David Montwe<br>Andres Varhola<br>Additional Co-PIs Year 2:<br>Suborna Ahmed, Cole Burton,<br>Allan Carroll, Kathleen Coupland, Richard Hamelin, Lee Salmon, Debra Wertmann (all UBC) |
 | UBC Climate Solutions Research Collective (Climate Solutions Scholars program) | Carbon Offsets: Climate Action or Sustainability Illusion? | C | 30 000 | 2024 | Hisham Zerriffi | **Gregory Paradis**<br>Werner Antweiler<br>Kathryn Harrison |
 | World Economic Forum | Nature-based decarbonization opportunities for the mining and forest sectors | C | 82 000 | 2024 | **Gregory Paradis** |  |
 | Canadian Foundation for Innovation (John R. Evans Leaders Fund program)<br>[submitted] | Cumulative effects of Climate Change, Anthropogenic and Natural Disturbances on forest Ecosystem Services (CCCANDiES) | C | 350 000 | 2024 | **Gregory Paradis** |  |
-| National Sciences and Engineering Research Council of Canada (Undergraduate Student Research Awards program) | Modelling dwarf mistletoe (Arceuthobium) spread using spatial discrete event simulation | C | 6 000 | 2024 | **Gregory Paradis** |  |
+| Natural Sciences and Engineering Research Council of Canada (Undergraduate Student Research Awards program) | Modelling dwarf mistletoe (Arceuthobium) spread using spatial discrete event simulation | C | 6 000 | 2024 | **Gregory Paradis** |  |
 | Bradshaw Research Initiative for Minerals and Mining | Natural Capital and Biodiversity (theme funding, until 2026) | NC | 120 000 | 2024 | **Gregory Paradis** | John Steen |
-| National Sciences and Engineering Research Council of Canada (Discovery Grants program) | Integrated modelling of strategic forest management and industrial capacity planning in<br>the Canadian forest sector | C | 160 000 | 2023 | **Gregory Paradis** |  |
-| National Sciences and Engineering Research Council of Canada (Discoverty Launch Supplement program) | Integrated modelling of strategic forest management and industrial capacity planning in<br>the Canadian forest sector | C | 12 500 | 2023 | **Gregory Paradis** |  |
+| Natural Sciences and Engineering Research Council of Canada (Discovery Grants program) | Integrated modelling of strategic forest management and industrial capacity planning in<br>the Canadian forest sector | C | 160 000 | 2023 | **Gregory Paradis** |  |
+| Natural Sciences and Engineering Research Council of Canada (Discovery Launch Supplement program) | Integrated modelling of strategic forest management and industrial capacity planning in<br>the Canadian forest sector | C | 12 500 | 2023 | **Gregory Paradis** |  |
 | Bradshaw Research Initiative for Minerals and Mining | Nature-based decarbonization opportunities for the mining and forest sectors | NC | 65 000 | 2023 | **Gregory Paradis** | John Steen |
 | UBC | Work Learn Award | C | 2 700 | 2022 | **Gregory Paradis** |  |
 | UBC | Work Learn International Undergraduate Research Award | C | 6 000 | 2022 | **Gregory Paradis** |  |
@@ -341,87 +341,86 @@ My research focuses on forest management problems, applying operations research 
 
 ### (d) Invited Presentations (Identify whether International/National/Local)
 
-19\. **Paradis, G.** (2026). *De l'idée au modèle : l'IA générative appliquée aux systèmes de récolte forestière*. FORAC meeting, virtual. Invited speaker. 2026/09. [national]
-18\. **Paradis, G.** (2026). *Recent Developments in Open-Source Forest Modelling Software*. 2026 CORS Forestry Special Interest Group annual meeting. CORS 2026. Kingston, ON. Invited speaker. 2026/06. [national]
-17\. **Paradis, G.** (2026). *Natural Capital and Biodiversity: BRIMM Research Theme Update. 2026 BRIMM Board of Directors meeting*. UBC Vancouver. Invited speaker. 2026/03. [local]
-16\. **Paradis, G.** (2025). *AI in a Glass Box: Open Innovation Pathways for Data-Driven Sustainable Forest Management*. AI Innovation and Entrepneurship in Forestry webinar. UBC Faculty of Forestry. 2025/12. [international]
-15\. **Paradis, G.** (2025). *Wood Supply Models: Historical Artifact or a Tool for the Future? CIF Vancouver - South Coast Section dinner and presentation series*. Vancouver. 2025/10. [local]
-14\. **Paradis, G.** (2025). *Revisiting the Forest-Based Bioeconomy: Integrating Biomass Supply Scenarios and Advancing Open Systems for Cumulative Effects Management*. UBC Faculty of Forestry Research Seminar Series. UBC Vancouver. Invited speaker. 2025/03. [local]
-13\. **Paradis, G.** (2025). *FRESH lab research program*. JEDI BC-Taiwan Delegation. UBC Vancouver. Invited speaker. 2025/03. [local]
-12\. **Paradis, G.** (2025). *Personal experience with talking to the media*. BPI Media Workshop. UBC Vancouver. Invited speaker. 2025/03. [local]
-11\. **Paradis, G.** (2025). *Natural Capital and Biodiversity: BRIMM Research Theme Update. 2025 BRIMM Board of Directors meeting*. UBC Vancouver. Invited speaker. 2025/03. [local]
-10\. Lafond, V., Polinko, A., Man, C., Dymond, C., **Paradis, G.** and Griess, V. (2025). *Combining Thinning and Diverse Planting to Adapt to Climate-Change Induced Timber Supply Shortages in BC*. Bulkley Valley Research Centre Seminar Series. Invited speaker. 2025/03. [local]
-9\. Lafond, V., Polinko, A., Man, C., Dymond, C., **Paradis, G.** and Griess, V. (2025). *Combining Thinning and Diverse Planting to Adapt to Climate-Change Induced Timber Supply Shortages in BC*. 2025 Southern Interior Silviculture Conference. Invited speaker. 2025/03. [local]
-8\. **Paradis, G.** (2023). *Systemic Intervention: A Holistic Transition to a Bio-material-based Building Sector*. New York Climate Week. Invited speaker. 2023/09. [international]
-7\. **Paradis, G.** (2023). *Thriving Forests and Regenerative Built Environments*. Royal Architectural Institute of Canada (RAIC). Invited panelist. 2023/05. [national]
-6\. **Paradis, G.** (2023). *Nature-based solutions for decarbonization of forest- and mining-sector industrical activities*. UBC Bradshaw Research Initiative for Minerals and Mining (BRIMM). March 2023 BRIMM Board of Directors Meeting. 2023/03. [local]
-5\. **Paradis, G.** (2023). *Nature-based solutions for decarbonization of forest- and mining-sector industrical activities*. UBC Bradshaw Research Initiative for Minerals and Mining (BRIMM), Meeting with CEO and COO of Regeneration. 2023/01. [local]
-4\. **Paradis, G.** (2022). *Thriving Forests and Regenerative Built Environments*. Royal Architectural Institute of Canada (RAIC). Invited panelist. 2022/09. [national]
-3\. **Paradis, G.** (2022). *Nature-based decarbonization opportunities for forest- and mining-sector industrical activities*. UBC Bradshaw Research Initiative for Minerals and Mining (BRIMM), April 2022 BRIMM Board of Directors Meeting. 2022/04. [local]
-2\. **Paradis, G.** (2021). *Genetic Gain Economic Analysis: Macro-Scale Modelling in Boreal BC Forests*. Spruce-Up Science Meeting. 2021/12. [national]
-1\. **Paradis, G.** (2021). *Forest management and carbon intensity of raw fibre*. presenter and discussion panelist, Carbon Intensity and Displacement Workshop, UBC BioProducts Institute. Keynote. 2021/09. [national]
+19\. **Paradis, G.** (2026). *De l'idée au modèle : l'IA générative appliquée aux systèmes de récolte forestière*. FORAC meeting, virtual. Invited speaker. 2026/09. [national]  
+18\. **Paradis, G.** (2026). *Recent Developments in Open-Source Forest Modelling Software*. 2026 CORS Forestry Special Interest Group annual meeting. CORS 2026. Kingston, ON. Invited speaker. 2026/06. [national]  
+17\. **Paradis, G.** (2026). *Natural Capital and Biodiversity: BRIMM Research Theme Update. 2026 BRIMM Board of Directors meeting*. UBC Vancouver. Invited speaker. 2026/03. [local]  
+16\. **Paradis, G.** (2025). *AI in a Glass Box: Open Innovation Pathways for Data-Driven Sustainable Forest Management*. AI Innovation and Entrepneurship in Forestry webinar. UBC Faculty of Forestry. 2025/12. [international]  
+15\. **Paradis, G.** (2025). *Wood Supply Models: Historical Artifact or a Tool for the Future? CIF Vancouver - South Coast Section dinner and presentation series*. Vancouver. 2025/10. [local]  
+14\. **Paradis, G.** (2025). *Revisiting the Forest-Based Bioeconomy: Integrating Biomass Supply Scenarios and Advancing Open Systems for Cumulative Effects Management*. UBC Faculty of Forestry Research Seminar Series. UBC Vancouver. Invited speaker. 2025/03. [local]  
+13\. **Paradis, G.** (2025). *FRESH lab research program*. JEDI BC-Taiwan Delegation. UBC Vancouver. Invited speaker. 2025/03. [local]  
+12\. **Paradis, G.** (2025). *Personal experience with talking to the media*. BPI Media Workshop. UBC Vancouver. Invited speaker. 2025/03. [local]  
+11\. **Paradis, G.** (2025). *Natural Capital and Biodiversity: BRIMM Research Theme Update. 2025 BRIMM Board of Directors meeting*. UBC Vancouver. Invited speaker. 2025/03. [local]  
+10\. Lafond, V., Polinko, A., Man, C., Dymond, C., **Paradis, G.** and Griess, V. (2025). *Combining Thinning and Diverse Planting to Adapt to Climate-Change Induced Timber Supply Shortages in BC*. Bulkley Valley Research Centre Seminar Series. Invited speaker. 2025/03. [local]  
+9\. Lafond, V., Polinko, A., Man, C., Dymond, C., **Paradis, G.** and Griess, V. (2025). *Combining Thinning and Diverse Planting to Adapt to Climate-Change Induced Timber Supply Shortages in BC*. 2025 Southern Interior Silviculture Conference. Invited speaker. 2025/03. [local]  
+8\. **Paradis, G.** (2023). *Systemic Intervention: A Holistic Transition to a Bio-material-based Building Sector*. New York Climate Week. Invited speaker. 2023/09. [international]  
+7\. **Paradis, G.** (2023). *Thriving Forests and Regenerative Built Environments*. Royal Architectural Institute of Canada (RAIC). Invited panelist. 2023/05. [national]  
+6\. **Paradis, G.** (2023). *Nature-based solutions for decarbonization of forest- and mining-sector industrical activities*. UBC Bradshaw Research Initiative for Minerals and Mining (BRIMM). March 2023 BRIMM Board of Directors Meeting. 2023/03. [local]  
+5\. **Paradis, G.** (2023). *Nature-based solutions for decarbonization of forest- and mining-sector industrical activities*. UBC Bradshaw Research Initiative for Minerals and Mining (BRIMM), Meeting with CEO and COO of Regeneration. 2023/01. [local]  
+4\. **Paradis, G.** (2022). *Thriving Forests and Regenerative Built Environments*. Royal Architectural Institute of Canada (RAIC). Invited panelist. 2022/09. [national]  
+3\. **Paradis, G.** (2022). *Nature-based decarbonization opportunities for forest- and mining-sector industrical activities*. UBC Bradshaw Research Initiative for Minerals and Mining (BRIMM), April 2022 BRIMM Board of Directors Meeting. 2022/04. [local]  
+2\. **Paradis, G.** (2021). *Genetic Gain Economic Analysis: Macro-Scale Modelling in Boreal BC Forests*. Spruce-Up Science Meeting. 2021/12. [national]  
+1\. **Paradis, G.** (2021). *Forest management and carbon intensity of raw fibre*. presenter and discussion panelist, Carbon Intensity and Displacement Workshop, UBC BioProducts Institute. Keynote. 2021/09. [national]  
 
 ### (e) Other Presentations
 
 Symbol key: `*` presenting author; `^` highly qualified personnel (HQP)
 
-57\. **Ghasemi, E.**<sup>*</sup><sup>^</sup> and **Paradis, G.** (2025). *Nature-based decarbonization opportunities for the mining and forest sectors*. CORS 2025, Edmonton.
-56\. Abougharib, A.<sup>*</sup>, Weisner, F., Naser, M.Z. and **Paradis, G.** (2024). *Explainable Data-Driven Modelling of Engineered Mass Timber Under Non-Standard Fires*. ITB Summer School.
-55\. **Paradis, G.**<sup>*</sup> (2024). *Integrated modelling of strategic forest management and industrial capacity planning for a more resilient and sustainable forest sector*. XXVI IUFRO World Congress. Stockholm, Sweden.
-54\. Lehikoinen, A.<sup>*</sup>, Sarigumba, M.<sup>*</sup>, Dela Paz, I.C.<sup>*</sup>, **Yan, Y.**<sup>*</sup><sup>^</sup>, Edum, N.<sup>*</sup>, Klenschmit, D.<sup>*</sup> and Ndjebet, C.<sup>*</sup> (2024). *Power of youth in scaling multisectoral collaboration: The role of forests in achieving the vision for 2050*. XXVI IUFRO World Congress. Stockholm, Sweden.
-53\. **Yan, Y.**<sup>*</sup><sup>^</sup>, **Paradis, G.**, Tu, Q. and Boisvenue, C. (2024). *An Innovative Modelling Framework to Simulate and Optimize the Climate Change Mitigation Potential of the Forest Sector in British Columbia, Canada*. XXVI IUFRO World Congress. Stockholm, Sweden.
-52\. **Paradis, G.**<sup>*</sup> (2024). *Modelling carbon emissions from forest ecosystems, forest sector supply chains, and forest products: results and insights from two recent projects*. Canadian Operational Research Society (CORS) 2024. London, Ontario.
-51\. **Ghotb, S.**<sup>*</sup><sup>^</sup> and **Paradis, G.** (2024). *Modelling the forest-based biomass solution space in British Columbia*. Canadian Operational Research Society (CORS) 2024. London, Ontario.
-50\. **Ghasemi, E.**<sup>^</sup> and **Paradis, G.**<sup>*</sup> (2024). *Nature-based decarbonization opportunities for the mining and forest sectors*. Canadian Operational Research Society (CORS) 2024. London, Ontario.
-49\. **Ghasemi, E.**<sup>^</sup> and **Paradis, G.**<sup>*</sup> (2024). *Nature-based decarbonization opportunities for the mining and forest sectors*. Symposium on Systems Analysis in Forest Resources (SSFAF) 2024. Hondarribia, Spain.
-48\. Lafond, V., Polinko, A., Man, C., Dymond, C. and **Paradis, G.**<sup>*</sup> *Lafond, V., Polinko, A., Man, C., Dymond, C., Paradis, G.*, Griess, V. (2024). Combining thinning and diverse plantings to adapt to climate-change induced timber supply shortages in British Columbia. Presented at Symposium on Systems Analysis in Forest Resources (SSFAF) 2024. Hondarribia, Spain*. Griess, V. (2024). Combining thinning and diverse plantings to adapt to climate-change induced timber supply shortages in British Columbia. Presented at Symposium on Systems Analysis in Forest Resources (SSFAF) 2024. Hondarribia, Spain.
-47\. **Coupland, K.**<sup>*</sup><sup>^</sup> and **Paradis, G.** (2024). *Open-sourced Forest Estate Model Builder*. Symposium on Systems Analysis in Forest Resources (SSFAF) 2024. Hondarribia, Spain.
-46\. **Yan, Y.**<sup>*</sup><sup>^</sup>, **Paradis, G.**, Tu, Q. and Boisvenue, C. (2023). *An improved carbon yield curve plug-in methodology to simulate and optimize the timber yield and carbon dynamics in BC’s Forest Sector*. International Symposium on Sustainable Systems and Technology (ISSST) 2023 Conference. Fort Colins, CO.
-45\. **Coupland, K.**<sup>*</sup><sup>^</sup> and **Paradis, G.** (2022). *Local forestry-based carbon solutions for Canadian mining operations*. CORS-JOPT 2024, Montreal.
-44\. **Paradis, G.**<sup>*</sup> (2022). *Towards an open framework for optimizing source-to-sink forest system*.
-43\. *carbon flows*. CORS-JOPT 2024, Montreal.
-42\. Micheletti, T., McIntire, E. and **Paradis, G.**<sup>*</sup> (2022). *Modelling Pareto-optimal Tradeoffs Between Timber Harvest Volume and Red-breasted Nuthatch Population Density in Northeastern British Columbia*. SSAFR 2022, Colorado Springs, CO.
-41\. Micheletti, T., McIntire, E. and **Paradis, G.**<sup>*</sup> (2022). *Modelling Pareto-optimal Tradeoffs Between Timber Harvest Volume and Red-breasted Nuthatch Population Density in Northeastern British Columbia*. CORS-INFORMS 2022, Vancouver.
-40\. **Paradis, G.**<sup>*</sup>, Ghafgazi, S., Lochhead, K., Ahmed, S. and Bull, G. (2019). *A cumulative effects modelling framework linking improved forest growing stock to Canadian bioeconomy value streams*. CFGA 2019, Quebec City.
-39\. Lafond, V.<sup>*</sup>, Lingua, F., Lumnitz, S., **Paradis, G.**, Srivastava, V. and Griess, V. (2019). *A genomic-informed decision support system for risk assessment and mitigation of forest invasive alien species*. CFGA 2019, Quebec City.
-38\. **Paradis, G.**<sup>*</sup>, Lafond, V. and Griess, V. (2019). *Modelling national-scale impact of invasive forest pests in Canada using a hybrid simulation-optimization approach*. CORS 2019, Saskatoon.
-37\. **Paradis, G.**<sup>*</sup>, Lafond, V. and Griess, V. (2019). *Modelling national-scale impact of invasive forest pests in Canada using a hybrid simulation-optimization approach*. SSAFR 2019, Puerto Varas, Chile.
-36\. **Paradis, G.**<sup>*</sup> (2018). *ws3: An open-source wood supply simulation system*. CORS 2018, Halifax.
-35\. Lafond, V.<sup>*</sup>, **Paradis, G.**, Srivastava, V., Lumnitz, S. and Griess, V. (2018). *Decision support systems for risk assessment and mitigation of forest invasive alien species: Challenges and opportunities*. 2018 ESA, ESC, and ESBC Joint Annual Meeting, Vancouver.
-34\. **Paradis, G.**<sup>*</sup> and Lebel, L. (2017). *Estimating the value-creation potential of optimal wood supply plans*. SSAFR 2017, Suquamish, WA.
-33\. **Paradis, G.**<sup>*</sup> and Lebel, L. (2017). *Estimating the value-creation potential of optimal wood supply plans*. CORS/IFORS 2017, Quebec City.
-32\. **Paradis, G.**<sup>*</sup> and Lebel, L. (2017). *A bilevel model formulation for the distributed wood supply planning problem*. Best Paper, 2017 David Martell Student Paper Prize in Forestry. Presented at CORS/IFORS 2017, Quebec City.
-31\. **Paradis, G.**<sup>*</sup> and Lebel, L. (2017). *Re-aligning supply and demand for hardwood pulpwood in Quebec, Canada*. SSAFR 2015, Upsala, Sweden.
-30\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2015). *Exploring Bilevel Wood Supply Policy Space*. CORS Annual Conference Conference 2015, Montreal.
-29\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *Supplying a Sustainable Future*. CORS Annual Conference 2014, Ottawa.
-28\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *Extending a Wood Supply Model to Anticipate Industrial Fibre Consumption Behaviour*. CORS Annual Conference 2014, Ottawa.
-27\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *On Risk of Systematic Drift Under Incoherent Hierarchical Forest Management Planning*. Best Paper, 2014 David Martell Student Paper Prize in Forestry. Presented at CORS Annual Conference 2014, Ottawa.
-26\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *Extending a Wood Supply Model to Anticipate Industrial Fibre Consumption Behaviour*. Poster presented at VCO Summer School 2014, Halifax.
-25\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *Extending a Wood Supply Model to Anticipate Industrial Fibre Consumption Behaviour*. Poster presented at FIBRE Conference 2014, Vancouver.
-24\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *Extending a Wood Supply Model to Anticipate Industrial Fibre Consumption Behaviour*. FIBRE Conference 2014, Vancouver.
-23\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2013). *Impact of Incoherence on Credibility of Wood Supply Planning*. Poster presented at VCO Summer School 2013, Pointe Claire.
-22\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2013). *Anticipating Short-Term Industrial Fiber Utilization Within Long-Term Wood-Supply*. CORS Annual Conference 2013, Vancouver.
-21\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2013). *Les risques liés à l’incohérence au sein de la planification hiérarchique*. Presented for graduate seminar class Colloque III (FOR 8001), Quebec City.
-20\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2013). *Anticipation de la demande industrielle dans le calcul de la possibilité forestière*. Expo-Conférence FORAC 2013, Quebec City.
-19\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. *Anticipating short-term industrial fibre utilization within long-term wood supply using a bilevel model*. SSAFR 2013, Quebec City.
-18\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2012). *La théorie du jeu et la récolte forestière : enjeux et perspectives*. Colloque Facultaire FFGG 2012, Quebec City.
-17\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2012). *Impact de l’incohérence entre le calcul de la possibilité forestière et la récolte*. Poster presented at CSO FORAC 2012, Quebec City.
-16\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2012). *Simulating the Effects of Incoherence Between Wood Supply Planning and Demand-driven Harvest Planning*. CORS Annual Conference 2012, Niagara Falls.
-15\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2012). *Simuler l’impact de l’incohérence entre les calculs de possibilité forestière et la récolte*. Expo-Conférence FORAC 2012, Quebec City.
-14\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2012). *Simuler l’impact de l’incohérence entre les calculs de possibilité forestière et la récolte*. Poster presented at CSO FORAC 2012, Quebec City.
-13\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2011). *Synchronisation et durabilité pour l’industrie forestière*. Expo-Conférence FORAC 2011, Quebec City.
-12\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2011). *Synchronisation et durabilité pour l’industrie forestière*. Poster presented at CSO FORAC 2011, Quebec City.
-11\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2011). *Simulating impact of incoherence between long- and short-term planning*. CORS Annual Conference 2011, Saint John’s.
-10\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2011). *Simulating impact of incoherence be- tween long- and short-term planning*. Poster presented at VCO Summer School 2011, Quebec City.
-9\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2011). *Synchronization of Long-term and Short-term Forest Management in a Multi-stakeholder Context*. SSAFR 2011, Maitencillo, Chile.
-8\. **Paradis, G.**<sup>*</sup>, Laliberté, F. and Lebel, L. (2010). *Impact de la coupe partielle sur la possibilité forestière*. Poster presented at Colloque en aménagement écosystémique 2010, Quebec City.
-7\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2010). *Une mesure de cohérence de l’aménagement forestier à long-terme et à court-terme*. Colloque Facultaire FFGG 2010, Quebec City.
-6\. Cantu, R., Gautam, S., Mosconi, E., Ntabe, E. and **Paradis, G.** (2010). *From supply chain to value network: the impact of a changing paradigm on the Operations Forester*. Poster presented at NERCOFE Annual Conference 2010, Orono, Maine.
-5\. **Paradis, G.**<sup>*</sup>, Laliberté, F. and Carle, M.-A. (2008). *Sustainable Yield Maximiser (SYM): A species-wise maximum yield balancing heuristic*. CORS Annual Conference 2008, Quebec City.
-4\. **Paradis, G.**<sup>*</sup> and Laliberté, F. (2008). *Spatially explicit strategic planning using Patchworks: Challenges and opportunities related to some recent modelling projects in Quebec*. CORS Annual Conference 2008, Quebec City.
-3\. **Paradis, G.**<sup>*</sup> and Richards, E.W. (2003). *Integrating a patch size distribution objective into a harvest scheduling problem*. CORS Annual Conference, Halifax.
-2\. **Paradis, G.**<sup>*</sup> and Richards, E.W. (2002). *Data structures to describe forested landscapes*. CORS Annual Conference 2002, Toronto.
-1\. **Paradis, G.**<sup>*</sup> and Richards, E.W. *FLG: A forest landscape generator*. Best Paper, 2001 Canadian Operational Research Society (CORS) Student Paper Competition (undergraduate category). Presented at CORS Annual Conference 2001, Quebec City.
+56\. **Ghasemi, E.**<sup>*</sup><sup>^</sup> and **Paradis, G.** (2025). *Nature-based decarbonization opportunities for the mining and forest sectors*. CORS 2025, Edmonton.  
+55\. Abougharib, A.<sup>*</sup>, Weisner, F., Naser, M.Z. and **Paradis, G.** (2024). *Explainable Data-Driven Modelling of Engineered Mass Timber Under Non-Standard Fires*. ITB Summer School.  
+54\. **Paradis, G.**<sup>*</sup> (2024). *Integrated modelling of strategic forest management and industrial capacity planning for a more resilient and sustainable forest sector*. XXVI IUFRO World Congress. Stockholm, Sweden.  
+53\. Lehikoinen, A.<sup>*</sup>, Sarigumba, M.<sup>*</sup>, Dela Paz, I.C.<sup>*</sup>, **Yan, Y.**<sup>*</sup><sup>^</sup>, Edum, N.<sup>*</sup>, Klenschmit, D.<sup>*</sup> and Ndjebet, C.<sup>*</sup> (2024). *Power of youth in scaling multisectoral collaboration: The role of forests in achieving the vision for 2050*. XXVI IUFRO World Congress. Stockholm, Sweden.  
+52\. **Yan, Y.**<sup>*</sup><sup>^</sup>, **Paradis, G.**, Tu, Q. and Boisvenue, C. (2024). *An Innovative Modelling Framework to Simulate and Optimize the Climate Change Mitigation Potential of the Forest Sector in British Columbia, Canada*. XXVI IUFRO World Congress. Stockholm, Sweden.  
+51\. **Paradis, G.**<sup>*</sup> (2024). *Modelling carbon emissions from forest ecosystems, forest sector supply chains, and forest products: results and insights from two recent projects*. Canadian Operational Research Society (CORS) 2024. London, Ontario.  
+50\. **Ghotb, S.**<sup>*</sup><sup>^</sup> and **Paradis, G.** (2024). *Modelling the forest-based biomass solution space in British Columbia*. Canadian Operational Research Society (CORS) 2024. London, Ontario.  
+49\. **Ghasemi, E.**<sup>^</sup> and **Paradis, G.**<sup>*</sup> (2024). *Nature-based decarbonization opportunities for the mining and forest sectors*. Canadian Operational Research Society (CORS) 2024. London, Ontario.  
+48\. **Ghasemi, E.**<sup>^</sup> and **Paradis, G.**<sup>*</sup> (2024). *Nature-based decarbonization opportunities for the mining and forest sectors*. Symposium on Systems Analysis in Forest Resources (SSAFR) 2024. Hondarribia, Spain.  
+47\. Lafond, V., Polinko, A., Man, C., Dymond, C., **Paradis, G.**<sup>*</sup> and Griess, V. (2024). *Combining thinning and diverse plantings to adapt to climate-change induced timber supply shortages in British Columbia*. Symposium on Systems Analysis in Forest Resources (SSAFR) 2024. Hondarribia, Spain.  
+46\. **Coupland, K.**<sup>*</sup><sup>^</sup> and **Paradis, G.** (2024). *Open-sourced Forest Estate Model Builder*. Symposium on Systems Analysis in Forest Resources (SSAFR) 2024. Hondarribia, Spain.  
+45\. **Yan, Y.**<sup>*</sup><sup>^</sup>, **Paradis, G.**, Tu, Q. and Boisvenue, C. (2023). *An improved carbon yield curve plug-in methodology to simulate and optimize the timber yield and carbon dynamics in BC’s Forest Sector*. International Symposium on Sustainable Systems and Technology (ISSST) 2023 Conference. Fort Collins, CO.  
+44\. **Coupland, K.**<sup>*</sup><sup>^</sup> and **Paradis, G.** (2022). *Local forestry-based carbon solutions for Canadian mining operations*. CORS-JOPT 2024, Montreal.  
+43\. **Paradis, G.**<sup>*</sup> (2022). *Towards an open framework for optimizing source-to-sink forest system carbon flows*. CORS-JOPT 2024, Montreal.  
+42\. Micheletti, T., McIntire, E. and **Paradis, G.**<sup>*</sup> (2022). *Modelling Pareto-optimal Tradeoffs Between Timber Harvest Volume and Red-breasted Nuthatch Population Density in Northeastern British Columbia*. SSAFR 2022, Colorado Springs, CO.  
+41\. Micheletti, T., McIntire, E. and **Paradis, G.**<sup>*</sup> (2022). *Modelling Pareto-optimal Tradeoffs Between Timber Harvest Volume and Red-breasted Nuthatch Population Density in Northeastern British Columbia*. CORS-INFORMS 2022, Vancouver.  
+40\. **Paradis, G.**<sup>*</sup>, Ghafgazi, S., Lochhead, K., Ahmed, S. and Bull, G. (2019). *A cumulative effects modelling framework linking improved forest growing stock to Canadian bioeconomy value streams*. CFGA 2019, Quebec City.  
+39\. Lafond, V.<sup>*</sup>, Lingua, F., Lumnitz, S., **Paradis, G.**, Srivastava, V. and Griess, V. (2019). *A genomic-informed decision support system for risk assessment and mitigation of forest invasive alien species*. CFGA 2019, Quebec City.  
+38\. **Paradis, G.**<sup>*</sup>, Lafond, V. and Griess, V. (2019). *Modelling national-scale impact of invasive forest pests in Canada using a hybrid simulation-optimization approach*. CORS 2019, Saskatoon.  
+37\. **Paradis, G.**<sup>*</sup>, Lafond, V. and Griess, V. (2019). *Modelling national-scale impact of invasive forest pests in Canada using a hybrid simulation-optimization approach*. SSAFR 2019, Puerto Varas, Chile.  
+36\. **Paradis, G.**<sup>*</sup> (2018). *ws3: An open-source wood supply simulation system*. CORS 2018, Halifax.  
+35\. Lafond, V.<sup>*</sup>, **Paradis, G.**, Srivastava, V., Lumnitz, S. and Griess, V. (2018). *Decision support systems for risk assessment and mitigation of forest invasive alien species: Challenges and opportunities*. 2018 ESA, ESC, and ESBC Joint Annual Meeting, Vancouver.  
+34\. **Paradis, G.**<sup>*</sup> and Lebel, L. (2017). *Estimating the value-creation potential of optimal wood supply plans*. SSAFR 2017, Suquamish, WA.  
+33\. **Paradis, G.**<sup>*</sup> and Lebel, L. (2017). *Estimating the value-creation potential of optimal wood supply plans*. CORS/IFORS 2017, Quebec City.  
+32\. **Paradis, G.**<sup>*</sup> and Lebel, L. (2017). *A bilevel model formulation for the distributed wood supply planning problem*. Best Paper, 2017 David Martell Student Paper Prize in Forestry. Presented at CORS/IFORS 2017, Quebec City.  
+31\. **Paradis, G.**<sup>*</sup> and Lebel, L. (2017). *Re-aligning supply and demand for hardwood pulpwood in Quebec, Canada*. SSAFR 2015, Upsala, Sweden.  
+30\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2015). *Exploring Bilevel Wood Supply Policy Space*. CORS Annual Conference 2015, Montreal.  
+29\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *Supplying a Sustainable Future*. CORS Annual Conference 2014, Ottawa.  
+28\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *Extending a Wood Supply Model to Anticipate Industrial Fibre Consumption Behaviour*. CORS Annual Conference 2014, Ottawa.  
+27\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *On Risk of Systematic Drift Under Incoherent Hierarchical Forest Management Planning*. Best Paper, 2014 David Martell Student Paper Prize in Forestry. Presented at CORS Annual Conference 2014, Ottawa.  
+26\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *Extending a Wood Supply Model to Anticipate Industrial Fibre Consumption Behaviour*. Poster presented at VCO Summer School 2014, Halifax.  
+25\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *Extending a Wood Supply Model to Anticipate Industrial Fibre Consumption Behaviour*. Poster presented at FIBRE Conference 2014, Vancouver.  
+24\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2014). *Extending a Wood Supply Model to Anticipate Industrial Fibre Consumption Behaviour*. FIBRE Conference 2014, Vancouver.  
+23\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2013). *Impact of Incoherence on Credibility of Wood Supply Planning*. Poster presented at VCO Summer School 2013, Pointe Claire.  
+22\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2013). *Anticipating Short-Term Industrial Fiber Utilization Within Long-Term Wood-Supply*. CORS Annual Conference 2013, Vancouver.  
+21\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2013). *Les risques liés à l’incohérence au sein de la planification hiérarchique*. Presented for graduate seminar class Colloque III (FOR 8001), Quebec City.  
+20\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2013). *Anticipation de la demande industrielle dans le calcul de la possibilité forestière*. Expo-Conférence FORAC 2013, Quebec City.  
+19\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. *Anticipating short-term industrial fibre utilization within long-term wood supply using a bilevel model*. SSAFR 2013, Quebec City.  
+18\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2012). *La théorie du jeu et la récolte forestière : enjeux et perspectives*. Colloque Facultaire FFGG 2012, Quebec City.  
+17\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2012). *Impact de l’incohérence entre le calcul de la possibilité forestière et la récolte*. Poster presented at CSO FORAC 2012, Quebec City.  
+16\. **Paradis, G.**<sup>*</sup>, Lebel, L., D’Amours, S. and Bouchard, M. (2012). *Simulating the Effects of Incoherence Between Wood Supply Planning and Demand-driven Harvest Planning*. CORS Annual Conference 2012, Niagara Falls.  
+15\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2012). *Simuler l’impact de l’incohérence entre les calculs de possibilité forestière et la récolte*. Expo-Conférence FORAC 2012, Quebec City.  
+14\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2012). *Simuler l’impact de l’incohérence entre les calculs de possibilité forestière et la récolte*. Poster presented at CSO FORAC 2012, Quebec City.  
+13\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2011). *Synchronisation et durabilité pour l’industrie forestière*. Expo-Conférence FORAC 2011, Quebec City.  
+12\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2011). *Synchronisation et durabilité pour l’industrie forestière*. Poster presented at CSO FORAC 2011, Quebec City.  
+11\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2011). *Simulating impact of incoherence between long- and short-term planning*. CORS Annual Conference 2011, Saint John’s.  
+10\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2011). *Simulating impact of incoherence between long- and short-term planning*. Poster presented at VCO Summer School 2011, Quebec City.  
+9\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2011). *Synchronization of Long-term and Short-term Forest Management in a Multi-stakeholder Context*. SSAFR 2011, Maitencillo, Chile.  
+8\. **Paradis, G.**<sup>*</sup>, Laliberté, F. and Lebel, L. (2010). *Impact de la coupe partielle sur la possibilité forestière*. Poster presented at Colloque en aménagement écosystémique 2010, Quebec City.  
+7\. **Paradis, G.**<sup>*</sup>, Lebel, L. and D’Amours, S. (2010). *Une mesure de cohérence de l’aménagement forestier à long-terme et à court-terme*. Colloque Facultaire FFGG 2010, Quebec City.  
+6\. Cantu, R., Gautam, S., Mosconi, E., Ntabe, E. and **Paradis, G.** (2010). *From supply chain to value network: the impact of a changing paradigm on the Operations Forester*. Poster presented at NERCOFE Annual Conference 2010, Orono, Maine.  
+5\. **Paradis, G.**<sup>*</sup>, Laliberté, F. and Carle, M.-A. (2008). *Sustainable Yield Maximiser (SYM): A species-wise maximum yield balancing heuristic*. CORS Annual Conference 2008, Quebec City.  
+4\. **Paradis, G.**<sup>*</sup> and Laliberté, F. (2008). *Spatially explicit strategic planning using Patchworks: Challenges and opportunities related to some recent modelling projects in Quebec*. CORS Annual Conference 2008, Quebec City.  
+3\. **Paradis, G.**<sup>*</sup> and Richards, E.W. (2003). *Integrating a patch size distribution objective into a harvest scheduling problem*. CORS Annual Conference, Halifax.  
+2\. **Paradis, G.**<sup>*</sup> and Richards, E.W. (2002). *Data structures to describe forested landscapes*. CORS Annual Conference 2002, Toronto.  
+1\. **Paradis, G.**<sup>*</sup> and Richards, E.W. *FLG: A forest landscape generator*. Best Paper, 2001 Canadian Operational Research Society (CORS) Student Paper Competition (undergraduate category). Presented at CORS Annual Conference 2001, Quebec City.  
 
 ### (f) Other
 
@@ -429,9 +428,9 @@ Symbol key: `*` presenting author; `^` highly qualified personnel (HQP)
 
 ### (g) Conference Participation (Organizer, Keynote Speaker, etc.)
 
-- Session Chair, Operational Research Society (CORS) Annual Conference 2026, Kingston
-- Judge, David Martell Student Paper Prize in Forestry, Operational Research Society (CORS) Annual Conference 2026, Kingston
-- Treasurer and CORS Council Liason, Canadian Operational Research Society (CORS) Annual Conference 2024, London
+- Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2026, Kingston
+- Judge, David Martell Student Paper Prize in Forestry, Canadian Operational Research Society (CORS) Annual Conference 2026, Kingston
+- Treasurer and CORS Council Liaison, Canadian Operational Research Society (CORS) Annual Conference 2024, London
 - Cluster Chair, Analytics cluster, Canadian Operational Research Society (CORS) Annual Conference 2024, London
 - Session Chair, Forestry cluster, Canadian Operational Research Society (CORS) Annual Conference 2024, London
 - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2023, Montreal
@@ -441,21 +440,22 @@ Symbol key: `*` presenting author; `^` highly qualified personnel (HQP)
 - Event Co-chair, Mathematical Modelling in Agriculture and Forestry, Banff International Research Station Career and Innovation Hub, January 2022 (online workshop)
 - Cluster Co-chair, Analytics cluster, Canadian Operational Research Society (CORS) Annual Conference 2021 (online)
 - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2021 (online)
-- Session Chair, Systems Symposium in Analysis of Forest Resources (SSAFR) 2019, Puerto Varas, Chile
+- Session Chair, Symposium on Systems Analysis in Forest Resources (SSAFR) 2019, Puerto Varas, Chile
 - Cluster Co-chair, Analytics cluster, Canadian Operational Research Society (CORS) Annual Conference 2019, Saskatoon
 - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2019, Saskatoon
-- Cluster Co-chair, Analytics cluster, Canadian Operational Research Society (CORS) Annual Conference 2018 Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2018
+- Cluster Co-chair, Analytics cluster, Canadian Operational Research Society (CORS) Annual Conference 2018
+- Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2018
 - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2017
 - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2015
 - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2014, Niagara Falls
 - Cluster Co-chair, Forestry cluster, Canadian Operational Research Society (CORS) Annual Conference 2013
 - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2013
-- Session Chair, Systems Symposium in Analysis of Forest Resources (SSAFR) 2013, Quebec City
+- Session Chair, Symposium on Systems Analysis in Forest Resources (SSAFR) 2013, Quebec City
 - Cluster Co-chair, Forestry cluster, Canadian Operational Research Society (CORS) Annual Conference 2012
 - Session Chair, Canadian Operational Research Society (CORS) Annual Conference 2012
 - Organizing Committee, 34th annual meeting of the Council on Forest Engineering (COFE) 2011, Quebec City, 2010–2011
 - Session Chair, Sources de risques et d'incertitudes dans le calcul de possibilité. Faut-il en tenir compte? Carrefour Forêt Innovations 2011, Quebec City, 2011
-- Conference Co-chair, UNBF Graduate Student Association Research Conference 2003, 2002—2003
+- Conference Co-chair, UNBF Graduate Student Association Research Conference 2003, 2002–2003
 
 **SERVICE TO THE UNIVERSITY AND THE COMMUNITY**
 
@@ -533,9 +533,9 @@ I have engaged in a range of service activities, both within UBC and in the broa
 
 ### (e) Memberships on other committees, including offices held and dates
 
-- Director, Professional Promotion Committee, Section régionale de Québec et Chaudiére-Appalaches de l’Ordre des ingénieurs du Québec, 2008–2012
+- Director, Professional Promotion Committee, Section régionale de Québec et Chaudière-Appalaches de l’Ordre des ingénieurs du Québec, 2008–2012
 - Organizing Committee, Section régionale de Québec de l’Ordre des ingénieurs forestiers du Québec, 2008–2012
-- Association Affairs Committee, Association of Professional Engineers and Geo- scientists of New Brunswick, 2002–2003
+- Association Affairs Committee, Association of Professional Engineers and Geo-scientists of New Brunswick, 2002–2003
 
 ### (f) Editorships (list journal and dates)
 
@@ -569,7 +569,7 @@ I have engaged in a range of service activities, both within UBC and in the broa
 | Manuscript Reviewer | The Forestry Chronicle | 2024/04 |
 | Manuscript Reviewer | Canadian Journal of Forest Research | 2024/03 |
 | 2023 |  |  |
-| Manuscript Reviewer | Canadian Journal of Forest Reseach | 2023/09 |
+| Manuscript Reviewer | Canadian Journal of Forest Research | 2023/09 |
 | Manuscript Reviewer | INFOR: Information Systems and Operational Research | 2023/06 |
 | Grant Proposal Reviewer | Projets d'aménagement durable des forêts du Québec, Fonds de recherche du Québec Nature et technologies (FRQNT) | 2023/04 |
 | Manuscript Reviewer | Ecological Science and Policy | 2023/03 |
@@ -649,9 +649,9 @@ I have engaged in a range of service activities, both within UBC and in the broa
 | Interview | [Ottawa en fait-il assez pour soutenir le secteur forestier?](https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2367059/soutien-qu-apporte-ottawa-a-industrie-bois-oeuvre-est-il-suffisant)<br>Radio-Canada (Phare Ouest) | 2026/05/05 |
 | Interview | [Podcast : Conversations forestières](https://www.oifq.com/ordre/podcast_conversations_forestieres/) | 2026/04/15 |
 | Article | [Des « vents contraires » ébranlent l’industrie du bois en Colombie-Britannique](https://ici.radio-canada.ca/nouvelle/2245130/chantiers-tarifs-bois-massif-cofi) Radio-Canada | 2026/04/09 |
-| Interview | [500$ millions annoncés par Ottawa pour soutenir l'indistrie forestière](https://ici.radio-canada.ca/ohdio/premiere/emissions/la-croisee/segments/rattrapage/2308524/500-millions-pour-soutenir-industrie-forestiere-canadienne) Radio-Canada (La Croisée) | 2026/02/25 |
+| Interview | [500$ millions annoncés par Ottawa pour soutenir l'industrie forestière](https://ici.radio-canada.ca/ohdio/premiere/emissions/la-croisee/segments/rattrapage/2308524/500-millions-pour-soutenir-industrie-forestiere-canadienne) Radio-Canada (La Croisée) | 2026/02/25 |
 | Interview | U.S. Supreme Court Invalidates Reciprocal Tariffs: Impact on the Forest Industry in B.C.? CBC | 2026/02/21 |
-| Interview | Cour suprême des États-Unis qui a invalidé les droits réciproques : incidence sure l’industrie du forestière en C.-B.? Radio-Canada | 2026/02/21 |
+| Interview | Cour suprême des États-Unis qui a invalidé les droits réciproques : incidence sur l’industrie forestière en C.-B.? Radio-Canada | 2026/02/21 |
 | Interview | [Dernier rapport du comité consultatif provincial sur la gestion des forêts](https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2289501/dernier-rapport-comite-consultatif-provincial-sur-gestion-forets) Radio-Canada (Phare Ouest) | 2026/02/03 |
 | Interview | [Stanley Park tree removals, hemlock looper moth](https://www.cbc.ca/news/canada/british-columbia/stanley-park-tree-removal-looper-moth-infestation-9.7044454) CBC | 2026/01/12 |
 | Article | [Gathering to explore Forest Carbon Offsets - are they climate action or sustainability illusion?](https://climatesolutions.ubc.ca/news-and-events/gathering-explore-forest-carbon-offsets-are-they-climate-action-or-sustainability) UBC Climate Solutions Research Collective | 2025/12/02 |
@@ -662,7 +662,7 @@ I have engaged in a range of service activities, both within UBC and in the broa
 | Interview | [La foresterie au service du développement durable](https://ici.radio-canada.ca/ohdio/premiere/emissions/panorama/segments/rattrapage/2200436/partager-ses-recherches-avec-communaute-gregory-paradis) Radio-Canada (Panorama) | 2025/10/14 |
 | Interview | [L’annonce de Mark Carney sur le bois d’oeuvre et l’utilisation du bois](https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2145426/annonce-mark-carney-sur-bois-oeuvre-et-utilisation-bois) Radio-Canada (Phare Ouest) | 2025/08/07 |
 | Interview | [Les tarifs douaniers passent de 25 % à 35 %](https://ici.radio-canada.ca/tele/le-telejournal-colombie-britannique/site/segments/reportage/2141984/augmentation-tarifs-douaniers-bois-oeuvre-cb) Radio-Canada (Le téléjournal) | 2025/08/01 |
-| Interview | Julien Latraverse Radio-Canada (ICI Colombie-Britanique) | 2025/08/01 |
+| Interview | Julien Latraverse Radio-Canada (ICI Colombie-Britannique) | 2025/08/01 |
 | Interview | [Un rapport pointe des lacunes de la foresterie dans la lutte contre les feux](https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2103844/un-rapport-pointe-lacunes-foresterie-dans-lutte-contre-feux) Radio-Canada (Phare Ouest) | 2025/06/23 |
 | Interview | [Investissements de la C.-B. dans des projets forestiers : Grégory Paradis](https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2053503/investissements-c-b-dans-projets-forestiers-gregory-paradis) Radio-Canada (Phare Ouest) | 2025/04/24 |
 | Article | [Qui peut sauver l’industrie forestière dans l’Ouest?](https://latelier.uqam.ca/articles/756/qui-peut-sauver-lindustrie-forestiere-dans-louest) L’Atelier | 2025/04/08 |
@@ -670,9 +670,9 @@ I have engaged in a range of service activities, both within UBC and in the broa
 | Interview | [L’industrie forestière face aux tarifs douaniers américains](https://ici.radio-canada.ca/ohdio/premiere/emissions/panorama/segments/rattrapage/2035167/industrie-forestiere-exemptee-tarifs-25)<br>Radio-Canada (Panorama) | 2025/04/02 |
 | Article | [How much carbon is stored in B.C.'s forests? Audit finds government data is lacking](https://www.cbc.ca/news/canada/british-columbia/auditor-general-carbon-modelling-1.7488284) CBC | 2025/03/19 |
 | Interview | [Eve of tariffs, Quebec language law, carbon tax gone, and more](https://www.cbc.ca/listen/live-radio/1-8-your-world-tonight/clip/16137503-eve-tariffs-quebec-language-law-carbon-tax-gone?onboarding=false)<br>CBC (Your World Tonight) | 2025/04/01 |
-| Interview | [Coups durs pour le secteur forestier](https://ici.radio-canada.ca/info/videos/1-10314013/coups-durs-pour-secteur-forestier)<br>Radio-Canada (Le téléjournal Columbie-Britannique) | 2025/03/03 |
+| Interview | [Coups durs pour le secteur forestier](https://ici.radio-canada.ca/info/videos/1-10314013/coups-durs-pour-secteur-forestier)<br>Radio-Canada (Le téléjournal Colombie-Britannique) | 2025/03/03 |
 | Article | [Les États-Unis peuvent-ils se passer du bois d’œuvre canadien?](https://ici.radio-canada.ca/nouvelle/2139671/bois-canadien-trump-tarifs-forets-exploitation)<br>Radio-Canada | 2025/02/14 |
-| Interview | [Les bois d'oeuvre au coeur des tarifs douaniers](https://ici.radio-canada.ca/info/videos/1-10299150/bois-oeuvre-au-coeur-tarifs-douaniers?)<br>Radio-Canada (Le téléjournal Colombie-Britanique) | 2025/02/14 |
+| Interview | [Les bois d'oeuvre au coeur des tarifs douaniers](https://ici.radio-canada.ca/info/videos/1-10299150/bois-oeuvre-au-coeur-tarifs-douaniers?)<br>Radio-Canada (Le téléjournal Colombie-Britannique) | 2025/02/14 |
 | Interview | [Quelles conséquences auront les tarifs douaniers sur le bois d’œuvre?](https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/1981971/consequences-tarifs-sur-bois-oeuvre-gregory-paradis)<br>Radio-Canada (Phare Ouest) | 2025/02/03 |
 | Article | [L’industrie forestière anticipe les effets « dévastateurs » des tarifs douaniers](https://ici.radio-canada.ca/nouvelle/2137810/tarifs-industrie-forestiere-bois-oeuvre-crise-trump)<br>Radio-Canada | 2025/02/03 |
 | Interview | [Bilan 2024 du secteur forestier avec Gregory Paradis](https://ici.radio-canada.ca/ohdio/premiere/emissions/panorama/segments/rattrapage/1950714/bilan-2024-secteur-forestier-avec-gregory-paradis)<br>Radio-Canada (Panorama) | 2025/01/05 |
@@ -685,7 +685,7 @@ I have engaged in a range of service activities, both within UBC and in the broa
 | Interview | Teal Jones forestry company files for creditor protection<br>CBC Radio (Radio West) | 2024/04/30 |
 | Interview | [Teal Jones forestry company files for creditor protection](https://www.cbc.ca/listen/live-radio/1-46/clip/16060137)<br>CBC Radio (On the Coast) | 2024/04/30 |
 | Interview | Publication details TBD (ICI RDI, Laurence Taschereau) | 2024/04/29 |
-| Article | [L’explosion de la demande de granulés de bois nuit aux forêts de la C.-B, selon un rapport](https://ici.radio-canada.ca/nouvelle/2067860/forets-primaires-transformation-japon-exportations)<br>Radio-Canada (ICI Colombie-Britanique) | 2024/04/25 |
+| Article | [L’explosion de la demande de granulés de bois nuit aux forêts de la C.-B, selon un rapport](https://ici.radio-canada.ca/nouvelle/2067860/forets-primaires-transformation-japon-exportations)<br>Radio-Canada (ICI Colombie-Britannique) | 2024/04/25 |
 | Interview | [Un insecte ravage les arbres du parc Stanley](https://ici.radio-canada.ca/ohdio/premiere/emissions/ca-nous-regarde/segments/reportage/491154/abattage-du-tiers-des-arbres-du-parc-stanley-reportage-de-dominique-arnoldi)<br>Radio-Canada (Ça nous regarde) | 2024/04/09 |
 | Interview | [Entrevue de Gregory Paradis : estimer les émissions de l'industrie forestière](http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=5024644)<br>Radio-Canada (Panorama) | 2024/03/13 |
 | Interview | [Entrevue avec Gregory Paradis : les É.-U. veut augmenter les tarifs du bois d'œuvre](https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/episodes/755414/rattrapage-lundi-5-fevrier-2024/7)<br>Radio-Canada (Phare Ouest) | 2024/02/05 |
@@ -693,7 +693,7 @@ I have engaged in a range of service activities, both within UBC and in the broa
 | Interview | [Entrevue avec Gregory Paradis : la protection des forêts anciennes](http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4988808)<br>Radio-Canada (Panorama) | 2023/10/25 |
 | Article | [Using Forests to Help Miners Achieve Net Zero](https://brimm.ubc.ca/blog/2023/09/27/forestry-decarbonization/)<br>BRIMM | 2023/09/27 |
 | Interview | [Entrevue avec Grégory Paradis : rassemblements pour protéger les forêts anciennes](http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4974181)<br>Radio-Canada | 2023/09/23 |
-| Article | [Deux-milliards d’arbres pour faire face au changement climatique](https://francopresse.ca/sciences/2023/07/15/deux-milliards-darbres-pour-faire-face-au-changement-climatique/)<br>Franopresse | 2023/07/15 |
+| Article | [Deux-milliards d’arbres pour faire face au changement climatique](https://francopresse.ca/sciences/2023/07/15/deux-milliards-darbres-pour-faire-face-au-changement-climatique/)<br>Francopresse | 2023/07/15 |
 | Interview | [Les forêts urbaines comme le parc Stanley doivent aussi être protégées contre les feux](https://ici.radio-canada.ca/nouvelle/1995261/risques-incendies-parc-stanley-plan)<br>Radio-Canada | 2023/07/11 |
 | Interview | [Entrevue avec Gregory Paradis : plan d’adaptation au changements climatiques](http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4953676)<br>Radio-Canada (Phare Ouest) | 2023/06/28 |
 | Interview | [Fermeture de scieries et de papetières en C.-B.: reportage Dominique Arnoldi](https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-du-monde/segments/reportage/447603/emplois-economie-scieries-papetieres-dominique-arnoldi-colombie-britannique)<br>Radio-Canada (l’Heure du Monde) | 2023/06/21 |
@@ -702,7 +702,7 @@ I have engaged in a range of service activities, both within UBC and in the broa
 | Interview | [Reportage d’Audrey Simon : plan d’innovation dans le secteur forestier](https://ici.radio-canada.ca/ohdio/premiere/emissions/panorama/episodes/687901/rattrapage-du-mercredi-15-fevrier-2023/10)<br>Radio-Canada (Panorama) | 2023/02/15 |
 | Interview | [Entrevue avec Gregory Paradis et Pierre Lecourt : le bois d’oeuvre en C.-B.](https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/entrevue/429232/gregory-paradis-pierre-lecourt-bois-doeuvre-prince-george-canfor-david-eby) Radio-Canada (Phare Ouest) | 2023/01/17 |
 | Interview | [Gestion des forêts anciennes en C.-B.](https://ici.radio-canada.ca/tele/le-telejournal-colombie-britannique/site/episodes/672869/episode-du-5-decembre-2022) Radio-Canada (Téléjournal) | 2022/12/05 |
-| Interview | [La production de granulés de bois en Colombie-Britanique : Dominique Arnoldi](https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-du-monde/episodes/671252/rattrapage-du-lundi-28-novembre-2022/6) Radio-Canada (l’Heure du monde) | 2022/11/24 |
+| Interview | [La production de granulés de bois en Colombie-Britannique : Dominique Arnoldi](https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-du-monde/episodes/671252/rattrapage-du-lundi-28-novembre-2022/6) Radio-Canada (l’Heure du monde) | 2022/11/24 |
 | Interview | [Forêts anciennes : Stand.earth et UBCIC dénoncent l'inaction de la C.-B.](https://ici.radio-canada.ca/ohdio/premiere/emissions/panorama/segments/entrevue/412871/panorama-gregory-paradis-amenagement-foret-ancienne)<br>Radio-Canada (Panorama) | 2022/08/30 |
 | Interview | [Cocktail climatique avec Grégory Paradis : quelle est la valeur d'un arbre?](https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/entrevue/408361/gregory-paradis-cocktail-climatique-cafe-arbres-verdures-richesse)<br>Radio-Canada (Phare Ouest) | 2022/07/14 |
 | Interview | [Café climatique avec Gregory Paradis : augmenter la séquestration de carbone](https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/entrevue/401850/gregory-paradis-forets-epandage-uree-sequestration-carbone-clean-bc)<br>Radio-Canada (Phare Ouest) | 2022/05/17 |
@@ -711,13 +711,13 @@ I have engaged in a range of service activities, both within UBC and in the broa
 | Interview | [Le budget 2022 de la C.-B. et la lutte aux changements climatiques](https://ici.radio-canada.ca/ohdio/premiere/emissions/panorama/segments/entrevue/391363/gregory-paradis-budget-changements-climatiques)<br>Radio-Canada (Panorama) | 2022/02/22 |
 | Interview | [Comment interpréter l’entente sur les forêts annoncée aujourd’hui?](https://ici.radio-canada.ca/ohdio/premiere/emissions/panorama/segments/entrevue/387505/gregory-paradis-gestion-foret-ancienne)<br>Radio-Canada (Panorama) | 2022/01/20 |
 | Interview | [Do new forests or old ones capture more carbon dioxide from the atmosphere?](https://www.cbc.ca/radio/quirks/dec-11-sounds-of-a-coral-reef-the-message-in-young-blood-ants-communicate-with-vomit-and-more-1.6280034/do-new-forests-or-old-ones-capture-more-carbon-dioxide-from-the-atmosphere-1.6281256)<br>CBC Radio (Quirks & Quarks) | 2021/12/10 |
-| Interview | [Innodations en Colombie-Britanique en 2021: Les feux de forêt auraient contribué aux inondations en Colombie-Britannique](https://ici.radio-canada.ca/amp/1845460/inondation-feux-foret-2021-cb-deluge-changements-climatiques-erosion-chaleur)<br>Radio-Canada | 2021/12/06 |
+| Interview | [Inondations en Colombie-Britannique en 2021: Les feux de forêt auraient contribué aux inondations en Colombie-Britannique](https://ici.radio-canada.ca/amp/1845460/inondation-feux-foret-2021-cb-deluge-changements-climatiques-erosion-chaleur)<br>Radio-Canada | 2021/12/06 |
 | Interview | [Comment combiner la transformation climatique et économique?](https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/entrevue/382325/helene-lequitte-transformation-economique-co2-taxe-carbone-restrictions) Radio-Canada (Phare Ouest) | 2021/11/30 |
-| Interview | [Innondations en Columbie-Britanique: Les coupes à blanc montrées du doigt](https://plus.lapresse.ca/screens/15ff56df-9e44-4ee3-932c-eec2df9b41ee__7C___0.html?utm_content=ulink&utm_source=lpp&utm_medium=referral&utm_campaign=internal+share)<br>La Presse | 2021/11/30 |
+| Interview | [Inondations en Colombie-Britannique: Les coupes à blanc montrées du doigt](https://plus.lapresse.ca/screens/15ff56df-9e44-4ee3-932c-eec2df9b41ee__7C___0.html?utm_content=ulink&utm_source=lpp&utm_medium=referral&utm_campaign=internal+share)<br>La Presse | 2021/11/30 |
 | Interview | [Pourquoi suspendre et non stopper l'exploitation des forêts anciennes?](https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/episodes/581466/rattrapage-du-mercredi-3-novembre-2021/8)<br>Radio-Canada (Phare Ouest) | 2021/11/03 |
-| Interview | [Quel est l’avenir de la foresterie en Colombie-Britanique?](https://ici.radio-canada.ca/nouvelle/1836667/foresterie-foret-ancienne-durable-coupe-industrie)<br>Radio-Canada (ICI Colombie-Britanique) | 2021/11/02 |
+| Interview | [Quel est l’avenir de la foresterie en Colombie-Britannique?](https://ici.radio-canada.ca/nouvelle/1836667/foresterie-foret-ancienne-durable-coupe-industrie)<br>Radio-Canada (ICI Colombie-Britannique) | 2021/11/02 |
 | Interview | [Les Teslas comme solution alternative aux changements climatiques?](https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/episodes/563474/rattrapage-du-jeudi-26-aout-2021/18) Radio Canada (Phare Ouest) | 2021/08/26 |
-| Interview | [La regénération des forêts](https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/episodes/560151/rattrapage-du-jeudi-12-aout-2021/17?fbclid=IwAR1S6-Kaf5Mv6T-oMQcDMz1mgKhxnEGga1nhhgIzSWQe09pO6Q7IK2GVW1E)<br>Radio-Canada (Phare Ouest) | 2021/08/12 |
+| Interview | [La régénération des forêts](https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/episodes/560151/rattrapage-du-jeudi-12-aout-2021/17?fbclid=IwAR1S6-Kaf5Mv6T-oMQcDMz1mgKhxnEGga1nhhgIzSWQe09pO6Q7IK2GVW1E)<br>Radio-Canada (Phare Ouest) | 2021/08/12 |
 
 ## 12. AWARDS AND DISTINCTIONS
 
@@ -768,7 +768,7 @@ Awards received by HQP under my direct supervision are listed below.
 | Elaheh Ghasemi | André Hoffmann Fellow for the Fourth Industrial Revolution | World Economic Forum | 2024 | $87 000 |
 | Salar Ghotb | David Martell Student Paper Prize in Forestry | Canadian Operational Research Society (CORS) | 2024 | Best Paper $200 |
 | Yancun Yan | Fellowship in Forest Ecosystem Management | Canfor Corporation | 2024 | $2500 |
-| Jin Xia Guo | Undergraduate Student Reseach Award | NSERC | 2024 | $6000 |
+| Jin Xia Guo | Undergraduate Student Research Award | NSERC | 2024 | $6000 |
 | Yancun Yan | VanDusen Graduate Fellowship in Forestry | UBC F | 2023 | $4500 |
 | Yancun Yan | Work Learn International Undergraduate Research Award | UBC | 2022 | $6000 |
 | Yike Chen | Work Learn International Undergraduate Research Award | UBC | 2022 | $6000 |
@@ -818,31 +818,31 @@ Symbol key: `^` highly qualified personnel (HQP).
 
 ### (a) Journals
 
-16\. **Paradis, G.**, **Jaffray, R.**<sup>^</sup> and **Coupland, K.**<sup>^</sup> *FHOPS: A reproducible optimization and benchmarking stack for forest harvest operations*. SoftwareX. (in press)
-15\. **Paradis, G.** (2026). *A Two-Stage Fitting Method for Truncated Stem Diameter Distributions*. Forest Science, 72(4), 483–494. DOI [10.1007/s44391-026-00069-5](https://doi.org/10.1007/s44391-026-00069-5).
-14\. Abougharib, A., Nazer, M.Z., **Paradis, G.** and Wiesner, F. (2026). *FIRECAT: A public database for solid temperature modelling of mass timber compartment fire tests*. Fire Safety Journal, 163, 104868. DOI [10.1016/j.firesaf.2026.104868](https://doi.org/10.1016/j.firesaf.2026.104868).
-13\. **Jaffray, R.**<sup>^</sup>, **Coupland, K.**<sup>^</sup> and **Paradis, G.** (2026). *Forest harvesting operational planning tools: a systematic review of optimization, simulation, and spatial decision support systems*. International Journal of Forest Engineering. DOI [10.1080/14942119.2026.2662184](https://doi.org/10.1080/14942119.2026.2662184).
-12\. **Paradis, G.** (2026). *WS3: An open-source Python framework for integrated simulation and optimization of forest landscape and wood supply systems*. Ecological Informatics, 95, 103688. DOI [10.1016/j.ecoinf.2026.103688](https://doi.org/10.1016/j.ecoinf.2026.103688).
-11\. Hughes, J., Endicott, S., Lapins, D., Lochhead, K. and **Paradis, G.** (2025). *Development and assessment of automated forest road projection methods using performance metrics relevant for wildlife*. Landscape Ecology, 40, 208. DOI [10.1007/s10980-025-02232-8](https://doi.org/10.1007/s10980-025-02232-8).
-10\. Munro, H., Woodall, C., Anderegg, W., Atkins, J., Beier, C., Bullock, B., DeLyser, K., Diaz, D., Eskelson, B., Evans, M., Foppert, J., Foster, B., Fox, T., Frank, J., Froese, R., Gaines III, G., Gould, P., Hailemariam, T., Sonne Hall, E., Heckman, K., Helmer, E., Hogan, J., Hoover, C., Kinane, S., MacFarlane, D., Murray, L., **Paradis, G.**, Poudel, K., Prisley, S., Rakestraw, J., Restrepo, H., Sharma, Shaw, J., Smith-Mateja, E., VanderSchaaf, C., Vatandaslar, C., Weiskittel, A. and Yang, S. (2025). *Challenges and Strategic Recommendations for Enhancing Quantification and Projection of Forest Carbon Dynamics*. Journal of Forestry, 123, 703–734. DOI [10.1007/s44392-025-00048-7](https://doi.org/10.1007/s44392-025-00048-7).
-9\. **Guo, B.**<sup>^</sup>, **Paradis, G.** and Lam, T.-Y. (2025). *Consistency and equivalence in tree diameter and height instruments among inexperienced surveyors*. Journal of Forest Research, 36(1). DOI [10.1007/s11676-025-01840-z](https://doi.org/10.1007/s11676-025-01840-z).
-8\. **Lafond, V.**<sup>^</sup>, Polinko, A., Man, C., Dymond, C., **Paradis, G.** and Griess, V. (2024). *Mitigating the mid-term timber supply shortage in British Columbia: Silvicultural options under a changing climate*. Canadian Journal of Forest Research, 54(11). (Editor’s Choice) DOI [10.1139/cjfr-2023-0225](https://doi.org/10.1139/cjfr-2023-0225).
-7\. Boisvenue, C., **Paradis, G.**, Eddy, I., McIntire, E. and Chubaty, A. (2022). *Managing forest carbon and landscape capacities*. Environmental Research Letters, 17(11), 114013. DOI [10.1088/1748-9326/ac9919](https://doi.org/10.1088/1748-9326/ac9919).
-6\. Lafond, V., Lingua, F., Lumnitz, S., **Paradis, G.**, Srivastava, V. and Griess, V. (2020). *Challenges and opportunities in developing DSS for risk assessment and management of forest invasive alien species*. Environmental Reviews, 28(3). DOI [10.1139/er-2019-0024](https://doi.org/10.1139/er-2019-0024).
-5\. Cantegril, P., **Paradis, G.**, LeBel, L. and Raulier, F. (2019). *Bioenergy production to improve value-creation potential of strategic forest management plans in mixed-wood forests of Eastern Canada*. Applied Energy, 247, 171–181.
-4\. Roe, A., Torson, A., Bilodeau, G., Bilodeau, P., Blackburn, G., Cui, M., Cusson, M., Doucet, D., Griess, V., Lafond, V., **Paradis, G.**, Porth, I., Prunier, J., Srivastava, V., Tremblay, J., Uzunovic, A., Yemshanov, D. and Hamelin, R. (2018). *Biosurveillance of Forest Insects. Part II: Adoption of genomic tools by end user communities and barriers to integration*. Journal of Pest Science, 92(1), 71–82.
-3\. Roe, A., Torson, A., Bilodeau, G., Bilodeau, P., Blackburn, G., Cui, M., Cusson, M., Doucet, D., Griess, V., Lafond, V., **Paradis, G.**, Porth, I., Prunier, J., Srivastava, V., Tremblay, J., Uzunovic, A., Yemshanov, D. and Hamelin, R. (2018). *Biosurveillance of Forest Insects. Part I: Integration and application of genomic tools to the surveillance of non-native forest insects*. Journal of Pest Science, 92(1), 52–70.
-2\. **Paradis, G.**, Bouchard, M., LeBel, L. and D’Amours, S. (2018). *A Bilevel Model Formulation for the Distributed Wood Supply Planning Problem*. Canadian Journal of Forest Research, 48(2), 159–170. DOI [10.1139/cjfr-2017-0240](https://doi.org/10.1139/cjfr-2017-0240).
-1\. **Paradis, G.**, LeBel, L., D’Amours, S. and Bouchard, M. (2013). *On the risk of systematic drift under incoherent hierarchical forest management planning*. Canadian Journal of Forest Research, 43(5), 480–492. DOI [10.1139/cjfr-2012-0334](https://doi.org/10.1139/cjfr-2012-0334).
+16\. **Paradis, G.**, **Jaffray, R.**<sup>^</sup> and **Coupland, K.**<sup>^</sup> *FHOPS: A reproducible optimization and benchmarking stack for forest harvest operations*. SoftwareX. (in press)  
+15\. **Paradis, G.** (2026). *A Two-Stage Fitting Method for Truncated Stem Diameter Distributions*. Forest Science, 72(4), 483–494. DOI [10.1007/s44391-026-00069-5](https://doi.org/10.1007/s44391-026-00069-5).  
+14\. Abougharib, A., Nazer, M.Z., **Paradis, G.** and Wiesner, F. (2026). *FIRECAT: A public database for solid temperature modelling of mass timber compartment fire tests*. Fire Safety Journal, 163, 104868. DOI [10.1016/j.firesaf.2026.104868](https://doi.org/10.1016/j.firesaf.2026.104868).  
+13\. **Jaffray, R.**<sup>^</sup>, **Coupland, K.**<sup>^</sup> and **Paradis, G.** (2026). *Forest harvesting operational planning tools: a systematic review of optimization, simulation, and spatial decision support systems*. International Journal of Forest Engineering. DOI [10.1080/14942119.2026.2662184](https://doi.org/10.1080/14942119.2026.2662184).  
+12\. **Paradis, G.** (2026). *WS3: An open-source Python framework for integrated simulation and optimization of forest landscape and wood supply systems*. Ecological Informatics, 95, 103688. DOI [10.1016/j.ecoinf.2026.103688](https://doi.org/10.1016/j.ecoinf.2026.103688).  
+11\. Hughes, J., Endicott, S., Lapins, D., Lochhead, K. and **Paradis, G.** (2025). *Development and assessment of automated forest road projection methods using performance metrics relevant for wildlife*. Landscape Ecology, 40, 208. DOI [10.1007/s10980-025-02232-8](https://doi.org/10.1007/s10980-025-02232-8).  
+10\. Munro, H., Woodall, C., Anderegg, W., Atkins, J., Beier, C., Bullock, B., DeLyser, K., Diaz, D., Eskelson, B., Evans, M., Foppert, J., Foster, B., Fox, T., Frank, J., Froese, R., Gaines III, G., Gould, P., Hailemariam, T., Sonne Hall, E., Heckman, K., Helmer, E., Hogan, J., Hoover, C., Kinane, S., MacFarlane, D., Murray, L., **Paradis, G.**, Poudel, K., Prisley, S., Rakestraw, J., Restrepo, H., Sharma, Shaw, J., Smith-Mateja, E., VanderSchaaf, C., Vatandaslar, C., Weiskittel, A. and Yang, S. (2025). *Challenges and Strategic Recommendations for Enhancing Quantification and Projection of Forest Carbon Dynamics*. Journal of Forestry, 123, 703–734. DOI [10.1007/s44392-025-00048-7](https://doi.org/10.1007/s44392-025-00048-7).  
+9\. **Guo, B.**<sup>^</sup>, **Paradis, G.** and Lam, T.-Y. (2025). *Consistency and equivalence in tree diameter and height instruments among inexperienced surveyors*. Journal of Forest Research, 36(1). DOI [10.1007/s11676-025-01840-z](https://doi.org/10.1007/s11676-025-01840-z).  
+8\. **Lafond, V.**<sup>^</sup>, Polinko, A., Man, C., Dymond, C., **Paradis, G.** and Griess, V. (2024). *Mitigating the mid-term timber supply shortage in British Columbia: Silvicultural options under a changing climate*. Canadian Journal of Forest Research, 54(11). (Editor’s Choice) DOI [10.1139/cjfr-2023-0225](https://doi.org/10.1139/cjfr-2023-0225).  
+7\. Boisvenue, C., **Paradis, G.**, Eddy, I., McIntire, E. and Chubaty, A. (2022). *Managing forest carbon and landscape capacities*. Environmental Research Letters, 17(11), 114013. DOI [10.1088/1748-9326/ac9919](https://doi.org/10.1088/1748-9326/ac9919).  
+6\. Lafond, V., Lingua, F., Lumnitz, S., **Paradis, G.**, Srivastava, V. and Griess, V. (2020). *Challenges and opportunities in developing DSS for risk assessment and management of forest invasive alien species*. Environmental Reviews, 28(3). DOI [10.1139/er-2019-0024](https://doi.org/10.1139/er-2019-0024).  
+5\. Cantegril, P., **Paradis, G.**, LeBel, L. and Raulier, F. (2019). *Bioenergy production to improve value-creation potential of strategic forest management plans in mixed-wood forests of Eastern Canada*. Applied Energy, 247, 171–181.  
+4\. Roe, A., Torson, A., Bilodeau, G., Bilodeau, P., Blackburn, G., Cui, M., Cusson, M., Doucet, D., Griess, V., Lafond, V., **Paradis, G.**, Porth, I., Prunier, J., Srivastava, V., Tremblay, J., Uzunovic, A., Yemshanov, D. and Hamelin, R. (2018). *Biosurveillance of Forest Insects. Part II: Adoption of genomic tools by end user communities and barriers to integration*. Journal of Pest Science, 92(1), 71–82.  
+3\. Roe, A., Torson, A., Bilodeau, G., Bilodeau, P., Blackburn, G., Cui, M., Cusson, M., Doucet, D., Griess, V., Lafond, V., **Paradis, G.**, Porth, I., Prunier, J., Srivastava, V., Tremblay, J., Uzunovic, A., Yemshanov, D. and Hamelin, R. (2018). *Biosurveillance of Forest Insects. Part I: Integration and application of genomic tools to the surveillance of non-native forest insects*. Journal of Pest Science, 92(1), 52–70.  
+2\. **Paradis, G.**, Bouchard, M., LeBel, L. and D’Amours, S. (2018). *A Bilevel Model Formulation for the Distributed Wood Supply Planning Problem*. Canadian Journal of Forest Research, 48(2), 159–170. DOI [10.1139/cjfr-2017-0240](https://doi.org/10.1139/cjfr-2017-0240).  
+1\. **Paradis, G.**, LeBel, L., D’Amours, S. and Bouchard, M. (2013). *On the risk of systematic drift under incoherent hierarchical forest management planning*. Canadian Journal of Forest Research, 43(5), 480–492. DOI [10.1139/cjfr-2012-0334](https://doi.org/10.1139/cjfr-2012-0334).  
 
 ### (b) Conference Proceedings
 
-2\. **Abougharib, A.**<sup>^</sup>, Naser, M.Z., **Paradis, G.** and Weisner, F. (2025). *Solid Temperature Prediction for CLT Walls in Fire Using Supervised Machine Learning. World Conference on Timber Engineering 2025*. Brisbane, Australia.
-1\. Cantegril, P., **Paradis, G.**, LeBel, L. and Raulier, F. (2018). *A Network Design Approach forImproving the Value-Creation Potential of Strategic Forest Management Plans*. 2018 COFE Conference Proceedings. Williamsburg, Virginia.
+2\. **Abougharib, A.**<sup>^</sup>, Naser, M.Z., **Paradis, G.** and Weisner, F. (2025). *Solid Temperature Prediction for CLT Walls in Fire Using Supervised Machine Learning. World Conference on Timber Engineering 2025*. Brisbane, Australia.  
+1\. Cantegril, P., **Paradis, G.**, LeBel, L. and Raulier, F. (2018). *A Network Design Approach forImproving the Value-Creation Potential of Strategic Forest Management Plans*. 2018 COFE Conference Proceedings. Williamsburg, Virginia.  
 
 ### (c) Other
 
-1\. **Paradis, G.** and Richards, E.W. (2001). *FLG: A Forest Landscape Generator*. CORS Bulletin, 35(3), 28–31.
+1\. **Paradis, G.** and Richards, E.W. (2001). *FLG: A Forest Landscape Generator*. CORS Bulletin, 35(3), 28–31.  
 
 ## 2. NON-REFEREED PUBLICATIONS
 
@@ -856,68 +856,68 @@ Symbol key: `^` highly qualified personnel (HQP).
 
 ### (c) Other
 
-62\. **Paradis, G.** (2026). *fresh-yan (v0.1.2) [computer software]*. 10.5281/zenodo.23358263. https://doi.org/10.5281/zenodo.23358263
-61\. **Paradis, G.** (2026). *fresh-daugherty (v0.2.0) [computer software]*. 10.5281/zenodo.23218533. https://doi.org/10.5281/zenodo.23218533
-60\. UBC FRESH Lab (2026). *fresh-fuchs (v0.1.0-alpha2) [computer software]*. 10.5281/zenodo.21981299. https://doi.org/10.5281/zenodo.21981299
-59\. **Jaffray, R.**<sup>^</sup> (2026). *jaffray-masc-fhops-model (v1.0.0) [computer software]*. 10.5281/zenodo.19200385. https://doi.org/10.5281/zenodo.19200385
-58\. **Paradis, G.** (2026). *ws4 technical documentation*. https://ubc-fresh.github.io/ws4/.
-57\. **Paradis, G.** (2026). *modelwright technical documentation*. https://ubc-fresh.github.io/modelwright/.
-56\. **Paradis, G.** (2026). *bc-npp-database technical documentation*. https://ubc-fresh.github.io/bc-npp-database/.
-55\. **Paradis, G.** (2026). *figrecover technical documentation*. https://ubc-fresh.github.io/figrecover/.
-54\. **Paradis, G.** (2026). *freshforge technical documentation*. https://ubc-fresh.github.io/freshforge/.
-53\. **Paradis, G.** (2026). *fresh-salvage technical documentation*. https://ubc-fresh.github.io/fresh-salvage/.
-52\. **Paradis, G.** (2026). *wbi-birds technical documentation*. https://ubc-fresh.github.io/wbi-birds/.
-51\. **Paradis, G.** (2026). *fieldatlas [computer software]*. https://github.com/UBC-FRESH/fieldatlas.
-50\. **Paradis, G.** (2026). *fresh-hectaresbc technical documentation*. https://ubc-fresh.github.io/fresh-hectaresbc/.
-49\. **Paradis, G.** (2026). *clews-c2070-fresh [computer software]*. https://github.com/UBC-FRESH/clews-c2070-fresh.
-48\. **Paradis, G.** (2026). *femic-mkrf-instance technical documentation (v0.0.1-alpha1)*. https://ubc-fresh.github.io/femic-mkrf-instance.
-47\. **Paradis, G.** (2026). *femic-mkrf-instance (v0.0.1-alpha1) [computer software]*.
-46\. **Paradis, G.** (2026). *PAWS3 (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19621887. https://doi.org/10.5281/zenodo.19621887
-45\. **Paradis, G.** (2026). *lab-data-workflow-workshop (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19621878. https://doi.org/10.5281/zenodo.19621878
-44\. **Paradis, G.** (2026). *jupyterhub-container-deploy (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19621826. https://doi.org/10.5281/zenodo.19621826
-43\. **Paradis, G.** (2026). *femic-tsa29-instance technical documentation (v0.0.1-alpha1)*. https://ubc-fresh.github.io/femic-tsa29-instance.
-42\. **Paradis, G.** (2026). *femic-tsa29-instance (v1.0.0-alpha1) [computer software]*. 10.5281/zenodo.20577587. https://doi.org/10.5281/zenodo.20577587
-41\. **Paradis, G.** (2026). *femic-k3z-instance technical documentation (v0.0.1-alpha)*. https://ubc-fresh.github.io/femic-k3z-instance/.
-40\. **Paradis, G.** (2026). *femic-k3z-instance (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19619736. https://doi.org/10.5281/zenodo.19619736
-39\. **Paradis, G.** (2026). *femic-public-data (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19619663. https://doi.org/10.5281/zenodo.19619663
-38\. **Paradis, G.** (2026). *FEMIC technical documentation (v0.0.1-alpha)*. https://ubc-fresh.github.io/femic/.
-37\. **Paradis, G.** (2026). *FEMIC (v0.0.1-alpha) [computer software]*. 10.5281/zenodo.19619418. https://doi.org/10.5281/zenodo.19619418
-36\. **Paradis, G.** (2026). *BADC technical documentation (v0.0.1-alpha1) [computer software]*. https://ubc-fresh.github.io/badc/.
-35\. **Paradis, G.** (2026). *BADC (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19620220. https://doi.org/10.5281/zenodo.19620220
-34\. **Paradis, G.** (2025). *Nemora technical documentation (v0.0.1-alpha.2)*. https://ubc-fresh.github.io/nemora/.
-33\. **Paradis, G.** (2025). *Nemora (v0.0.1-alpha.2) [computer software]*. 10.5281/zenodo.19618885. https://doi.org/10.5281/zenodo.19618885
-32\. **Paradis, G.** (2025). *FHOPS technical documentation (v1.0.0-alpha3)*. https://ubc-fresh.github.io/fhops/.
-31\. **Paradis, G.** (2026). *FHOPS (v1.0.1) [computer software]*. 10.5281/zenodo.23244315. https://doi.org/10.5281/zenodo.23244315
-30\. **Paradis, G.** (2025). *Forest carbon offset protocol summaries*. https://github.com/UBC-FRESH/forest-carbon-offset-protocol-summaries.
-29\. **Paradis, G.** and **Ghasemi, E.**<sup>^</sup> (2025). *nbds\_dss (v1.0.0) [computer software]*. 10.5281/zenodo.17316315. https://doi.org/10.5281/zenodo.17316315
-28\. **Paradis, G.** and **Ghotb, S.**<sup>^</sup> (2025). *ecotrust-dss-data (v1.0.0) [computer software]*. 10.5281/zenodo.19621476. https://doi.org/10.5281/zenodo.19621476
-27\. **Paradis, G.** and **Ghotb, S.**<sup>^</sup> (2025). *ecotrust-dss (v1.0.0) [computer software]*. 10.5281/zenodo.17330007. https://doi.org/10.5281/zenodo.17330007
-26\. **Paradis, G.**, **Ghotb, S.**<sup>^</sup>, **Ghasemi, E.**<sup>^</sup> and **Coupland, K.**<sup>^</sup> (2025). *s3 technical documentation (v1.0.6)*. https://ws3.readthedocs.io/en/dev/.
-25\. **Paradis, G.**, **Ghotb, S.**<sup>^</sup>, **Ghasemi, E.**<sup>^</sup> and **Coupland, K.**<sup>^</sup> (2025). *ws3 (Version 1.0.6) [computer software]*. 10.5281/zenodo.18716705. https://doi.org/10.5281/zenodo.18716705
-24\. **Paradis, G.** (2025). *spades\_ws3\_dataInit (Version 1.1.1) [Computer software]*.
-23\. **Paradis, G.** (2025). *spades\_ws3 (Version 1.1.1) [Computer software]*.
-22\. **Paradis, G.** (2024). *spades\_ws3\_dataInit (Version 1.1.0) [Computer software]*.
-21\. **Paradis, G.** (2024). *spades\_ws3 (Version 1.1.0) [Computer software]*.
-20\. **Paradis, G.**, Dymond, C., Griess, V., Coggins, S., Wickland, C. and Long, D. (2024). *Notes from the Field*. Research Supports Operational Practice in Community Forests: Reducing Climate Change-Related Risks to Timber Supply. UBC Faculty of Forestry no, 005.
-19\. **Paradis, G.**, Ghasemi, E. and Ghotb, S. (2024). *s3\_carbon\_dss\_demo (Version 1.0.1) [Computer software]*. https://github.com/gparadis/ws3\_carbon\_dss\_demo.
-18\. **Paradis, G.** (2022). *fci\_hg\_invyld [Computer software]*. https://github.com/gparadis/fci\_hg\_invyld.
-17\. **Paradis, G.** (2022). *wbi\_harvesting\_birds [Computer software]*. https://github.com/gparadis/wbi\_harvesting-birds.
-16\. **Paradis, G.** (2022). *ws3\_spatialoptimize [Computer software]*. https://github.com/gparadis/ws3\_spatialoptimize.
-15\. **Paradis, G.** (2022). *wbi\_fullwbmodel [Computer software]*. https://github.com/gparadis/wbi\_fullwbmodel/tree/main.
-14\. **Paradis, G.** (2021). *Harvesting Disturbance Module (HDM), WBI carbon paper (2020) (Version 1.0.0)[Computer software]*. DOI [10.5281/zenodo.5579696](https://doi.org/10.5281/zenodo.5579696).
-13\. **Paradis, G.** (2021). *spades\_ws3\_dataInit (Version 1.0.0-alpha) [Computer software]*. DOI [10.5281/zenodo.5579748](https://doi.org/10.5281/zenodo.5579748).
-12\. **Paradis, G.** (2021). *spades\_ws3 (Version 1.0.0-alpha) [Computer software]*. DOI [10.5281/zenodo.5579756](https://doi.org/10.5281/zenodo.5579756).
-11\. **Paradis, G.** (2021). *ws3: a Wood Supply Simulation System (Version 1.0.0-alpha) [Computer software]*. DOI [10.5281/zenodo.5579778](https://doi.org/10.5281/zenodo.5579778).
-10\. **Paradis, G.** (2021). *wbi\_ria\_yield (Version 0.0.1). [Computer software]*. DOI [10.5281/zenodo.5717514](https://doi.org/10.5281/zenodo.5717514).
-9\. **Paradis, G.** (2018). *DEG: A Disturbance Event Generator for GCBM*. DOI [10.14288/1.0402620](https://doi.org/10.14288/1.0402620).
-8\. **Paradis, G.** and LeBel, L. (2018). *Estimating the value-creation potential of wood supply using a hybrid simulation-optimization approach*. Technical Report CIRRELT-2018-24. DOI [10.13140/RG.2.2.32706.48321](https://doi.org/10.13140/RG.2.2.32706.48321).
-7\. **Paradis, G.** and LeBel, L. (2018). *Retro-fitting value-creation potential indicators to long-term wood supply models*. Technical Report CIRRELT-2018-23. DOI [10.13140/RG.2.2.19284.71040](https://doi.org/10.13140/RG.2.2.19284.71040).
-6\. **Paradis, G.** and LeBel, L. (2017). *Compiling disaggregation coefficients to link long- and short-term planning models*. Technical Report CIRRELT-2017-43. DOI [10.13140/RG.2.2.12785.99681](https://doi.org/10.13140/RG.2.2.12785.99681).
-5\. **Paradis, G.** and LeBel, L. (2017). *Diameter distribution models for Quebec, Canada*. Technical Report CIRRELT-2017-34. DOI [10.13140/RG.2.2.13394.56005](https://doi.org/10.13140/RG.2.2.13394.56005).
-4\. **Paradis, G.** (2016). *Hierarchical Forest Management Planning: A Bilevel Wood Supply Modelling Approach*. PhD Thesis, Université Laval. DOI [10.13140/RG.2.2.21060.09602](https://doi.org/10.13140/RG.2.2.21060.09602).
-3\. **Paradis, G.**, Bouchard, M., LeBel, L. and D’Amours, S. (2015). *Extending the Classic Wood Supply Model to Anticipate Industrial Fibre Consumption*. Technical Report CIRRELT-2015-06. DOI [10.13140/RG.2.1.3887.0489](https://doi.org/10.13140/RG.2.1.3887.0489).
-2\. **Paradis, G.** (2007). *Modèles de simulation Patchworks et Woodstock*. L’aubelle, 152, 18–19.
-1\. **Paradis, G.** (2005). *A Multi-Objective Tactical Harvest Schedule Optimisation Algorithm*. M.Sc. Eng. Thesis, University of New Brunswick. DOI [10.13140/RG.2.2.34481.86886](https://doi.org/10.13140/RG.2.2.34481.86886).
+62\. **Paradis, G.** (2026). *fresh-yan (v0.1.2) [computer software]*. 10.5281/zenodo.23358263. https://doi.org/10.5281/zenodo.23358263  
+61\. **Paradis, G.** (2026). *fresh-daugherty (v0.2.0) [computer software]*. 10.5281/zenodo.23218533. https://doi.org/10.5281/zenodo.23218533  
+60\. UBC FRESH Lab (2026). *fresh-fuchs (v0.1.0-alpha2) [computer software]*. 10.5281/zenodo.21981299. https://doi.org/10.5281/zenodo.21981299  
+59\. **Jaffray, R.**<sup>^</sup> (2026). *jaffray-masc-fhops-model (v1.0.0) [computer software]*. 10.5281/zenodo.19200385. https://doi.org/10.5281/zenodo.19200385  
+58\. **Paradis, G.** (2026). *ws4 technical documentation*. https://ubc-fresh.github.io/ws4/.  
+57\. **Paradis, G.** (2026). *modelwright technical documentation*. https://ubc-fresh.github.io/modelwright/.  
+56\. **Paradis, G.** (2026). *bc-npp-database technical documentation*. https://ubc-fresh.github.io/bc-npp-database/.  
+55\. **Paradis, G.** (2026). *figrecover technical documentation*. https://ubc-fresh.github.io/figrecover/.  
+54\. **Paradis, G.** (2026). *freshforge technical documentation*. https://ubc-fresh.github.io/freshforge/.  
+53\. **Paradis, G.** (2026). *fresh-salvage technical documentation*. https://ubc-fresh.github.io/fresh-salvage/.  
+52\. **Paradis, G.** (2026). *wbi-birds technical documentation*. https://ubc-fresh.github.io/wbi-birds/.  
+51\. **Paradis, G.** (2026). *fieldatlas [computer software]*. https://github.com/UBC-FRESH/fieldatlas.  
+50\. **Paradis, G.** (2026). *fresh-hectaresbc technical documentation*. https://ubc-fresh.github.io/fresh-hectaresbc/.  
+49\. **Paradis, G.** (2026). *clews-c2070-fresh [computer software]*. https://github.com/UBC-FRESH/clews-c2070-fresh.  
+48\. **Paradis, G.** (2026). *femic-mkrf-instance technical documentation (v0.0.1-alpha1)*. https://ubc-fresh.github.io/femic-mkrf-instance.  
+47\. **Paradis, G.** (2026). *femic-mkrf-instance (v0.0.1-alpha1) [computer software]*.  
+46\. **Paradis, G.** (2026). *PAWS3 (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19621887. https://doi.org/10.5281/zenodo.19621887  
+45\. **Paradis, G.** (2026). *lab-data-workflow-workshop (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19621878. https://doi.org/10.5281/zenodo.19621878  
+44\. **Paradis, G.** (2026). *jupyterhub-container-deploy (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19621826. https://doi.org/10.5281/zenodo.19621826  
+43\. **Paradis, G.** (2026). *femic-tsa29-instance technical documentation (v0.0.1-alpha1)*. https://ubc-fresh.github.io/femic-tsa29-instance.  
+42\. **Paradis, G.** (2026). *femic-tsa29-instance (v1.0.0-alpha1) [computer software]*. 10.5281/zenodo.20577587. https://doi.org/10.5281/zenodo.20577587  
+41\. **Paradis, G.** (2026). *femic-k3z-instance technical documentation (v0.0.1-alpha)*. https://ubc-fresh.github.io/femic-k3z-instance/.  
+40\. **Paradis, G.** (2026). *femic-k3z-instance (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19619736. https://doi.org/10.5281/zenodo.19619736  
+39\. **Paradis, G.** (2026). *femic-public-data (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19619663. https://doi.org/10.5281/zenodo.19619663  
+38\. **Paradis, G.** (2026). *FEMIC technical documentation (v0.0.1-alpha)*. https://ubc-fresh.github.io/femic/.  
+37\. **Paradis, G.** (2026). *FEMIC (v0.0.1-alpha) [computer software]*. 10.5281/zenodo.19619418. https://doi.org/10.5281/zenodo.19619418  
+36\. **Paradis, G.** (2026). *BADC technical documentation (v0.0.1-alpha1) [computer software]*. https://ubc-fresh.github.io/badc/.  
+35\. **Paradis, G.** (2026). *BADC (v0.0.1-alpha1) [computer software]*. 10.5281/zenodo.19620220. https://doi.org/10.5281/zenodo.19620220  
+34\. **Paradis, G.** (2025). *Nemora technical documentation (v0.0.1-alpha.2)*. https://ubc-fresh.github.io/nemora/.  
+33\. **Paradis, G.** (2025). *Nemora (v0.0.1-alpha.2) [computer software]*. 10.5281/zenodo.19618885. https://doi.org/10.5281/zenodo.19618885  
+32\. **Paradis, G.** (2025). *FHOPS technical documentation (v1.0.0-alpha3)*. https://ubc-fresh.github.io/fhops/.  
+31\. **Paradis, G.** (2026). *FHOPS (v1.0.1) [computer software]*. 10.5281/zenodo.23244315. https://doi.org/10.5281/zenodo.23244315  
+30\. **Paradis, G.** (2025). *Forest carbon offset protocol summaries*. https://github.com/UBC-FRESH/forest-carbon-offset-protocol-summaries.  
+29\. **Paradis, G.** and **Ghasemi, E.**<sup>^</sup> (2025). *nbds\_dss (v1.0.0) [computer software]*. 10.5281/zenodo.17316315. https://doi.org/10.5281/zenodo.17316315  
+28\. **Paradis, G.** and **Ghotb, S.**<sup>^</sup> (2025). *ecotrust-dss-data (v1.0.0) [computer software]*. 10.5281/zenodo.19621476. https://doi.org/10.5281/zenodo.19621476  
+27\. **Paradis, G.** and **Ghotb, S.**<sup>^</sup> (2025). *ecotrust-dss (v1.0.0) [computer software]*. 10.5281/zenodo.17330007. https://doi.org/10.5281/zenodo.17330007  
+26\. **Paradis, G.**, **Ghotb, S.**<sup>^</sup>, **Ghasemi, E.**<sup>^</sup> and **Coupland, K.**<sup>^</sup> (2025). *s3 technical documentation (v1.0.6)*. https://ws3.readthedocs.io/en/dev/.  
+25\. **Paradis, G.**, **Ghotb, S.**<sup>^</sup>, **Ghasemi, E.**<sup>^</sup> and **Coupland, K.**<sup>^</sup> (2025). *ws3 (Version 1.0.6) [computer software]*. 10.5281/zenodo.18716705. https://doi.org/10.5281/zenodo.18716705  
+24\. **Paradis, G.** (2025). *spades\_ws3\_dataInit (Version 1.1.1) [Computer software]*.  
+23\. **Paradis, G.** (2025). *spades\_ws3 (Version 1.1.1) [Computer software]*.  
+22\. **Paradis, G.** (2024). *spades\_ws3\_dataInit (Version 1.1.0) [Computer software]*.  
+21\. **Paradis, G.** (2024). *spades\_ws3 (Version 1.1.0) [Computer software]*.  
+20\. **Paradis, G.**, Dymond, C., Griess, V., Coggins, S., Wickland, C. and Long, D. (2024). *Notes from the Field*. Research Supports Operational Practice in Community Forests: Reducing Climate Change-Related Risks to Timber Supply. UBC Faculty of Forestry no, 005.  
+19\. **Paradis, G.**, Ghasemi, E. and Ghotb, S. (2024). *s3\_carbon\_dss\_demo (Version 1.0.1) [Computer software]*. https://github.com/gparadis/ws3\_carbon\_dss\_demo.  
+18\. **Paradis, G.** (2022). *fci\_hg\_invyld [Computer software]*. https://github.com/gparadis/fci\_hg\_invyld.  
+17\. **Paradis, G.** (2022). *wbi\_harvesting\_birds [Computer software]*. https://github.com/gparadis/wbi\_harvesting-birds.  
+16\. **Paradis, G.** (2022). *ws3\_spatialoptimize [Computer software]*. https://github.com/gparadis/ws3\_spatialoptimize.  
+15\. **Paradis, G.** (2022). *wbi\_fullwbmodel [Computer software]*. https://github.com/gparadis/wbi\_fullwbmodel/tree/main.  
+14\. **Paradis, G.** (2021). *Harvesting Disturbance Module (HDM), WBI carbon paper (2020) (Version 1.0.0)[Computer software]*. DOI [10.5281/zenodo.5579696](https://doi.org/10.5281/zenodo.5579696).  
+13\. **Paradis, G.** (2021). *spades\_ws3\_dataInit (Version 1.0.0-alpha) [Computer software]*. DOI [10.5281/zenodo.5579748](https://doi.org/10.5281/zenodo.5579748).  
+12\. **Paradis, G.** (2021). *spades\_ws3 (Version 1.0.0-alpha) [Computer software]*. DOI [10.5281/zenodo.5579756](https://doi.org/10.5281/zenodo.5579756).  
+11\. **Paradis, G.** (2021). *ws3: a Wood Supply Simulation System (Version 1.0.0-alpha) [Computer software]*. DOI [10.5281/zenodo.5579778](https://doi.org/10.5281/zenodo.5579778).  
+10\. **Paradis, G.** (2021). *wbi\_ria\_yield (Version 0.0.1). [Computer software]*. DOI [10.5281/zenodo.5717514](https://doi.org/10.5281/zenodo.5717514).  
+9\. **Paradis, G.** (2018). *DEG: A Disturbance Event Generator for GCBM*. DOI [10.14288/1.0402620](https://doi.org/10.14288/1.0402620).  
+8\. **Paradis, G.** and LeBel, L. (2018). *Estimating the value-creation potential of wood supply using a hybrid simulation-optimization approach*. Technical Report CIRRELT-2018-24. DOI [10.13140/RG.2.2.32706.48321](https://doi.org/10.13140/RG.2.2.32706.48321).  
+7\. **Paradis, G.** and LeBel, L. (2018). *Retro-fitting value-creation potential indicators to long-term wood supply models*. Technical Report CIRRELT-2018-23. DOI [10.13140/RG.2.2.19284.71040](https://doi.org/10.13140/RG.2.2.19284.71040).  
+6\. **Paradis, G.** and LeBel, L. (2017). *Compiling disaggregation coefficients to link long- and short-term planning models*. Technical Report CIRRELT-2017-43. DOI [10.13140/RG.2.2.12785.99681](https://doi.org/10.13140/RG.2.2.12785.99681).  
+5\. **Paradis, G.** and LeBel, L. (2017). *Diameter distribution models for Quebec, Canada*. Technical Report CIRRELT-2017-34. DOI [10.13140/RG.2.2.13394.56005](https://doi.org/10.13140/RG.2.2.13394.56005).  
+4\. **Paradis, G.** (2016). *Hierarchical Forest Management Planning: A Bilevel Wood Supply Modelling Approach*. PhD Thesis, Université Laval. DOI [10.13140/RG.2.2.21060.09602](https://doi.org/10.13140/RG.2.2.21060.09602).  
+3\. **Paradis, G.**, Bouchard, M., LeBel, L. and D’Amours, S. (2015). *Extending the Classic Wood Supply Model to Anticipate Industrial Fibre Consumption*. Technical Report CIRRELT-2015-06. DOI [10.13140/RG.2.1.3887.0489](https://doi.org/10.13140/RG.2.1.3887.0489).  
+2\. **Paradis, G.** (2007). *Modèles de simulation Patchworks et Woodstock*. L’aubelle, 152, 18–19.  
+1\. **Paradis, G.** (2005). *A Multi-Objective Tactical Harvest Schedule Optimisation Algorithm*. M.Sc. Eng. Thesis, University of New Brunswick. DOI [10.13140/RG.2.2.34481.86886](https://doi.org/10.13140/RG.2.2.34481.86886).  
 
 ## 3. BOOKS
 
@@ -927,11 +927,11 @@ Symbol key: `^` highly qualified personnel (HQP).
 
 ### (b) Edited
 
-1\. **Paradis, G.** (editor) (2018). *Forestry Applications*. Taylor & Francis, ISBN 978-1-13-857639-1. 152 p.
+1\. **Paradis, G.** (editor) (2018). *Forestry Applications*. Taylor & Francis, ISBN 978-1-13-857639-1. 152 p.  
 
 ### (c) Chapters
 
-1\. FABLE (2024). *Transforming food and land systems to achieve the SDGs*. In Sachs et al. (Eds.), The Sustainable Development Report 2024. SDSN, New York and Paris.
+1\. FABLE (2024). *Transforming food and land systems to achieve the SDGs*. In Sachs et al. (Eds.), The Sustainable Development Report 2024. SDSN, New York and Paris.  
 
 ## 4. PATENTS
 
@@ -951,17 +951,17 @@ Symbol key: `^` highly qualified personnel (HQP).
 
 ## 8. WORK SUBMITTED (including publisher and date of submission)
 
-3\. Mologni, O., **Jaffray, R.**<sup>^</sup>, Kenny, Q., Pledger, S., Marcoux, H., **Paradis, G.** and Roeser, D. *Productivity, time structure and standardized roadside cost of short-haul standing-stem helicopter logging in coastal British Columbia: an operational case study*. Submitted to Canadian Journal of Forest Research (2026/10).
-2\. Mologni, O., Lahrsen, S., **Jaffray, R.**<sup>^</sup>, Nicorescu, A.-I., **Paradis, G.** and Roeser, D. *Cost-fidelity trade-offs in estimating the area covered by whole-tree logging equipment from GNSS tracking*. Submitted to Computers and Electronics in Agriculture (2026/10).
-1\. Lane-Shaw, I., Raymundo, A., Stralberg, D., Bayne, E., Chubaty, A., Haché, S., McIntire, E., Micheletti, T., **Paradis, G.** and Cumming, S. *Piecewise smoothing of predicted species density maps: A method of integrating wildlife conservation objectives into forest management planning*. Submitted to Methods in Ecology and Evolution (2026/04).
+3\. Mologni, O., **Jaffray, R.**<sup>^</sup>, Kenny, Q., Pledger, S., Marcoux, H., **Paradis, G.** and Roeser, D. *Productivity, time structure and standardized roadside cost of short-haul standing-stem helicopter logging in coastal British Columbia: an operational case study*. Submitted to Canadian Journal of Forest Research (2026/10).  
+2\. Mologni, O., Lahrsen, S., **Jaffray, R.**<sup>^</sup>, Nicorescu, A.-I., **Paradis, G.** and Roeser, D. *Cost-fidelity trade-offs in estimating the area covered by whole-tree logging equipment from GNSS tracking*. Submitted to Computers and Electronics in Agriculture (2026/10).  
+1\. Lane-Shaw, I., Raymundo, A., Stralberg, D., Bayne, E., Chubaty, A., Haché, S., McIntire, E., Micheletti, T., **Paradis, G.** and Cumming, S. *Piecewise smoothing of predicted species density maps: A method of integrating wildlife conservation objectives into forest management planning*. Submitted to Methods in Ecology and Evolution (2026/04).  
 
 ## 9. WORK IN PROGRESS (including degree of completion)
 
-8\. **Paradis, G.**, **Ghasemi, E.**<sup>^</sup> and **Ghotb, S.**<sup>^</sup> *Microsite Classification from High-Resolution Drone Imagery: Using Deep Learning for Precision Aerial Reforestation*. In preparation (50% complete).
-7\. **Paradis, G.** and Fuchs, J. *Dynamic inconsistency of promised future yields in open-loop LP forest plans: an open, reproducible benchmark of Daugherty (1991) and four tests of mitigation*. In preparation (95% complete).
-6\. **Paradis, G.** *A Weighted Fitting Approach for Diameter Distributions from Horizontal Point Sampling*. In preparation (95% complete).
-5\. **Ghasemi, E.**<sup>^</sup>, **Ghotb, S.**<sup>^</sup>, **Coupland, K.**<sup>^</sup> and **Paradis, G.** *Developing a decision support system to assess forest management scenarios as a nature-based decarbonization solution: A case study from a mining company in British Columbia, Canada*. In preparation (95% complete).
-4\. **Jaffray, R.**<sup>^</sup>, **Coupland, K.**<sup>^</sup> and **Paradis, G.** *Evaluating Rolling-Horizon Design in Forest Operations Machine Scheduling*. In preparation (95% complete).
-3\. **Coupland, K.**<sup>^</sup>, **Paradis, G.**, **Ghasemi, E.**<sup>^</sup> and **Ghotb, S.**<sup>^</sup> *The Role of Harvested Woods Products Half-life and Displacement Uncertainty in Forest Management Decision Trade-offs and Carbon Dynamics in British Columbia*. In preparation (95% complete).
-2\. Southam, H., **Guo, B.**<sup>^</sup>, **Paradis, G.** and Hamelin, R. *Forest edge spread of hemlock dwarf mistletoe (Arceuthobium tsugense) and implications for variable retention harvesting*. In preparation (80% complete).
+8\. **Paradis, G.**, **Ghasemi, E.**<sup>^</sup> and **Ghotb, S.**<sup>^</sup> *Microsite Classification from High-Resolution Drone Imagery: Using Deep Learning for Precision Aerial Reforestation*. In preparation (50% complete).  
+7\. **Paradis, G.** and Fuchs, J. *Dynamic inconsistency of promised future yields in open-loop LP forest plans: an open, reproducible benchmark of Daugherty (1991) and four tests of mitigation*. In preparation (95% complete).  
+6\. **Paradis, G.** *A Weighted Fitting Approach for Diameter Distributions from Horizontal Point Sampling*. In preparation (95% complete).  
+5\. **Ghasemi, E.**<sup>^</sup>, **Ghotb, S.**<sup>^</sup>, **Coupland, K.**<sup>^</sup> and **Paradis, G.** *Developing a decision support system to assess forest management scenarios as a nature-based decarbonization solution: A case study from a mining company in British Columbia, Canada*. In preparation (95% complete).  
+4\. **Jaffray, R.**<sup>^</sup>, **Coupland, K.**<sup>^</sup> and **Paradis, G.** *Evaluating Rolling-Horizon Design in Forest Operations Machine Scheduling*. In preparation (95% complete).  
+3\. **Coupland, K.**<sup>^</sup>, **Paradis, G.**, **Ghasemi, E.**<sup>^</sup> and **Ghotb, S.**<sup>^</sup> *The Role of Harvested Woods Products Half-life and Displacement Uncertainty in Forest Management Decision Trade-offs and Carbon Dynamics in British Columbia*. In preparation (95% complete).  
+2\. Southam, H., **Guo, B.**<sup>^</sup>, **Paradis, G.** and Hamelin, R. *Forest edge spread of hemlock dwarf mistletoe (Arceuthobium tsugense) and implications for variable retention harvesting*. In preparation (80% complete).  
 1\. Southam, H., **Guo, B.**<sup>^</sup>, **Paradis, G.** and Hamelin, R. *Mid-rotation hemlock dwarf mistletoe (Arceuthobium tsugense) infection*. In preparation (50% complete).
