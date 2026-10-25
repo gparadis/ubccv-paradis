@@ -110,7 +110,7 @@ EXPECTED = {
     "any": 1, "universities": 1, "acfarlane": 1, "06": 1,
     "90": 2, "preparation": 1, "complete": 1, "operations": 1,
     "automated": 1, "daily": 1, "ground": 1, "fly": 1,
-    "modeling": 1, "parameter": 1, "press": 2,
+    "modeling": 1, "parameter": 1, "press": 3, "optimization": 1,
     "0.0.1": 1, "19620982": 1, "19619189": 1,
     "dx": 8, "http": 2,
     "britanique": 8, "ssfaf": 3, "columbie": 2, "analysis": 1, "jathleen": 1,

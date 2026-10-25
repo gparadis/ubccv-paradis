@@ -269,6 +269,11 @@ community:
   popular_media:
     - role: Interview
       description: |-
+        [Émission spéciale : élections provinciales en Colombie-Britannique](https://ici.radio-canada.ca/info/videos/18-1282862/elections-cb-provinciales-resultats-ministre?liste=28-34803)
+        Radio-Canada (Café électoral)
+      date: 2026/10/24
+    - role: Interview
+      description: |-
         [Bulletin du 16 octobre - 15 h 00](https://ici.radio-canada.ca/ohdio/premiere/emissions/bulletin-regional-cjbc-toronto/episodes/1219421/bulletin-du-16-octobre-15-h-00)
         Radio-Canada (Bulletin régional Toronto)
       date: 2026/10/16

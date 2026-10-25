@@ -635,6 +635,7 @@ I have engaged in a range of service activities, both within UBC and in the broa
 
 | Role | Description | Date |
 | --- | --- | --- |
+| Interview | [Émission spéciale : élections provinciales en Colombie-Britannique](https://ici.radio-canada.ca/info/videos/18-1282862/elections-cb-provinciales-resultats-ministre?liste=28-34803) Radio-Canada (Café électoral) | 2026/10/24 |
 | Interview | [Bulletin du 16 octobre - 15 h 00](https://ici.radio-canada.ca/ohdio/premiere/emissions/bulletin-regional-cjbc-toronto/episodes/1219421/bulletin-du-16-octobre-15-h-00) Radio-Canada (Bulletin régional Toronto) | 2026/10/16 |
 | Interview | [Les tarifs sur le bois d’œuvre canadien baissent](https://ici.radio-canada.ca/nouvelle/2293088/tarif-bois-oeuvre-resineux-trump) Radio-Canada | 2026/10/15 |
 | Interview | [Bulletin du 15 octobre - 22 h 00](https://ici.radio-canada.ca/ohdio/premiere/emissions/bulletinreseau/episodes/1236814/bulletin-du-15-octobre-22-h-00) Radio-Canada (Bulletin réseau) | 2026/10/15 |
@@ -818,7 +819,7 @@ Symbol key: `^` highly qualified personnel (HQP).
 
 ### (a) Journals
 
-16\. **Paradis, G.**, **Jaffray, R.**<sup>^</sup> and **Coupland, K.**<sup>^</sup> *FHOPS: A reproducible optimization and benchmarking stack for forest harvest operations*. SoftwareX. (in press)  
+16\. **Paradis, G.**, **Jaffray, R.**<sup>^</sup> and **Coupland, K.**<sup>^</sup> (2026). *FHOPS: a reproducible optimisation and benchmarking stack for forest harvest operations*. SoftwareX, 36, 103147. DOI [10.1016/j.softx.2026.103147](https://doi.org/10.1016/j.softx.2026.103147).  
 15\. **Paradis, G.** (2026). *A Two-Stage Fitting Method for Truncated Stem Diameter Distributions*. Forest Science, 72(4), 483–494. DOI [10.1007/s44391-026-00069-5](https://doi.org/10.1007/s44391-026-00069-5).  
 14\. Abougharib, A., Nazer, M.Z., **Paradis, G.** and Wiesner, F. (2026). *FIRECAT: A public database for solid temperature modelling of mass timber compartment fire tests*. Fire Safety Journal, 163, 104868. DOI [10.1016/j.firesaf.2026.104868](https://doi.org/10.1016/j.firesaf.2026.104868).  
 13\. **Jaffray, R.**<sup>^</sup>, **Coupland, K.**<sup>^</sup> and **Paradis, G.** (2026). *Forest harvesting operational planning tools: a systematic review of optimization, simulation, and spatial decision support systems*. International Journal of Forest Engineering. DOI [10.1080/14942119.2026.2662184](https://doi.org/10.1080/14942119.2026.2662184).  
