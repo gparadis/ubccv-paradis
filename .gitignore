@@ -6,3 +6,4 @@ build/
 *.fdb_latexmk
 __pycache__/
 *.pyc
+tmp/
