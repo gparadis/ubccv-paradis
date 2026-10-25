@@ -636,6 +636,7 @@ I have engaged in a range of service activities, both within UBC and in the broa
 | Role | Description | Date |
 | --- | --- | --- |
 | Interview | [Émission spéciale : élections provinciales en Colombie-Britannique](https://ici.radio-canada.ca/info/videos/18-1282862/elections-cb-provinciales-resultats-ministre?liste=28-34803) Radio-Canada (Café électoral) | 2026/10/24 |
+| Article | [FHOPS provides a reproducible benchmark for forest harvest scheduling](https://bioengineer.org/fhops-provides-a-reproducible-benchmark-for-forest-harvest-scheduling/) Bioengineer.org | 2026/10/22 |
 | Interview | [Bulletin du 16 octobre - 15 h 00](https://ici.radio-canada.ca/ohdio/premiere/emissions/bulletin-regional-cjbc-toronto/episodes/1219421/bulletin-du-16-octobre-15-h-00) Radio-Canada (Bulletin régional Toronto) | 2026/10/16 |
 | Interview | [Les tarifs sur le bois d’œuvre canadien baissent](https://ici.radio-canada.ca/nouvelle/2293088/tarif-bois-oeuvre-resineux-trump) Radio-Canada | 2026/10/15 |
 | Interview | [Bulletin du 15 octobre - 22 h 00](https://ici.radio-canada.ca/ohdio/premiere/emissions/bulletinreseau/episodes/1236814/bulletin-du-15-octobre-22-h-00) Radio-Canada (Bulletin réseau) | 2026/10/15 |
