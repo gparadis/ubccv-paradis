@@ -2,7 +2,7 @@
 
 **Curriculum Vitae for Faculty Members**
 
-**Date**: October 2026 · **Initials**: GEP
+**Date**: November 2026 · **Initials**: GEP
 
 ## 1. SURNAME
 
@@ -479,6 +479,7 @@ I have engaged in a range of service activities, both within UBC and in the broa
 
 ### (d) Other service, including dates
 
+- Chair, Examination Committee, MSc defense (Sergio Alonso Sanchez), 2026/11/20
 - FRST 452. Volunteer guest instructor for the entire 7-day Coastal Field School course at Malkolm Knapp Research Forest, 2026/04
 - Led initial appointment of Dr. Robert Hember to the role of Adjunct Professor (FRM department), 2026/04
 - Led renewal of Dr. Ceres Barros appointment to the role of Adjunct Professor (FRM department), 2026/04
@@ -546,6 +547,9 @@ I have engaged in a range of service activities, both within UBC and in the broa
 | Role | Journal or Organization | Date |
 | --- | --- | --- |
 | 2026 |  |  |
+| Manuscript Reviewer | International Journal of Data Science and Analytics | 2026/11/16 |
+| Manuscript Reviewer | Environmental Modelling and Software | 2026/11/16 |
+| Grant Proposal Reviewer (MRNF Axe 1 expert committee) | Fonds de recherche du Québec - secteur Nature et technologies | 2026/11/12 |
 | Manuscript Reviewer | INFORMS Journal on Applied Analytics | 2026/10 |
 | Manuscript Reviewer | Environmental Modelling and Software | 2026/09 |
 | Manuscript Reviewer | International Transactions in Operational Research | 2026/09 |
@@ -635,6 +639,7 @@ I have engaged in a range of service activities, both within UBC and in the broa
 
 | Role | Description | Date |
 | --- | --- | --- |
+| Interview | [Répercussions du budget fédéral sur le secteur forestier : Grégory Paradis](https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2524717/repercussions-budget-federal-sur-secteur-forestier-gregory-paradis) Radio-Canada (Phare Ouest) | 2026/11/09 |
 | Interview | [Émission spéciale : élections provinciales en Colombie-Britannique](https://ici.radio-canada.ca/info/videos/18-1282862/elections-cb-provinciales-resultats-ministre?liste=28-34803) Radio-Canada (Café électoral) | 2026/10/24 |
 | Article | [FHOPS provides a reproducible benchmark for forest harvest scheduling](https://bioengineer.org/fhops-provides-a-reproducible-benchmark-for-forest-harvest-scheduling/) Bioengineer.org | 2026/10/22 |
 | Interview | [Bulletin du 16 octobre - 15 h 00](https://ici.radio-canada.ca/ohdio/premiere/emissions/bulletin-regional-cjbc-toronto/episodes/1219421/bulletin-du-16-octobre-15-h-00) Radio-Canada (Bulletin régional Toronto) | 2026/10/16 |
@@ -812,7 +817,7 @@ In summary, my strategic investment in diverse partnerships over the past three 
 **Publications Record**
 
 **SURNAME**: Paradis · **FIRST NAME**: Gregory · **Initials**: GEP  
-**MIDDLE NAME(S)**: Eric · **Date**: October 2026
+**MIDDLE NAME(S)**: Eric · **Date**: November 2026
 
 Symbol key: `^` highly qualified personnel (HQP).
 

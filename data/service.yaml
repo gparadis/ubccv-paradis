@@ -21,6 +21,7 @@ university:
     - Member, GTA Award Adjudication Committee (UBC Faculty of Forestry), 2022/01–2022/03
     - Member, Planning for Fall Ad hoc Committee (UBC Faculty of Forestry), 2020/06–2020/12
   other:
+    - Chair, Examination Committee, MSc defense (Sergio Alonso Sanchez), 2026/11/20
     - FRST 452. Volunteer guest instructor for the entire 7-day Coastal Field School course at Malkolm
       Knapp Research Forest, 2026/04
     - Led initial appointment of Dr. Robert Hember to the role of Adjunct Professor (FRM department),
@@ -92,6 +93,15 @@ community:
       2013–2016'
   reviewer:
     - role: '2026'
+    - role: Manuscript Reviewer
+      venue: International Journal of Data Science and Analytics
+      date: 2026/11/16
+    - role: Manuscript Reviewer
+      venue: Environmental Modelling and Software
+      date: 2026/11/16
+    - role: Grant Proposal Reviewer (MRNF Axe 1 expert committee)
+      venue: Fonds de recherche du Québec - secteur Nature et technologies
+      date: 2026/11/12
     - role: Manuscript Reviewer
       venue: INFORMS Journal on Applied Analytics
       date: 2026/10
@@ -267,6 +277,11 @@ community:
   other:
     - Volunteer, Green Streets Program, City of Vancouver, 2017–2023
   popular_media:
+    - role: Interview
+      description: |-
+        [Répercussions du budget fédéral sur le secteur forestier : Grégory Paradis](https://ici.radio-canada.ca/ohdio/premiere/emissions/phare-ouest/segments/rattrapage/2524717/repercussions-budget-federal-sur-secteur-forestier-gregory-paradis)
+        Radio-Canada (Phare Ouest)
+      date: 2026/11/09
     - role: Interview
       description: |-
         [Émission spéciale : élections provinciales en Colombie-Britannique](https://ici.radio-canada.ca/info/videos/18-1282862/elections-cb-provinciales-resultats-ministre?liste=28-34803)
