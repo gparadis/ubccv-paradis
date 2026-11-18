@@ -174,6 +174,7 @@ Introduction to sustainable forest management concepts, applied to a British Col
 
 | Workshop Title | Host | Role | Date | Hours |
 | --- | --- | --- | --- | --- |
+| BPI Connect 2026 | UBC BPI | MC | 2026/12/04 | 4.0 |
 | Nature-Based Solutions in Mining: Using Decision Support Systems to Guide Action | UBC BRIMM | Co-organizer and Presenter | 2026/05/27 | 1.0 |
 | Carbon Offset Workshop (working title) | UBC | Co-facilitator | 2026/05/04 | 8.0 |
 | BPI Research Day 2026 | UBC BPI | MC | 2026/05/01 | 4.0 |
@@ -243,6 +244,7 @@ Introduction to sustainable forest management concepts, applied to a British Col
 
 | University | Course | Topic | Date | Hours |
 | --- | --- | --- | --- | --- |
+| UBC | Landscape Level Forest Modeling Micro-Certificate | Ask An Expert: Forest Estate Modelling | 2026/11/19 | 1.0 |
 | UBC | FRST XXX | Sustainable Futures | 2025/11/18 | 2.0 |
 | UBC | FRST 422 | Ask An Expert: Forest Estate Modelling | 2025/11/15 | 1.0 |
 | UBC | FRST 423 | Lecture: Modelling and Forest Management—Linkages to Carbon Flows and the Bioeconomy | 2025/03/xx | 1.0 |
@@ -365,6 +367,7 @@ My research focuses on forest management problems, applying operations research 
 
 Symbol key: `*` presenting author; `^` highly qualified personnel (HQP)
 
+57\. **Paradis, G.**<sup>*</sup> (2026). *The Map Is the Model: Projecting Open Data into Time, Space, and Solution Space*. 2026 UBC GIS Day. Vancouver, BC.  
 56\. **Ghasemi, E.**<sup>*</sup><sup>^</sup> and **Paradis, G.** (2025). *Nature-based decarbonization opportunities for the mining and forest sectors*. CORS 2025, Edmonton.  
 55\. Abougharib, A.<sup>*</sup>, Weisner, F., Naser, M.Z. and **Paradis, G.** (2024). *Explainable Data-Driven Modelling of Engineered Mass Timber Under Non-Standard Fires*. ITB Summer School.  
 54\. **Paradis, G.**<sup>*</sup> (2024). *Integrated modelling of strategic forest management and industrial capacity planning for a more resilient and sustainable forest sector*. XXVI IUFRO World Congress. Stockholm, Sweden.  
@@ -546,10 +549,11 @@ I have engaged in a range of service activities, both within UBC and in the broa
 
 | Role | Journal or Organization | Date |
 | --- | --- | --- |
+| 2027 |  |  |
+| Grant Proposal Reviewer (MRNF Axe 1 expert committee) | Fonds de recherche du Québec - secteur Nature et technologies | 2027/03 |
 | 2026 |  |  |
 | Manuscript Reviewer | International Journal of Data Science and Analytics | 2026/11/16 |
 | Manuscript Reviewer | Environmental Modelling and Software | 2026/11/16 |
-| Grant Proposal Reviewer (MRNF Axe 1 expert committee) | Fonds de recherche du Québec - secteur Nature et technologies | 2026/11/12 |
 | Manuscript Reviewer | INFORMS Journal on Applied Analytics | 2026/10 |
 | Manuscript Reviewer | Environmental Modelling and Software | 2026/09 |
 | Manuscript Reviewer | International Transactions in Operational Research | 2026/09 |
@@ -566,7 +570,7 @@ I have engaged in a range of service activities, both within UBC and in the broa
 | External Expert Reviewer (Quantification Methodology for GHG Impacts from Silviculture Investments<br>in BC) | BC Ministry of Forests | 2025/09 |
 | Manuscript Reviewer | Forestry: An International Journal of Forest Research | 2025/09 |
 | Manuscript Reviewer | Canadian Journal of Forest Research | 2025/08 |
-| Grant Proposal Reviewer | Fonds de recherche du Québec - secteur Nature et technologies | 2024/12 |
+| External Grant Proposal Reviewer | Fonds de recherche du Québec - secteur Nature et technologies | 2025 |
 | Manuscript Reviewer | Springer Nature | 2025/02 |
 | Manuscript Reviewer | Climate Change | 2025/01 |
 | 2024 |  |  |

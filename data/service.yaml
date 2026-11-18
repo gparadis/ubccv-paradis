@@ -92,6 +92,10 @@ community:
     - 'Guest Editor, INFOR: Information Systems and Operational Research, Special Issue on Forestry Applications,
       2013–2016'
   reviewer:
+    - role: '2027'
+    - role: Grant Proposal Reviewer (MRNF Axe 1 expert committee)
+      venue: Fonds de recherche du Québec - secteur Nature et technologies
+      date: 2027/03
     - role: '2026'
     - role: Manuscript Reviewer
       venue: International Journal of Data Science and Analytics
@@ -99,9 +103,6 @@ community:
     - role: Manuscript Reviewer
       venue: Environmental Modelling and Software
       date: 2026/11/16
-    - role: Grant Proposal Reviewer (MRNF Axe 1 expert committee)
-      venue: Fonds de recherche du Québec - secteur Nature et technologies
-      date: 2026/11/12
     - role: Manuscript Reviewer
       venue: INFORMS Journal on Applied Analytics
       date: 2026/10
@@ -149,9 +150,9 @@ community:
     - role: Manuscript Reviewer
       venue: Canadian Journal of Forest Research
       date: 2025/08
-    - role: Grant Proposal Reviewer
+    - role: External Grant Proposal Reviewer
       venue: Fonds de recherche du Québec - secteur Nature et technologies
-      date: 2024/12
+      date: 2025
     - role: Manuscript Reviewer
       venue: Springer Nature
       date: 2025/02

@@ -285,6 +285,11 @@ graduate_program_supervision:
         role: Committee member
 continuing_education:
   developed_and_presented:
+    - title: BPI Connect 2026
+      host: UBC BPI
+      role: MC
+      date: 2026/12/04
+      hours: '4.0'
     - title: 'Nature-Based Solutions in Mining: Using Decision Support Systems to Guide Action'
       host: UBC BRIMM
       role: Co-organizer and Presenter
@@ -546,6 +551,11 @@ continuing_education:
       date: 2017/08/31
       hours: '2.0'
 visiting_lecturer:
+  - university: UBC
+    course: Landscape Level Forest Modeling Micro-Certificate
+    topic: 'Ask An Expert: Forest Estate Modelling'
+    date: 2026/11/19
+    hours: '1.0'
   - university: UBC
     course: FRST XXX
     topic: Sustainable Futures
