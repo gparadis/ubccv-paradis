@@ -551,6 +551,8 @@ I have engaged in a range of service activities, both within UBC and in the broa
 | --- | --- | --- |
 | 2027 |  |  |
 | Grant Proposal Reviewer (MRNF Axe 1 expert committee) | Fonds de recherche du Québec - secteur Nature et technologies | 2027/03 |
+| Grant Proposal Reviewer (Discovery grant program) | NSERC | 2027/01 |
+| Grant Proposal Reviewer (Discovery grant program) | NSERC | 2027/01 |
 | 2026 |  |  |
 | Manuscript Reviewer | International Journal of Data Science and Analytics | 2026/11/16 |
 | Manuscript Reviewer | Environmental Modelling and Software | 2026/11/16 |
